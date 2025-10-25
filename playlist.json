@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU BOWED DOWN",
-        "artist": "Frank Josephs Group"
+        "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "YOU BOWED DOWN",
+            "artist": "Frank Josephs Group"
+        },
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "THE CLOSER I GET TO YOU",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "RAINY NIGHT IN GEORGIA",
-            "artist": "Devlin's Strings"
         }
     ]
 }
