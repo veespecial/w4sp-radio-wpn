@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHERE IS THE LOVE",
-        "artist": "Tom Kellock"
+        "title": "I SOLD MY HEART TO THE JUNKMAN",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "WHERE IS THE LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "QUEEN OF HEARTS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "EVERY BEAT OF MY HEART",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
