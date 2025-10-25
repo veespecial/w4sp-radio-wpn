@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DA DA",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "PROMISE AIN\u2019T ENOUGH",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "DA DA",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "CHAIN LIGHTNING",
             "artist": "Tom Politzer 93"
@@ -39,10 +43,6 @@
         {
             "title": "JUST THE TWO OF US",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "SWAY",
-            "artist": "Harley"
         }
     ]
 }
