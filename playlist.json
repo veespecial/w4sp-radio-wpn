@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Every Kinda People",
-        "artist": "Harley Bros."
+        "title": "YOU BOWED DOWN",
+        "artist": "Frank Josephs Group"
     },
     "recent": [
+        {
+            "title": "Every Kinda People",
+            "artist": "Harley Bros."
+        },
         {
             "title": "WEST AGAIN",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "RAINY NIGHT IN GEORGIA",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "IT'S NOT HARD TO LOVE YOU",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
