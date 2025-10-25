@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LA-LA MEANS I LOVE YOU",
-        "artist": "Andy Suzuki"
+        "title": "LONELY TOO LONG",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "LA-LA MEANS I LOVE YOU",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "I HEARD IT THROUGH THE GRAPEVINE",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "YOU BOWED DOWN",
             "artist": "Frank Josephs Group"
-        },
-        {
-            "title": "Every Kinda People",
-            "artist": "Harley Bros."
         }
     ]
 }
