@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
-        "artist": "Tom Kellock"
+        "title": "FOR ELFI",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "YOU BOWED DOWN",
             "artist": "Frank Josephs Group"
@@ -39,10 +43,6 @@
         {
             "title": "Do It Again",
             "artist": "Harley Music"
-        },
-        {
-            "title": "THE CLOSER I GET TO YOU",
-            "artist": "Nick Manson"
         }
     ]
 }
