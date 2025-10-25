@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IN WONDER",
-        "artist": "Govi"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "IN WONDER",
+            "artist": "Govi"
+        },
         {
             "title": "Killing Me",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Cloud Number Nine",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "SLOW JAMS",
-            "artist": "Andy Suzuki"
         }
     ]
 }
