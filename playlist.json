@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MY HEART IS CALLING",
-        "artist": "Daniel Ho"
+        "title": "SOUL SHADOWS",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "MY HEART IS CALLING",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Cloud Number Nine",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "Louise",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "PROMISE AIN\u2019T ENOUGH",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
