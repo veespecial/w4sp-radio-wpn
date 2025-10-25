@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MY HEART IS CALLING",
-        "artist": "Daniel Ho"
+        "title": "MORE THAN THIS",
+        "artist": "Disk Eyes S.F."
     },
     "recent": [
+        {
+            "title": "MY HEART IS CALLING",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "CHAIN LIGHTNING",
             "artist": "Tom Politzer 93"
@@ -39,10 +43,6 @@
         {
             "title": "BECAUSE YOU LOVED ME",
             "artist": "North Point"
-        },
-        {
-            "title": "Indo",
-            "artist": "Ray Kelley"
         }
     ]
 }
