@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWAY",
-        "artist": "Harley"
+        "title": "JUST THE TWO OF US",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "SWAY",
+            "artist": "Harley"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "Cloud Number Nine",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "Terpsichore",
-            "artist": "Dave Keenan"
         }
     ]
 }
