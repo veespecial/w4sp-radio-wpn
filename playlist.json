@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Do It Again",
-        "artist": "Harley Music"
+        "title": "NEPTUNE",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "Do It Again",
+            "artist": "Harley Music"
+        },
         {
             "title": "THE CLOSER I GET TO YOU",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "ANOTHER SAD LOVE SONG",
             "artist": "Mike Jaap"
-        },
-        {
-            "title": "NEVER CAN SAY GOODBYE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
