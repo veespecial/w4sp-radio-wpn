@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SILVER SPRINGS",
-        "artist": "Harley Brothers"
+        "title": "SWEET CLAIRE",
+        "artist": "Michael Strickland"
     },
     "recent": [
+        {
+            "title": "SILVER SPRINGS",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "JUST THE TWO OF US",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "LITTLE MORE TIME WITH YOU",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "DESAFINADO",
-            "artist": "BRAD ALLISON"
         }
     ]
 }
