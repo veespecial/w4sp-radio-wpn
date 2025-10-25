@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "QUEEN OF MY SOUL",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "BROWN EYED GIRL",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "QUEEN OF MY SOUL",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "I Only Have Eyes for You",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "DON'T DREAM IT'S OVER",
-            "artist": "Andre Mayeux"
         }
     ]
 }
