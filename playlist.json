@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WEST AGAIN",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Every Kinda People",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "WEST AGAIN",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "MONKEY IN YOUR SOUL",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "IT'S NOT HARD TO LOVE YOU",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "DESAFINADO",
-            "artist": "BRAD ALLISON"
         }
     ]
 }
