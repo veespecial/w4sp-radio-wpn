@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MONKEY IN YOUR SOUL",
-        "artist": "FRISCO PILEDRIVERS"
+        "title": "WEST AGAIN",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "MONKEY IN YOUR SOUL",
+            "artist": "FRISCO PILEDRIVERS"
+        },
         {
             "title": "HOW MUCH I FEEL",
             "artist": "CAMERON"
@@ -39,10 +43,6 @@
         {
             "title": "DESAFINADO",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "FOR ONCE IN MY LIFE",
-            "artist": "Josephs Band"
         }
     ]
 }
