@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR ONCE IN MY LIFE",
-        "artist": "Josephs Band"
+        "title": "DESAFINADO",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "FOR ONCE IN MY LIFE",
+            "artist": "Josephs Band"
+        },
         {
             "title": "MORE THAN THIS",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "SLEEPING CAT DANCE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "How Sweet it is",
-            "artist": "Harley Music"
         }
     ]
 }
