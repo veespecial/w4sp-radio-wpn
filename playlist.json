@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Cloud Number Nine",
-        "artist": "Frank Josephs"
+        "title": "DESAFINADO",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "Cloud Number Nine",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
-        },
-        {
-            "title": "LONELY TOO LONG",
-            "artist": "South Point"
         }
     ]
 }
