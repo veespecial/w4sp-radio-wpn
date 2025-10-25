@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAVING ALL MY LOVE FOR YOU",
-        "artist": "NORTHPOINT"
+        "title": "Paramour",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "SAVING ALL MY LOVE FOR YOU",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "DELIVER ME FROM MY MIND",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "TO LOVE YOU MORE",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "TEARS FROM THE SUN",
-            "artist": "PASERO/SUZUKI-HAWAII"
         }
     ]
 }
