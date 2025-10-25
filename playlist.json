@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I CAN LOVE YOU LIKE THAT",
-        "artist": "TOMMY/BRIAN"
+        "title": "Terpsichore",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "I CAN LOVE YOU LIKE THAT",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "EVERY BEAT OF MY HEART",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "LA-LA MEANS I LOVE YOU",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "I HEARD IT THROUGH THE GRAPEVINE",
-            "artist": "It's Lenny Moore"
         }
     ]
 }
