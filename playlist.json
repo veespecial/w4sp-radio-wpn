@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T DREAM IT'S OVER",
-        "artist": "Andre Mayeux"
+        "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
+        "artist": "Disk Eyes S.F."
     },
     "recent": [
+        {
+            "title": "DON'T DREAM IT'S OVER",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "Wonderful Tonight",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "I GOTTA RUN",
-            "artist": "John Morton"
         }
     ]
 }
