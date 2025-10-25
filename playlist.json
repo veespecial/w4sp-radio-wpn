@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MORE THAN THIS",
-        "artist": "Disk Eyes S.F."
+        "title": "Fast Car",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "MORE THAN THIS",
+            "artist": "Disk Eyes S.F."
+        },
         {
             "title": "NEW KID AROUND",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "WINDLESS",
             "artist": "Michael Strickland"
-        },
-        {
-            "title": "KEEP ON PUSHING LOVE",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
