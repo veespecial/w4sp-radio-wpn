@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STARDUST",
-        "artist": "LENNY MOORE"
+        "title": "CLOUDY",
+        "artist": "NORTHPOINT"
     },
     "recent": [
+        {
+            "title": "STARDUST",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "IN A DAYDREAM",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "SLEEPING CAT DANCE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "I Only Have Eyes for You",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
