@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TROPIC OF CAPRICORN",
-        "artist": "South Point"
+        "title": "DON'T GO BREAKIN MY HEART",
+        "artist": "Devlin\u2019s Strings"
     },
     "recent": [
+        {
+            "title": "TROPIC OF CAPRICORN",
+            "artist": "South Point"
+        },
         {
             "title": "BODY AND SOUL",
             "artist": "DAVE DYSART"
@@ -39,10 +43,6 @@
         {
             "title": "EARTH ANGERL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "GIMME LITTLE SIGN",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
