@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT'S NEW",
-        "artist": "MANSON STRINGS"
+        "title": "JUST ONE WORD",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "WHAT'S NEW",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "STONED SOUL PICNIC",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "GOT TO GIVE IT UP",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "Walton On Thames",
-            "artist": "Jerry Cortez"
         }
     ]
 }
