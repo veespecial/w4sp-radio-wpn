@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Help Me",
-        "artist": "Harley Music"
+        "title": "CHEHALIS",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "Help Me",
+            "artist": "Harley Music"
+        },
         {
             "title": "Changes",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "RUNAWAY",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
