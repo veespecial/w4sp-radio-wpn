@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DESTINY",
-        "artist": "Nick Manson"
+        "title": "Reflection",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "DESTINY",
+            "artist": "Nick Manson"
+        },
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
@@ -39,10 +43,6 @@
         {
             "title": "ALIEN",
             "artist": "Funtastic"
-        },
-        {
-            "title": "DESAFINADO",
-            "artist": "BRAD ALLISON"
         }
     ]
 }
