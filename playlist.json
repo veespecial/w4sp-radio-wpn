@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "KRISTIANA",
-        "artist": "Jerry Cortez"
+        "title": "I CAN DREAM ABOUT YOU",
+        "artist": "CURTIS BRENGLE"
     },
     "recent": [
+        {
+            "title": "KRISTIANA",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "Jo Jo",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "You are the Sunshine of My Life",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Ain't Nothing Like the Real Thing",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
