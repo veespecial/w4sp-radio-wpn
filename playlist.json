@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T DREAM IT'S OVER",
-        "artist": "Andre Mayeux"
+        "title": "GOOD LIFE",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "DON'T DREAM IT'S OVER",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "IN WONDER",
             "artist": "Govi"
@@ -39,10 +43,6 @@
         {
             "title": "BACK STABBERS",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "TORN",
-            "artist": "Harley Music"
         }
     ]
 }
