@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU DON'T KNOW ME",
-        "artist": "Manasus Strings"
+        "title": "One on One",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "YOU DON'T KNOW ME",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "Harvest for the World",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "IN A DAYDREAM",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "BEWILDERED",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
