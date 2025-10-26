@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOUL SHADOWS",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "SUMMER WIND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "SOUL SHADOWS",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "IN WONDER",
             "artist": "Govi"
@@ -39,10 +43,6 @@
         {
             "title": "BAD REPUTATION",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "ORDINARY WORLD",
-            "artist": "Devlin's Strings"
         }
     ]
 }
