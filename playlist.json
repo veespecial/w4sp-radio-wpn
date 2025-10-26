@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL I WANNA DO",
-        "artist": "Harley"
+        "title": "BABYLON SISTERS",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "ALL I WANNA DO",
+            "artist": "Harley"
+        },
         {
             "title": "MIRACLES",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "DON'T GO BREAKIN MY HEART",
-            "artist": "Devlin\u2019s Strings"
         }
     ]
 }
