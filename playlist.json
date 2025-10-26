@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WANT TO THANK YOU",
-        "artist": "MANASUS MUSIC"
+        "title": "(WILL YOU) COME BACK MY LOVE",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "I WANT TO THANK YOU",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "ALIEN",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "STONED SOUL PICNIC",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
-            "artist": "CAMERON"
         }
     ]
 }
