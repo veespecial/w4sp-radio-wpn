@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEVER CAN SAY GOODBYE",
-        "artist": "MOORE and BRENGLE"
+        "title": "TROPIC OF CAPRICORN",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "NEVER CAN SAY GOODBYE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "ALL I\u2019VE GOT TO DO",
             "artist": "Flyin\u2019 Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "LITTLE MORE TIME WITH YOU",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
-            "artist": "CAMERON"
         }
     ]
 }
