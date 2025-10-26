@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Turn Turn Turn",
-        "artist": "John Morton"
+        "title": "ORDINARY WORLD",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "Turn Turn Turn",
+            "artist": "John Morton"
+        },
         {
             "title": "I CAN DREAM ABOUT YOU",
             "artist": "CURTIS BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "STAY (I MISSED YOU)",
-            "artist": "Moro-Eden"
         }
     ]
 }
