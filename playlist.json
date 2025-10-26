@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOT SAUCE",
-        "artist": "Eric Tingstad"
+        "title": "YOUR PRECIOUS LOVE",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "HOT SAUCE",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "JULIA",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "WINDLESS",
             "artist": "Michael Strickland"
-        },
-        {
-            "title": "LIVELY UP YOURSELF",
-            "artist": "Tom Politzer"
         }
     ]
 }
