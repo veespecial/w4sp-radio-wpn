@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ROSE IN THE VINE",
-        "artist": "Harley"
+        "title": "BREAKFAST AT TIFFANY'S",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "ROSE IN THE VINE",
+            "artist": "Harley"
+        },
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "BACK STABBERS",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "Harvest for the World",
-            "artist": "Harley Brothers"
         }
     ]
 }
