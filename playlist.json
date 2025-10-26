@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "KRISTIANA",
-        "artist": "Jerry Cortez"
+        "title": "TROLLY CAR",
+        "artist": "Jennifer Ivester"
     },
     "recent": [
+        {
+            "title": "KRISTIANA",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "WELCOME TO MY WORLD",
             "artist": "Kevin Madill-Nashville"
@@ -39,10 +43,6 @@
         {
             "title": "(WILL YOU) COME BACK MY LOVE",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "SHAKE AND BAKE",
-            "artist": "Newhall Collective"
         }
     ]
 }
