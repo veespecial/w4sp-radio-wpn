@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE STRANGER",
-        "artist": "North Point"
+        "title": "CHAIN LIGHTNING",
+        "artist": "Tom Politzer 93"
     },
     "recent": [
+        {
+            "title": "THE STRANGER",
+            "artist": "North Point"
+        },
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "Reflection",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
