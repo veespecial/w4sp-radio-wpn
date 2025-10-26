@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STARDUST",
-        "artist": "LENNY MOORE"
+        "title": "SWEET CLAIRE",
+        "artist": "Michael Strickland"
     },
     "recent": [
+        {
+            "title": "STARDUST",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIK"
@@ -39,10 +43,6 @@
         {
             "title": "WE'RE GONNA MAKE IT",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "Claudette",
-            "artist": "Disk Eyes London"
         }
     ]
 }
