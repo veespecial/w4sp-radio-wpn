@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STUBBORN KIND OF FELLOW",
-        "artist": "Crescenta Valley Boys"
+        "title": "YOUR PRECIOUS LOVE",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "STUBBORN KIND OF FELLOW",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "SWEET CLAIRE",
             "artist": "Michael Strickland"
@@ -39,10 +43,6 @@
         {
             "title": "FOR ONCE IN MY LIFE",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "BECAUSE YOU LOVED ME",
-            "artist": "North Point"
         }
     ]
 }
