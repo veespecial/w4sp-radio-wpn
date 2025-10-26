@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fool on the Hill",
-        "artist": "Los Devlin Strings"
+        "title": "MIRACLES",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "Fool on the Hill",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "QUIEREME MUCHO",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "TROPIC OF CAPRICORN",
             "artist": "South Point"
-        },
-        {
-            "title": "BODY AND SOUL",
-            "artist": "DAVE DYSART"
         }
     ]
 }
