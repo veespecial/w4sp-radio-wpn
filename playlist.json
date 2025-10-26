@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Go Crazy",
-        "artist": "David Patt"
+        "title": "WILD AND FREE",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "I Go Crazy",
+            "artist": "David Patt"
+        },
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "MAGNOLIA",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "Sun King",
-            "artist": "San Francisco"
         }
     ]
 }
