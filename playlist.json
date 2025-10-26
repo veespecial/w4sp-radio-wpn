@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GREEN FLOWER STREET",
-        "artist": "Funtastic"
+        "title": "RUNAWAY",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "GREEN FLOWER STREET",
+            "artist": "Funtastic"
+        },
         {
             "title": "WHEN SUNNY GETS BLUE",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "MERCY MERCY ME",
-            "artist": "Tom Kellock"
         }
     ]
 }
