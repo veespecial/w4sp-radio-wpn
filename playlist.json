@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tempted",
-        "artist": "Harley Bros."
+        "title": "ORDINARY WORLD",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "Tempted",
+            "artist": "Harley Bros."
+        },
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "NEPTUNE",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "CAN I CHANGE MY MIND",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
