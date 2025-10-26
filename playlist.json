@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I SOLD MY HEART TO THE JUNKMAN",
-        "artist": "Jim Devlin"
+        "title": "ONCE AND FUTURE",
+        "artist": "Newhall Collective"
     },
     "recent": [
+        {
+            "title": "I SOLD MY HEART TO THE JUNKMAN",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "You Make Lovin' Fun",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
-        },
-        {
-            "title": "Turn Turn Turn",
-            "artist": "John Morton"
         }
     ]
 }
