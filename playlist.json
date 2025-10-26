@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHERE IS THE LOVE",
-        "artist": "Tom Kellock"
+        "title": "Kiss Me",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "WHERE IS THE LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "HEY GIRL",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "GIVING YOU THE BEST THAT I GOT",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "SAD SONGS SAY SO MUCH",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
