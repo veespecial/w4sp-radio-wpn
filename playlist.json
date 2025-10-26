@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Love Of My Life",
-        "artist": "Andre Mayeux"
+        "title": "You're the Best Thing",
+        "artist": "DAVE PATT"
     },
     "recent": [
+        {
+            "title": "Love Of My Life",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "I WILL",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "WHAT'S NEW",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "I TURN TO YOU",
-            "artist": "Daniel Ho"
         }
     ]
 }
