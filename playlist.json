@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Ever Changing Moods",
-        "artist": "Jim Devlin"
+        "title": "TEARS FROM THE SUN",
+        "artist": "PASERO/SUZUKI-HAWAII"
     },
     "recent": [
+        {
+            "title": "My Ever Changing Moods",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "EVERY BEAT OF MY HEART",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "DREAMBOAT ANNIE",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
