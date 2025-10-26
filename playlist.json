@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUNG ENOUGH TO KNOW",
-        "artist": "Andy Suzuki"
+        "title": "My Ever Changing Moods",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "YOUNG ENOUGH TO KNOW",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "Walton On Thames",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "THE WARMTH OF THE SUN",
-            "artist": "MANUSUS/KEEFER"
         }
     ]
 }
