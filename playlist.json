@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Make it With You",
-        "artist": "Daniel Ho"
+        "title": "SOMETIME BRAZIL",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "Make it With You",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "YOU DON'T KNOW ME",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "I Only Have Eyes for You",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "One on One",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
