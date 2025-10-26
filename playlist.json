@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Long Ago",
-        "artist": "Dave Keenan"
+        "title": "HALF A MINUTE",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "Long Ago",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "Tears In Heaven",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
