@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOOD LIFE",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "APPALACHIA CALLING",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "GOOD LIFE",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "DON'T DREAM IT'S OVER",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "DIXIE MOON",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "BACK STABBERS",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
