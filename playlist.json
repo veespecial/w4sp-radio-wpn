@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CLOUDY",
-        "artist": "NORTHPOINT"
+        "title": "BAD SNEAKERS",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "CLOUDY",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T DREAM IT'S OVER",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "IN WONDER",
-            "artist": "Govi"
         }
     ]
 }
