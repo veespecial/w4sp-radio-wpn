@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIRL WITH A RED CARNATION",
-        "artist": "Acoustic Alchemy"
+        "title": "WHENEVER YOU'RE ON MY MIND",
+        "artist": "Clair Marlo"
     },
     "recent": [
+        {
+            "title": "GIRL WITH A RED CARNATION",
+            "artist": "Acoustic Alchemy"
+        },
         {
             "title": "I THINK I\u2019LL TELL HIM",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "COME FLY WITH ME",
             "artist": "Harley"
-        },
-        {
-            "title": "COME RAIN OR COME SHINE",
-            "artist": "It\u2019s Lenny Moore"
         }
     ]
 }
