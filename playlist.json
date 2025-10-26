@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOMEWHERE IN THE WORLD",
-        "artist": "David Patt"
+        "title": "YOU ARE EVERYTHING",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "SOMEWHERE IN THE WORLD",
+            "artist": "David Patt"
+        },
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
@@ -39,10 +43,6 @@
         {
             "title": "Changes",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "After the Love Has Gone",
-            "artist": "Harley Music"
         }
     ]
 }
