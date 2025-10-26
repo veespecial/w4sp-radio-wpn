@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Are My Destiny",
-        "artist": "Los Devlin Strings"
+        "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "You Are My Destiny",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "DON'T LOOK BACK",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "KRISTIANA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "WELCOME TO MY WORLD",
-            "artist": "Kevin Madill-Nashville"
         }
     ]
 }
