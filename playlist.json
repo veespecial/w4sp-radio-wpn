@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "(WILL YOU) COME BACK MY LOVE",
-        "artist": "JOHN GOFORTH"
+        "title": "IT'S ALL ABOUT YOU",
+        "artist": "FUNTASTIK"
     },
     "recent": [
+        {
+            "title": "(WILL YOU) COME BACK MY LOVE",
+            "artist": "JOHN GOFORTH"
+        },
         {
             "title": "I WANT TO THANK YOU",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "WHAT'S NEW",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "STONED SOUL PICNIC",
-            "artist": "Daniel Ho"
         }
     ]
 }
