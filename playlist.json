@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ONCE AND FUTURE",
-        "artist": "Newhall Collective"
+        "title": "SOMEWHERE IN THE WORLD",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "ONCE AND FUTURE",
+            "artist": "Newhall Collective"
+        },
         {
             "title": "FOR ONCE IN MY LIFE",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "After the Love Has Gone",
             "artist": "Harley Music"
-        },
-        {
-            "title": "WILD AND FREE",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
