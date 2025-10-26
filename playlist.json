@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Make it With You",
-        "artist": "Daniel Ho"
+        "title": "DROWNING IN YOUR TEARS",
+        "artist": "FUNTASTIK"
     },
     "recent": [
+        {
+            "title": "Make it With You",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Beyond the Sea",
             "artist": "Disk Eyes London"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "SAN TROPEZ",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
