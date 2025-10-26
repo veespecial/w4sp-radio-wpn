@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
-        "artist": "Tom Kellock"
+        "title": "GOIN OUT OF MY HEAD",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "Tears In Heaven",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "CAN WE TALK",
-            "artist": "South Point"
         }
     ]
 }
