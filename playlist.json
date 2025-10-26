@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Day Dreaming",
-        "artist": "Harley Bros."
+        "title": "THANK YOU",
+        "artist": "Disk Eyes S.F."
     },
     "recent": [
+        {
+            "title": "Day Dreaming",
+            "artist": "Harley Bros."
+        },
         {
             "title": "DIXIE MOON",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "MIDNIGHT TRAIN TO GEORGIA",
-            "artist": "Daniel Ho"
         }
     ]
 }
