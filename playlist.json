@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DREAMBOAT ANNIE",
-        "artist": "CHAD STONE BAND"
+        "title": "Poor Side Of Town",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "DREAMBOAT ANNIE",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "SUNNY CAME HOME",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "IT MAKES ME CRAZY",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "WHERE IS THE LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
