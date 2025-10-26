@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOME ENCHANTED EVENING",
-        "artist": "Manasus Strings"
+        "title": "You Are My Destiny",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "SOME ENCHANTED EVENING",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "SHAKE AND BAKE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "MAGNOLIA",
-            "artist": "Eric Tingstad"
         }
     ]
 }
