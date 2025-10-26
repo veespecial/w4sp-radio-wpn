@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SMOOTH OPERATOR",
-        "artist": "Josephs Band"
+        "title": "FAIR TOMORROW",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "SMOOTH OPERATOR",
+            "artist": "Josephs Band"
+        },
         {
             "title": "SOMETIME BRAZIL",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "RAINY NIGHT IN GEORGIA",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "BABYLON SISTERS",
-            "artist": "Tom Politzer"
         }
     ]
 }
