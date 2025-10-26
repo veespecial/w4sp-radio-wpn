@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON\u2019T ASK MY NEIGHBOR",
-        "artist": "STRINGS BY ANDY"
+        "title": "HEY GIRL",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "DON\u2019T ASK MY NEIGHBOR",
+            "artist": "STRINGS BY ANDY"
+        },
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIK"
@@ -39,10 +43,6 @@
         {
             "title": "AIN'T MISBEHAVIN",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "HIGHER AND HIGHER",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
