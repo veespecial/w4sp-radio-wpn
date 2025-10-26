@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIVELY UP YOURSELF",
-        "artist": "Tom Politzer"
+        "title": "WINDLESS",
+        "artist": "Michael Strickland"
     },
     "recent": [
+        {
+            "title": "LIVELY UP YOURSELF",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "After the Love Has Gone",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "You Are My Destiny",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
