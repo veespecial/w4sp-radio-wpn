@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SUNNY CAME HOME",
-        "artist": "MOORE and BRENGLE"
+        "title": "DINDI",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "SUNNY CAME HOME",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "SLEEPING CAT DANCE",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "SOMETHING THAT WE DO",
-            "artist": "Harley Music"
         }
     ]
 }
