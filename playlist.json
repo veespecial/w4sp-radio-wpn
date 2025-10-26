@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THANK YOU",
-        "artist": "Disk Eyes S.F."
+        "title": "Fast Car",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "THANK YOU",
+            "artist": "Disk Eyes S.F."
+        },
         {
             "title": "Day Dreaming",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Beyond the Sea",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
-            "artist": "JOHN GOFORTH"
         }
     ]
 }
