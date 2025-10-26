@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEAVEN",
-        "artist": "North Point"
+        "title": "Terpsichore",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "HEAVEN",
+            "artist": "North Point"
+        },
         {
             "title": "WHEN SUNNY GETS BLUE",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "STUBBORN KIND OF FELLOW",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "SWEET CLAIRE",
-            "artist": "Michael Strickland"
         }
     ]
 }
