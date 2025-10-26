@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tears In Heaven",
-        "artist": "Crescenta Valley Boys"
+        "title": "ALIEN",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "Tears In Heaven",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "Unbreak My Heart",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "IN WONDER",
             "artist": "Govi"
-        },
-        {
-            "title": "Killing Me",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
