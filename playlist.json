@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT'S NEW",
-        "artist": "MANSON STRINGS"
+        "title": "Nobody Does It Better",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "WHAT'S NEW",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "I TURN TO YOU",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "EVERY BEAT OF MY HEART",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "BODY AND SOUL",
-            "artist": "DAVE DYSART"
         }
     ]
 }
