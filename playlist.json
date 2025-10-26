@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL I\u2019VE GOT TO DO",
-        "artist": "Flyin\u2019 Hawaiian Bro"
+        "title": "SMOOTH OPERATOR",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "ALL I\u2019VE GOT TO DO",
+            "artist": "Flyin\u2019 Hawaiian Bro"
+        },
         {
             "title": "EARTH ANGERL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "SOME ENCHANTED EVENING",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "THE WARMTH OF THE SUN",
-            "artist": "MANUSUS/KEEFER"
         }
     ]
 }
