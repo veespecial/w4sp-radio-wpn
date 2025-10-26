@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "POETRY MAN",
-        "artist": "CAMERON"
+        "title": "Samsonite Waltz",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "POETRY MAN",
+            "artist": "CAMERON"
+        },
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "QUIEREME MUCHO",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "GIVING YOU THE BEST THAT I GOT",
-            "artist": "Curtis Brengle"
         }
     ]
 }
