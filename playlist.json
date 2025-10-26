@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BAD SNEAKERS",
-        "artist": "LENNY MOORE"
+        "title": "DESTINY",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "BAD SNEAKERS",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "CLOUDY",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "GOOD LIFE",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "DON'T DREAM IT'S OVER",
-            "artist": "Andre Mayeux"
         }
     ]
 }
