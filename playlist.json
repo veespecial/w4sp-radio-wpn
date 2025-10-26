@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIRL WITH A RED CARNATION",
-        "artist": "Acoustic Alchemy"
+        "title": "CAN WE TALK",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "GIRL WITH A RED CARNATION",
+            "artist": "Acoustic Alchemy"
+        },
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "FOR ELFI",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "One on One",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
