@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUNG ENOUGH TO KNOW",
-        "artist": "Andy Suzuki"
+        "title": "ALL ROADS LEAD TO YOU",
+        "artist": "Kevin Madill-Nashville"
     },
     "recent": [
+        {
+            "title": "YOUNG ENOUGH TO KNOW",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "SOME ENCHANTED EVENING",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "I DON\u2019T WANNA BE ALONE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
