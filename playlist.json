@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIFE IS BUT A DREAM",
-        "artist": "Devlin's Strings"
+        "title": "Every Kinda People",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "LIFE IS BUT A DREAM",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "DON\u2019T WANNA LOSE YOU",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "THE STRANGER",
-            "artist": "North Point"
         }
     ]
 }
