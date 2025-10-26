@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DA DA",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "MIDNIGHT TRAIN TO GEORGIA",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "DA DA",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "Heartbreak Hotel",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "I WANT TO THANK YOU",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
