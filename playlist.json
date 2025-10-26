@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PROMISE AIN\u2019T ENOUGH",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "Paramour",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "PROMISE AIN\u2019T ENOUGH",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "ANOTHER TIME",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "I WILL",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "I SOLD MY HEART TO THE JUNKMAN",
-            "artist": "Jim Devlin"
         }
     ]
 }
