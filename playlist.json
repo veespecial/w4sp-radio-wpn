@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RAINY NIGHT IN GEORGIA",
-        "artist": "Devlin's Strings"
+        "title": "HOW CAN YOU MEND A BROKEN HEART",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "RAINY NIGHT IN GEORGIA",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "(WILL YOU) COME BACK MY LOVE",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "BROWN EYED GIRL",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
