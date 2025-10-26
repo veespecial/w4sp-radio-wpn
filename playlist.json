@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Every Kinda People",
-        "artist": "Harley Bros."
+        "title": "DELIVER ME FROM MY MIND",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "Every Kinda People",
+            "artist": "Harley Bros."
+        },
         {
             "title": "You are the Sunshine of My Life",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "COME FLY WITH ME",
             "artist": "Harley"
-        },
-        {
-            "title": "HOW MUCH I FEEL",
-            "artist": "CAMERON"
         }
     ]
 }
