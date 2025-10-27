@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Kiss Me",
-        "artist": "Harley Bros."
+        "title": "SILVER SPRINGS",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Kiss Me",
+            "artist": "Harley Bros."
+        },
         {
             "title": "END OF THE DAY",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "ALL I\u2019VE GOT TO DO",
             "artist": "Flyin\u2019 Hawaiian Bro"
-        },
-        {
-            "title": "BEWILDERED",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
