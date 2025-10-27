@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LULLABY OF BIRDLAND",
-        "artist": "Harley"
+        "title": "DIXIE MOON",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "LULLABY OF BIRDLAND",
+            "artist": "Harley"
+        },
         {
             "title": "You Make Lovin' Fun",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
-        },
-        {
-            "title": "I TURN TO YOU",
-            "artist": "Daniel Ho"
         }
     ]
 }
