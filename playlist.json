@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BEWILDERED",
-        "artist": "MANSON STRINGS"
+        "title": "DONE WITH PONAPARTE",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "BEWILDERED",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "After the Love Has Gone",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "WHEN SUNNY GETS BLUE",
-            "artist": "BRAD ALLISON"
         }
     ]
 }
