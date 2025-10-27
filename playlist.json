@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JUST THE TWO OF US",
-        "artist": "CHAD STONE BAND"
+        "title": "My Ever Changing Moods",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "JUST THE TWO OF US",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "Till There Was You",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "GIVING YOU THE BEST THAT I GOT",
-            "artist": "Curtis Brengle"
         }
     ]
 }
