@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Harvest for the World",
-        "artist": "Harley Brothers"
+        "title": "BROWN EYED GIRL",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "Harvest for the World",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "ALIEN",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMLOVER",
             "artist": "It\u2019s Lenny Moore"
-        },
-        {
-            "title": "CAN WE TALK",
-            "artist": "South Point"
         }
     ]
 }
