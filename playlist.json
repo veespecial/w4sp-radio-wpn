@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WE'RE GONNA MAKE IT",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "DROWNING IN YOUR TEARS",
+        "artist": "FUNTASTIK"
     },
     "recent": [
+        {
+            "title": "WE'RE GONNA MAKE IT",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "Day Dreaming",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Tears In Heaven",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
