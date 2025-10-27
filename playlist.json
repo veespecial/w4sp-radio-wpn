@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WELCOME TO MY WORLD",
-        "artist": "Kevin Madill-Nashville"
+        "title": "SWAY",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "WELCOME TO MY WORLD",
+            "artist": "Kevin Madill-Nashville"
+        },
         {
             "title": "EVERY BEAT OF MY HEART",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "I GOTTA RUN",
             "artist": "John Morton"
-        },
-        {
-            "title": "Make it With You",
-            "artist": "Daniel Ho"
         }
     ]
 }
