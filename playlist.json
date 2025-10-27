@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TROLLY CAR",
-        "artist": "Jennifer Ivester"
+        "title": "FOR ELFI",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "TROLLY CAR",
+            "artist": "Jennifer Ivester"
+        },
         {
             "title": "CLOUDY",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "RUNAWAY",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "DA DA",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
