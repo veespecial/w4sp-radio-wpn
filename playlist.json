@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOREVER MORE",
-        "artist": "MOORE and BRENGLE"
+        "title": "You are the Sunshine of My Life",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "FOREVER MORE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "DIXIE MOON",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
             "artist": "CAMERON"
-        },
-        {
-            "title": "LIFE IS BUT A DREAM",
-            "artist": "Devlin's Strings"
         }
     ]
 }
