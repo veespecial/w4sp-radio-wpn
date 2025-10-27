@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MIDNIGHT TRAIN TO GEORGIA",
-        "artist": "Daniel Ho"
+        "title": "Life In Mono",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "MIDNIGHT TRAIN TO GEORGIA",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "ANOTHER SAD LOVE SONG",
             "artist": "Mike Jaap"
@@ -39,10 +43,6 @@
         {
             "title": "CRAZY LITTLE THING CALLED LOVE",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Kiss Me",
-            "artist": "Harley Bros."
         }
     ]
 }
