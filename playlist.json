@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIXIE MOON",
-        "artist": "LENNY MOORE"
+        "title": "FOREVER MORE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "DIXIE MOON",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "LULLABY OF BIRDLAND",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "TEARS FROM THE SUN",
-            "artist": "PASERO/SUZUKI-HAWAII"
         }
     ]
 }
