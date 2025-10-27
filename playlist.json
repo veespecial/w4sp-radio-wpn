@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHENEVER YOU'RE ON MY MIND",
-        "artist": "Clair Marlo"
+        "title": "ROSE IN THE VINE",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "WHENEVER YOU'RE ON MY MIND",
+            "artist": "Clair Marlo"
+        },
         {
             "title": "DON'T WORRY BABY",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "PROMISE AIN\u2019T ENOUGH",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
