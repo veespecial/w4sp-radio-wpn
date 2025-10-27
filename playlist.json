@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DREAMBOAT ANNIE",
-        "artist": "CHAD STONE BAND"
+        "title": "BEWILDERED",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "DREAMBOAT ANNIE",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "WHAT DOES IT TAKE",
             "artist": "JON GOFORTH"
-        },
-        {
-            "title": "I DON\u2019T WANNA BE ALONE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
