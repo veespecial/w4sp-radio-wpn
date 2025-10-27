@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Make Lovin' Fun",
-        "artist": "Harley Bros."
+        "title": "LULLABY OF BIRDLAND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "You Make Lovin' Fun",
+            "artist": "Harley Bros."
+        },
         {
             "title": "Harvest for the World",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "I TURN TO YOU",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "WHAT'S NEW",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
