@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ain't Nothing Like the Real Thing",
-        "artist": "MANASUS MUSIC"
+        "title": "Sun King",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "Ain't Nothing Like the Real Thing",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "THESE DREAMS",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "JUST THE TWO OF US",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
