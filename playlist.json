@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "KRISTIANA",
-        "artist": "Jerry Cortez"
+        "title": "Sun King",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "KRISTIANA",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "WHAT'S NEW",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "SWEET CLAIRE",
             "artist": "Michael Strickland"
-        },
-        {
-            "title": "I'M IN A PHILLY MOOD",
-            "artist": "Mike Jaap"
         }
     ]
 }
