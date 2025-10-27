@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DA DA",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "GAUCHO",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "DA DA",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "Turn Turn Turn",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "CLOUDY",
             "artist": "NORTHPOINT"
-        },
-        {
-            "title": "LOVE WILL CONQUER ALL",
-            "artist": "Tom Kellock"
         }
     ]
 }
