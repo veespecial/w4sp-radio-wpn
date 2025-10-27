@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WILL",
-        "artist": "Josephs Band"
+        "title": "QUEEN OF HEARTS",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "I WILL",
+            "artist": "Josephs Band"
+        },
         {
             "title": "You are the Sunshine of My Life",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "Ain't Nothing Like the Real Thing",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "THESE DREAMS",
-            "artist": "Curtis Brengle"
         }
     ]
 }
