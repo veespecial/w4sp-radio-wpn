@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MIRACLES",
-        "artist": "North Point"
+        "title": "HOW MUCH I FEEL",
+        "artist": "CAMERON"
     },
     "recent": [
+        {
+            "title": "MIRACLES",
+            "artist": "North Point"
+        },
         {
             "title": "CAN I CHANGE MY MIND",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "I'M IN A PHILLY MOOD",
             "artist": "Mike Jaap"
-        },
-        {
-            "title": "YOUNG ENOUGH TO KNOW",
-            "artist": "Andy Suzuki"
         }
     ]
 }
