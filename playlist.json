@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THESE DREAMS",
-        "artist": "Curtis Brengle"
+        "title": "Ain't Nothing Like the Real Thing",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "THESE DREAMS",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
             "artist": "CAMERON"
@@ -39,10 +43,6 @@
         {
             "title": "JUST THE TWO OF US",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "HAKUNA MATATA",
-            "artist": "Josephs Band"
         }
     ]
 }
