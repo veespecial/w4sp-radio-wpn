@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Louise",
-        "artist": "Dave Raynor"
+        "title": "DIAMOND DUST",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "Louise",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "BEWILDERED",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
