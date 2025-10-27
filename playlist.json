@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Paramour",
-        "artist": "Dave Keenan"
+        "title": "LIFE IS BUT A DREAM",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "Paramour",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "HEAVEN",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "(WILL YOU) COME BACK MY LOVE",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "HIGHER AND HIGHER",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
