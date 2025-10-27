@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SILVER SPRINGS",
-        "artist": "Harley Brothers"
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "SILVER SPRINGS",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Kiss Me",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "DON\u2019T WANNA LOSE YOU",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "ALL I\u2019VE GOT TO DO",
-            "artist": "Flyin\u2019 Hawaiian Bro"
         }
     ]
 }
