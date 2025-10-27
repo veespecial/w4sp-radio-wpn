@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sweet Seasons",
-        "artist": "Harley Bros."
+        "title": "LULLABY OF BIRDLAND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "Sweet Seasons",
+            "artist": "Harley Bros."
+        },
         {
             "title": "DON\u2019T WANT (TO BE A FOOL)",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "IT MAKES ME CRAZY",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "SUNNY CAME HOME",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
