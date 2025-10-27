@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IN A DAYDREAM",
-        "artist": "Crescenta Valley Boys"
+        "title": "HEAVEN",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "IN A DAYDREAM",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "IT MAKES ME CRAZY",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "ALL ROADS LEAD TO YOU",
             "artist": "Kevin Madill-Nashville"
-        },
-        {
-            "title": "Make it With You",
-            "artist": "Daniel Ho"
         }
     ]
 }
