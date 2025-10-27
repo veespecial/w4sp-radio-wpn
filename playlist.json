@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sun King",
-        "artist": "San Francisco"
+        "title": "DON'T WORRY BABY",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "Sun King",
+            "artist": "San Francisco"
+        },
         {
             "title": "Ain't Nothing Like the Real Thing",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "NEW KID AROUND",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "My Ever Changing Moods",
-            "artist": "Jim Devlin"
         }
     ]
 }
