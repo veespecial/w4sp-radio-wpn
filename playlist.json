@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SUNNY CAME HOME",
-        "artist": "MOORE and BRENGLE"
+        "title": "IT MAKES ME CRAZY",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "SUNNY CAME HOME",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "SWEET CLAIRE",
             "artist": "Michael Strickland"
@@ -39,10 +43,6 @@
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "SOMETIME BRAZIL",
-            "artist": "Andy Suzuki"
         }
     ]
 }
