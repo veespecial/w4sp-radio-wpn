@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Changes",
-        "artist": "Ray Kelley"
+        "title": "I DON\u2019T WANNA BE ALONE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "Changes",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "CAN I CHANGE MY MIND",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "SHAKE AND BAKE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "Beyond the Sea",
-            "artist": "Disk Eyes London"
         }
     ]
 }
