@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SARA SMILE",
-        "artist": "CHAD STONE BAND"
+        "title": "Footprints",
+        "artist": "Melissa Siegel"
     },
     "recent": [
+        {
+            "title": "SARA SMILE",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "STONED SOUL PICNIC",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "AIN'T MISBEHAVIN",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "IN WONDER",
-            "artist": "Govi"
         }
     ]
 }
