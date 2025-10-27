@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HIGHER AND HIGHER",
-        "artist": "MANASUS MUSIC"
+        "title": "JUST THE TWO OF US",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "HIGHER AND HIGHER",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN DREAM ABOUT YOU",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "NEPTUNE",
-            "artist": "Andy Suzuki"
         }
     ]
 }
