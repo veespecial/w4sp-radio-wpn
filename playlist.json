@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON\u2019T WANNA LOSE YOU",
-        "artist": "Curtis Brengle"
+        "title": "HERO",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "DON\u2019T WANNA LOSE YOU",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "Alison",
             "artist": "Quistetts"
-        },
-        {
-            "title": "HOW DO I LIVE",
-            "artist": "Andre Mayeux"
         }
     ]
 }
