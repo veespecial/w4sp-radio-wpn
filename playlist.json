@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Make it With You",
-        "artist": "Daniel Ho"
+        "title": "Walk On By",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "Make it With You",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Heartbreak Hotel",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "SOMETIME BRAZIL",
-            "artist": "Andy Suzuki"
         }
     ]
 }
