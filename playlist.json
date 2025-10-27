@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DREAMBOAT ANNIE",
-        "artist": "CHAD STONE BAND"
+        "title": "WILD AND FREE",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "DREAMBOAT ANNIE",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "Heartbreak Hotel",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "I'LL NEVER FALL IN LOVE",
-            "artist": "Andre Mayeux"
         }
     ]
 }
