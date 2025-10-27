@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SMOOTH OPERATOR",
-        "artist": "Josephs Band"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "SMOOTH OPERATOR",
+            "artist": "Josephs Band"
+        },
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "How Sweet it is",
             "artist": "Harley Music"
-        },
-        {
-            "title": "DONE WITH PONAPARTE",
-            "artist": "Moro-Eden"
         }
     ]
 }
