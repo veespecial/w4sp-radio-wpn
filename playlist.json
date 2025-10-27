@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DESAFINADO",
-        "artist": "BRAD ALLISON"
+        "title": "I'm Happy Just to Dance with You",
+        "artist": "Disk Eyes London"
     },
     "recent": [
+        {
+            "title": "DESAFINADO",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANUSUS/KEEFER"
@@ -39,10 +43,6 @@
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "JULIA",
-            "artist": "North Point"
         }
     ]
 }
