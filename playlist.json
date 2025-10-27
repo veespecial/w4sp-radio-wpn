@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Ever Changing Moods",
-        "artist": "Jim Devlin"
+        "title": "WHEN SUNNY GETS BLUE",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "My Ever Changing Moods",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "I\u2019LL BE OVER YOU",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "BROWN EYED GIRL",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "Harvest for the World",
-            "artist": "Harley Brothers"
         }
     ]
 }
