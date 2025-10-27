@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I THINK I\u2019LL TELL HIM",
-        "artist": "Andy Suzuki"
+        "title": "COME RAIN OR COME SHINE",
+        "artist": "It\u2019s Lenny Moore"
     },
     "recent": [
+        {
+            "title": "I THINK I\u2019LL TELL HIM",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "MAGNOLIA",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "CAN I CHANGE MY MIND",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "DON\u2019T WANT (TO BE A FOOL)",
-            "artist": "LENNY MOORE"
         }
     ]
 }
