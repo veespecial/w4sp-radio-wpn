@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DELIVER ME FROM MY MIND",
-        "artist": "Andy Suzuki"
+        "title": "DESTINY",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "DELIVER ME FROM MY MIND",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It\u2019s Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIK"
-        },
-        {
-            "title": "WE'RE GONNA MAKE IT",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
