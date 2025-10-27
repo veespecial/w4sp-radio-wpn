@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRAZY LITTLE THING CALLED LOVE",
-        "artist": "Harley Brothers"
+        "title": "After the Love Has Gone",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "CRAZY LITTLE THING CALLED LOVE",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "WHAT DOES IT TAKE",
             "artist": "JON GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "MAGNOLIA",
             "artist": "Funtastic"
-        },
-        {
-            "title": "GOT TO GIVE IT UP",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
