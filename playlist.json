@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL I\u2019VE GOT TO DO",
-        "artist": "Flyin\u2019 Hawaiian Bro"
+        "title": "DON\u2019T WANNA LOSE YOU",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "ALL I\u2019VE GOT TO DO",
+            "artist": "Flyin\u2019 Hawaiian Bro"
+        },
         {
             "title": "BEWILDERED",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "HOW CAN YOU MEND A BROKEN HEART",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "ANOTHER TIME",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
