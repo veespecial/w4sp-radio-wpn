@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "QUIEREME MUCHO",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "Beyond the Sea",
+        "artist": "Disk Eyes London"
     },
     "recent": [
+        {
+            "title": "QUIEREME MUCHO",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "Don't Let Me be Lonely Tonight",
-            "artist": "Harley Brothers"
         }
     ]
 }
