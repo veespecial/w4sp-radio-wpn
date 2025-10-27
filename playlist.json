@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "APRIL BLUES",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Till There Was You",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "APRIL BLUES",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "Don't Let Me be Lonely Tonight",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "DESAFINADO",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "Terpsichore",
-            "artist": "Dave Keenan"
         }
     ]
 }
