@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME FLY WITH ME",
-        "artist": "Harley"
+        "title": "SOMETHING THAT WE DO",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "COME FLY WITH ME",
+            "artist": "Harley"
+        },
         {
             "title": "FOR ONCE IN MY LIFE",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "I CAN LOVE YOU LIKE THAT",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
