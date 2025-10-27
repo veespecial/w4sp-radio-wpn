@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
-        "artist": "CAMERON"
+        "title": "THESE DREAMS",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
+            "artist": "CAMERON"
+        },
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "TROPIC OF CAPRICORN",
-            "artist": "South Point"
         }
     ]
 }
