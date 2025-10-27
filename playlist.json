@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SUMMER WIND",
-        "artist": "Harley"
+        "title": "JULIA",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "SUMMER WIND",
+            "artist": "Harley"
+        },
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "JUST ONE WORD",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Walk On By",
-            "artist": "Manson Music"
         }
     ]
 }
