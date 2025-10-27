@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Paramour",
-        "artist": "Dave Keenan"
+        "title": "HERE\u2019S THAT RAINY DAY",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "Paramour",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "One on One",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "KRISTIANA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "WHAT'S NEW",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
