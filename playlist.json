@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Yesterday",
-        "artist": "Josephs Band"
+        "title": "GIRL WITH A RED CARNATION",
+        "artist": "Acoustic Alchemy"
     },
     "recent": [
+        {
+            "title": "Yesterday",
+            "artist": "Josephs Band"
+        },
         {
             "title": "DIXIE MOON",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "HEY GIRL",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "Fast Car",
-            "artist": "Quistetts"
         }
     ]
 }
