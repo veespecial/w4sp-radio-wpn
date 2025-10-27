@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'm Happy Just to Dance with You",
-        "artist": "Disk Eyes London"
+        "title": "SAVING ALL MY LOVE FOR YOU",
+        "artist": "NORTHPOINT"
     },
     "recent": [
+        {
+            "title": "I'm Happy Just to Dance with You",
+            "artist": "Disk Eyes London"
+        },
         {
             "title": "DESAFINADO",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "LAUGHTER IN THE RAIN",
-            "artist": "Nick Manson"
         }
     ]
 }
