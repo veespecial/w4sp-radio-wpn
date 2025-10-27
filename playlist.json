@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MORE THAN THIS",
-        "artist": "Disk Eyes S.F."
+        "title": "Millennium",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "MORE THAN THIS",
+            "artist": "Disk Eyes S.F."
+        },
         {
             "title": "HOT SAUCE",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
-        },
-        {
-            "title": "GAUCHO",
-            "artist": "North Point"
         }
     ]
 }
