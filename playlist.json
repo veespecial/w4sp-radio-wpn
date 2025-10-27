@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MAGNOLIA",
-        "artist": "Funtastic"
+        "title": "WHEN SUNNY GETS BLUE",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "MAGNOLIA",
+            "artist": "Funtastic"
+        },
         {
             "title": "GOT TO GIVE IT UP",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "NEXT EVENT",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "FOR ELFI",
-            "artist": "Nick Manson"
         }
     ]
 }
