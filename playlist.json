@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'm Happy Just to Dance with You",
-        "artist": "Disk Eyes London"
+        "title": "HALF A MINUTE",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "I'm Happy Just to Dance with You",
+            "artist": "Disk Eyes London"
+        },
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "MAGNOLIA",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "YOUR PRECIOUS LOVE",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
