@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Turn Turn Turn",
-        "artist": "John Morton"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "Turn Turn Turn",
+            "artist": "John Morton"
+        },
         {
             "title": "GOOD LIFE",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "MORE THAN THIS",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "HOT SAUCE",
-            "artist": "Eric Tingstad"
         }
     ]
 }
