@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOMETIME BRAZIL",
-        "artist": "Andy Suzuki"
+        "title": "Don't Let Me be Lonely Tonight",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "SOMETIME BRAZIL",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "FAIR TOMORROW",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "TO LOVE YOU MORE",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "BABYLON SISTERS",
-            "artist": "Tom Politzer"
         }
     ]
 }
