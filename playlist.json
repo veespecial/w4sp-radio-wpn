@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIMME LITTLE SIGN",
-        "artist": "STANDING PATT MUSIC"
+        "title": "QUIEREME MUCHO",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "GIMME LITTLE SIGN",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "Don't Let Me be Lonely Tonight",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "MIRACLES",
-            "artist": "North Point"
         }
     ]
 }
