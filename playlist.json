@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Long Ago",
-        "artist": "Dave Keenan"
+        "title": "Louise",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "Long Ago",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "Walton On Thames",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "CHAIN LIGHTNING",
             "artist": "Tom Politzer 93"
-        },
-        {
-            "title": "YOU'RE THE INSPIRATION",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
