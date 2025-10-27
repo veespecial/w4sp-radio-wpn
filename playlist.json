@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Only Have Eyes for You",
-        "artist": "Politzer/Withycombe"
+        "title": "Heartbreak Hotel",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "I Only Have Eyes for You",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "YOU ARE EVERYTHING",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WORRY BABY",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "Fool on the Hill",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
