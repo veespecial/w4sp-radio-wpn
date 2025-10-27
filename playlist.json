@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Life In Mono",
-        "artist": "Andy Suzuki"
+        "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "Life In Mono",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
-        },
-        {
-            "title": "CRAZY LITTLE THING CALLED LOVE",
-            "artist": "Harley Brothers"
         }
     ]
 }
