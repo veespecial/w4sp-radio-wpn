@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "One on One",
-        "artist": "MANASUS MUSIC"
+        "title": "Paramour",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "One on One",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "WHAT'S NEW",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "MY FUNNY VALENTINE",
-            "artist": "Manasus Strings"
         }
     ]
 }
