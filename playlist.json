@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Louise",
-        "artist": "Dave Raynor"
+        "title": "I JUST WANNA STOP",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "Louise",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "Long Ago",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "CHAIN LIGHTNING",
-            "artist": "Tom Politzer 93"
         }
     ]
 }
