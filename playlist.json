@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LAUGHTER IN THE RAIN",
-        "artist": "Nick Manson"
+        "title": "Until You Come Back To Me",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "LAUGHTER IN THE RAIN",
+            "artist": "Nick Manson"
+        },
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "SAY YOU LOVE ME",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "I SOLD MY HEART TO THE JUNKMAN",
-            "artist": "Jim Devlin"
         }
     ]
 }
