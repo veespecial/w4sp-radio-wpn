@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUBY BABY",
-        "artist": "Funtastic"
+        "title": "SILVER SPRINGS",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "RUBY BABY",
+            "artist": "Funtastic"
+        },
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "OLD OAK KNOLL",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "NEXT EVENT",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
