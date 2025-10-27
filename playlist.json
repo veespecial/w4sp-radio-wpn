@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IT'S ALL ABOUT YOU",
-        "artist": "FUNTASTIK"
+        "title": "EARTH ANGERL (WILL YOU BE MINE)",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "IT'S ALL ABOUT YOU",
+            "artist": "FUNTASTIK"
+        },
         {
             "title": "Reflection",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "ANOTHER SAD LOVE SONG",
             "artist": "Mike Jaap"
-        },
-        {
-            "title": "COME FLY WITH ME",
-            "artist": "Harley"
         }
     ]
 }
