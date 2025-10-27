@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ROSE IN THE VINE",
-        "artist": "Harley"
+        "title": "I Say a Little Prayer",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "ROSE IN THE VINE",
+            "artist": "Harley"
+        },
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
@@ -39,10 +43,6 @@
         {
             "title": "I\u2019LL BE OVER YOU",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "SAD SONGS SAY SO MUCH",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
