@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BAD REPUTATION",
-        "artist": "CHAD STONE BAND"
+        "title": "Claudette",
+        "artist": "Disk Eyes London"
     },
     "recent": [
+        {
+            "title": "BAD REPUTATION",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "HOW MUCH I FEEL",
             "artist": "CAMERON"
@@ -39,10 +43,6 @@
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "Till There Was You",
-            "artist": "Dave Raynor"
         }
     ]
 }
