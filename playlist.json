@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALIEN",
-        "artist": "Funtastic"
+        "title": "SLEEPING CAT DANCE",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "ALIEN",
+            "artist": "Funtastic"
+        },
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "HEAVEN",
             "artist": "North Point"
-        },
-        {
-            "title": "ANOTHER SAD LOVE SONG",
-            "artist": "Mike Jaap"
         }
     ]
 }
