@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STAY (I MISSED YOU)",
-        "artist": "Moro-Eden"
+        "title": "SMOOTH OPERATOR",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "STAY (I MISSED YOU)",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "DON'T LOOK BACK",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "Reflection",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "Every Kinda People",
-            "artist": "Harley Bros."
         }
     ]
 }
