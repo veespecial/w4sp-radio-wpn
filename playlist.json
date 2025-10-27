@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BREAKFAST AT TIFFANY'S",
-        "artist": "Josephs Band"
+        "title": "SUMMER WIND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "BREAKFAST AT TIFFANY'S",
+            "artist": "Josephs Band"
+        },
         {
             "title": "I'LL NEVER FALL IN LOVE",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "IT'S ALL ABOUT YOU",
-            "artist": "FUNTASTIK"
         }
     ]
 }
