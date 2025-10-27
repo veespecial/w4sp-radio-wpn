@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Only Have Eyes for You",
-        "artist": "Politzer/Withycombe"
+        "title": "(WILL YOU) COME BACK MY LOVE",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "I Only Have Eyes for You",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "Day Dreaming",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "FAIR TOMORROW",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "DESTINY",
-            "artist": "Nick Manson"
         }
     ]
 }
