@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Walk On By",
-        "artist": "Manson Music"
+        "title": "JUST ONE WORD",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Walk On By",
+            "artist": "Manson Music"
+        },
         {
             "title": "Make it With You",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "CHEHALIS",
-            "artist": "Eric Tingstad"
         }
     ]
 }
