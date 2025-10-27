@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Every Kinda People",
-        "artist": "Harley Bros."
+        "title": "Reflection",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "Every Kinda People",
+            "artist": "Harley Bros."
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It\u2019s Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "BAD REPUTATION",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "MERCY MERCY ME",
-            "artist": "Tom Kellock"
         }
     ]
 }
