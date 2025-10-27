@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Terpsichore",
-        "artist": "Dave Keenan"
+        "title": "SUMMER WIND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "Terpsichore",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "EVERY BEAT OF MY HEART",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "Walk On By",
             "artist": "Manson Music"
-        },
-        {
-            "title": "Make it With You",
-            "artist": "Daniel Ho"
         }
     ]
 }
