@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIAMOND DUST",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "HIGHER AND HIGHER",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "DIAMOND DUST",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "Louise",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "NEPTUNE",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "I CAN LOVE YOU LIKE THAT",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
