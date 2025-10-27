@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fast Car",
-        "artist": "Quistetts"
+        "title": "HEY GIRL",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "Fast Car",
+            "artist": "Quistetts"
+        },
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "CORRINA CORRINA",
             "artist": "Harley"
-        },
-        {
-            "title": "WILD AND FREE",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
