@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CHAIN LIGHTNING",
-        "artist": "Tom Politzer 93"
+        "title": "You Are My Destiny",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "CHAIN LIGHTNING",
+            "artist": "Tom Politzer 93"
+        },
         {
             "title": "JUST THE TWO OF US",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "MORE THAN THIS",
-            "artist": "Disk Eyes S.F."
         }
     ]
 }
