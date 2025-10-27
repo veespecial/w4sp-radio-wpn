@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRAZY LITTLE THING CALLED LOVE",
-        "artist": "Harley Brothers"
+        "title": "SOMEWHERE IN THE WORLD",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "CRAZY LITTLE THING CALLED LOVE",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Kiss Me",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "CHAIN LIGHTNING",
             "artist": "Tom Politzer 93"
-        },
-        {
-            "title": "JUST THE TWO OF US",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
