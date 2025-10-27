@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU ARE EVERYTHING",
-        "artist": "STANDING PATT MUSIC"
+        "title": "I Only Have Eyes for You",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "YOU ARE EVERYTHING",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "GIVING YOU THE BEST THAT I GOT",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "Fool on the Hill",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "DELIVER ME FROM MY MIND",
-            "artist": "Andy Suzuki"
         }
     ]
 }
