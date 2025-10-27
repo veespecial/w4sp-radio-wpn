@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SLEEPING CAT DANCE",
-        "artist": "Nick Manson"
+        "title": "TROPIC OF CAPRICORN",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "SLEEPING CAT DANCE",
+            "artist": "Nick Manson"
+        },
         {
             "title": "ALIEN",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "TORN",
             "artist": "Harley Music"
-        },
-        {
-            "title": "HEAVEN",
-            "artist": "North Point"
         }
     ]
 }
