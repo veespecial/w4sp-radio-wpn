@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'm Happy Just to Dance with You",
-        "artist": "Disk Eyes London"
+        "title": "DON\u2019T WANT (TO BE A FOOL)",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "I'm Happy Just to Dance with You",
+            "artist": "Disk Eyes London"
+        },
         {
             "title": "SILVER SPRINGS",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "SWEET CLAIRE",
             "artist": "Michael Strickland"
-        },
-        {
-            "title": "GREEN FLOWER STREET",
-            "artist": "Funtastic"
         }
     ]
 }
