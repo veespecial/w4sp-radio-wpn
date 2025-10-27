@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Go Crazy",
-        "artist": "David Patt"
+        "title": "HOW MUCH I FEEL",
+        "artist": "CAMERON"
     },
     "recent": [
+        {
+            "title": "I Go Crazy",
+            "artist": "David Patt"
+        },
         {
             "title": "Heaven On A Sunday",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "HERE\u2019S THAT RAINY DAY",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "Paramour",
-            "artist": "Dave Keenan"
         }
     ]
 }
