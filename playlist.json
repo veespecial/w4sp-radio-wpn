@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Walton On Thames",
-        "artist": "Jerry Cortez"
+        "title": "Sun King",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "Walton On Thames",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "WE'RE GONNA MAKE IT",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "DON\u2019T WANNA LOSE YOU",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "TEARS FROM THE SUN",
-            "artist": "PASERO/SUZUKI-HAWAII"
         }
     ]
 }
