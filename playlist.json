@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IT MAKES ME CRAZY",
-        "artist": "Nick Manson"
+        "title": "SUMMER WIND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "IT MAKES ME CRAZY",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Kiss Me",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "BABYLON SISTERS",
-            "artist": "Tom Politzer"
         }
     ]
 }
