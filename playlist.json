@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON\u2019T ASK MY NEIGHBOR",
-        "artist": "STRINGS BY ANDY"
+        "title": "DREAMBOAT ANNIE",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "DON\u2019T ASK MY NEIGHBOR",
+            "artist": "STRINGS BY ANDY"
+        },
         {
             "title": "ALIEN",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "GOOD LIFE",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "COME RAIN OR COME SHINE",
-            "artist": "It\u2019s Lenny Moore"
         }
     ]
 }
