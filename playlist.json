@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LITTLE MORE TIME WITH YOU",
-        "artist": "Andre Mayeux"
+        "title": "BAD SNEAKERS",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "LITTLE MORE TIME WITH YOU",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "BECAUSE YOU LOVED ME",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "Life In Mono",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "Sun King",
-            "artist": "San Francisco"
         }
     ]
 }
