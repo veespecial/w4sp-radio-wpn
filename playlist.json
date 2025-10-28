@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WILL",
-        "artist": "Josephs Band"
+        "title": "DON'T LOOK BACK",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "I WILL",
+            "artist": "Josephs Band"
+        },
         {
             "title": "Alison",
             "artist": "Quistetts"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMLOVER",
             "artist": "It\u2019s Lenny Moore"
-        },
-        {
-            "title": "I Go Crazy",
-            "artist": "David Patt"
         }
     ]
 }
