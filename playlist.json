@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "APPALACHIA CALLING",
-        "artist": "Eric Tingstad"
+        "title": "DREAMBOAT ANNIE",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "APPALACHIA CALLING",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "Sweet Seasons",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "THE STRANGER",
             "artist": "North Point"
-        },
-        {
-            "title": "TORN",
-            "artist": "Harley Music"
         }
     ]
 }
