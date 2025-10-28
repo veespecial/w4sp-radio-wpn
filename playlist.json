@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIMME LITTLE SIGN",
-        "artist": "STANDING PATT MUSIC"
+        "title": "TORN",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "GIMME LITTLE SIGN",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "Life In Mono",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "ROSE IN THE VINE",
             "artist": "Harley"
-        },
-        {
-            "title": "DON'T WORRY BABY",
-            "artist": "Tom Kellock"
         }
     ]
 }
