@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TIL I HEAR IT FROM YOU",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "CRAZY LITTLE THING CALLED LOVE",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "TIL I HEAR IT FROM YOU",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "Fly'n",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "FOREVER MORE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
