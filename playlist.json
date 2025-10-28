@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Make it With You",
-        "artist": "Daniel Ho"
+        "title": "IN A DAYDREAM",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "Make it With You",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIK"
@@ -39,10 +43,6 @@
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "ONCE AND FUTURE",
-            "artist": "Newhall Collective"
         }
     ]
 }
