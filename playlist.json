@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Kiss Me",
-        "artist": "Harley Bros."
+        "title": "IT MAKES ME CRAZY",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "Kiss Me",
+            "artist": "Harley Bros."
+        },
         {
             "title": "DONE WITH PONAPARTE",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "Fool on the Hill",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
