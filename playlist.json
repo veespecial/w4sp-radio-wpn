@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CLOUDY",
-        "artist": "NORTHPOINT"
+        "title": "Every Kinda People",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "CLOUDY",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "Heaven On A Sunday",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "DON\u2019T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
-        },
-        {
-            "title": "Samsonite Waltz",
-            "artist": "Dave Keenan"
         }
     ]
 }
