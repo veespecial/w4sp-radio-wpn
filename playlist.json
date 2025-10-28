@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fool on the Hill",
-        "artist": "Los Devlin Strings"
+        "title": "BABYLON SISTERS",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "Fool on the Hill",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "Claudette",
             "artist": "Disk Eyes London"
@@ -39,10 +43,6 @@
         {
             "title": "I Only Have Eyes for You",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "YOU ARE EVERYTHING",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
