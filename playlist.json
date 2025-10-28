@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Vienna",
-        "artist": "Manson Music"
+        "title": "WHAT'S GOIN ON",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "Vienna",
+            "artist": "Manson Music"
+        },
         {
             "title": "CAN I CHANGE MY MIND",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
-        },
-        {
-            "title": "Love Of My Life",
-            "artist": "Andre Mayeux"
         }
     ]
 }
