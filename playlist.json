@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME FLY WITH ME",
-        "artist": "Harley"
+        "title": "GAUCHO",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "COME FLY WITH ME",
+            "artist": "Harley"
+        },
         {
             "title": "STONED SOUL PICNIC",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "LOVE WILL CONQUER ALL",
-            "artist": "Tom Kellock"
         }
     ]
 }
