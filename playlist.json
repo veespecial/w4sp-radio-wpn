@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DESTINY",
-        "artist": "Nick Manson"
+        "title": "MAGNOLIA",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "DESTINY",
+            "artist": "Nick Manson"
+        },
         {
             "title": "MERCY MERCY ME",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "Make it With You",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "I GOTTA RUN",
-            "artist": "John Morton"
         }
     ]
 }
