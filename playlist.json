@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DA DA",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "GIVING YOU THE BEST THAT I GOT",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "DA DA",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "YOU ARE EVERYTHING",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "HEY GIRL",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
