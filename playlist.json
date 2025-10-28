@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MY FUNNY VALENTINE",
-        "artist": "Manasus Strings"
+        "title": "TROPIC OF CAPRICORN",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "MY FUNNY VALENTINE",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "Till There Was You",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "HOW MUCH I FEEL",
-            "artist": "CAMERON"
         }
     ]
 }
