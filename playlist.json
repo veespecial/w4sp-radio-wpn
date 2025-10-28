@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I SOLD MY HEART TO THE JUNKMAN",
-        "artist": "Jim Devlin"
+        "title": "Long Ago",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "I SOLD MY HEART TO THE JUNKMAN",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "HERO",
             "artist": "JOHN GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMBOAT ANNIE",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "APPALACHIA CALLING",
-            "artist": "Eric Tingstad"
         }
     ]
 }
