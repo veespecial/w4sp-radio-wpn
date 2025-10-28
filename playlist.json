@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ONCE AND FUTURE",
-        "artist": "Newhall Collective"
+        "title": "MAGNOLIA",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "ONCE AND FUTURE",
+            "artist": "Newhall Collective"
+        },
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "CHAIN LIGHTNING",
             "artist": "Tom Politzer 93"
-        },
-        {
-            "title": "Terpsichore",
-            "artist": "Dave Keenan"
         }
     ]
 }
