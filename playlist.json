@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BAD SNEAKERS",
-        "artist": "LENNY MOORE"
+        "title": "Tears In Heaven",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "BAD SNEAKERS",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "I Go Crazy",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T LOOK BACK",
             "artist": "Harley"
-        },
-        {
-            "title": "IN WONDER",
-            "artist": "Govi"
         }
     ]
 }
