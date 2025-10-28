@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sun King",
-        "artist": "San Francisco"
+        "title": "SLEEPING CAT DANCE",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "Sun King",
+            "artist": "San Francisco"
+        },
         {
             "title": "Walton On Thames",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
-        },
-        {
-            "title": "DON\u2019T WANNA LOSE YOU",
-            "artist": "Curtis Brengle"
         }
     ]
 }
