@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CHAIN LIGHTNING",
-        "artist": "Tom Politzer 93"
+        "title": "SOMETHING THAT WE DO",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "CHAIN LIGHTNING",
+            "artist": "Tom Politzer 93"
+        },
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMBOAT ANNIE",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "WHEN SUNNY GETS BLUE",
-            "artist": "BRAD ALLISON"
         }
     ]
 }
