@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SLEEPING CAT DANCE",
-        "artist": "Nick Manson"
+        "title": "WHAT'S NEW",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "SLEEPING CAT DANCE",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Sun King",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "WILD AND FREE",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "LONELY TOO LONG",
-            "artist": "South Point"
         }
     ]
 }
