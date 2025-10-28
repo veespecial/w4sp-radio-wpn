@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I CAN DREAM ABOUT YOU",
-        "artist": "Curtis Brengle"
+        "title": "CLOUDY",
+        "artist": "NORTHPOINT"
     },
     "recent": [
+        {
+            "title": "I CAN DREAM ABOUT YOU",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "SOMETHING THAT WE DO",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "MERCY MERCY ME",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "I SOLD MY HEART TO THE JUNKMAN",
-            "artist": "Jim Devlin"
         }
     ]
 }
