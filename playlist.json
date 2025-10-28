@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOT SAUCE",
-        "artist": "Eric Tingstad"
+        "title": "CAN WE TALK",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "HOT SAUCE",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "WHAT'S GOIN ON",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "Vienna",
-            "artist": "Manson Music"
         }
     ]
 }
