@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LAUGHTER IN THE RAIN",
-        "artist": "Nick Manson"
+        "title": "GIVING YOU THE BEST THAT I GOT",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "LAUGHTER IN THE RAIN",
+            "artist": "Nick Manson"
+        },
         {
             "title": "BLUE BOSSA",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "EARTH ANGERL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "FAIR TOMORROW",
-            "artist": "Jerry Cortez"
         }
     ]
 }
