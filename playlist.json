@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You are the Sunshine of My Life",
-        "artist": "Harley Music"
+        "title": "DESTINY",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "You are the Sunshine of My Life",
+            "artist": "Harley Music"
+        },
         {
             "title": "DONE WITH PONAPARTE",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "NEXT EVENT",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
