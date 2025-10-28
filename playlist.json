@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEY GIRL",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "YOU ARE EVERYTHING",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "HEY GIRL",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T DREAM IT'S OVER",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "I SOLD MY HEART TO THE JUNKMAN",
-            "artist": "Jim Devlin"
         }
     ]
 }
