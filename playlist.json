@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I GOTTA RUN",
-        "artist": "John Morton"
+        "title": "MERCY MERCY ME",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "I GOTTA RUN",
+            "artist": "John Morton"
+        },
         {
             "title": "CAN WE TALK",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "STONED SOUL PICNIC",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "JUST ONE WORD",
-            "artist": "Harley Bros."
         }
     ]
 }
