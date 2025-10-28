@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MAGNOLIA",
-        "artist": "Eric Tingstad"
+        "title": "SILVER SPRINGS",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "MAGNOLIA",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
@@ -39,10 +43,6 @@
         {
             "title": "SOMETHING THAT WE DO",
             "artist": "Harley Music"
-        },
-        {
-            "title": "CHAIN LIGHTNING",
-            "artist": "Tom Politzer 93"
         }
     ]
 }
