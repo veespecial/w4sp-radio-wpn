@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL I\u2019VE GOT TO DO",
-        "artist": "Flyin\u2019 Hawaiian Bro"
+        "title": "STONED SOUL PICNIC",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "ALL I\u2019VE GOT TO DO",
+            "artist": "Flyin\u2019 Hawaiian Bro"
+        },
         {
             "title": "How Sweet it is",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "DA DA",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
