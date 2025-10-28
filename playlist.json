@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAN I CHANGE MY MIND",
-        "artist": "Politzer/Withycombe"
+        "title": "STUBBORN KIND OF FELLOW",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "CAN I CHANGE MY MIND",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMBOAT ANNIE",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "Heartbreak Hotel",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
