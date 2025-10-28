@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T DREAM IT'S OVER",
-        "artist": "Andre Mayeux"
+        "title": "DIAMOND DUST",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "DON'T DREAM IT'S OVER",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "Make it With You",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "LONELY TOO LONG",
-            "artist": "South Point"
         }
     ]
 }
