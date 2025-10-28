@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I THINK I\u2019LL TELL HIM",
-        "artist": "Andy Suzuki"
+        "title": "APPALACHIA CALLING",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "I THINK I\u2019LL TELL HIM",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "ONSTREAM",
             "artist": "Frank Joseph\u2019s Group"
@@ -39,10 +43,6 @@
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
-        },
-        {
-            "title": "How Deep is Your Love",
-            "artist": "Harley Music"
         }
     ]
 }
