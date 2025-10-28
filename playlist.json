@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JO JO",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "SAY YOU LOVE ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "JO JO",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It\u2019s Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "I Go Crazy",
-            "artist": "David Patt"
         }
     ]
 }
