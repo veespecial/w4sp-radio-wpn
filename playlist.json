@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "After the Love Has Gone",
-        "artist": "Harley Music"
+        "title": "I DON\u2019T WANNA BE ALONE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "After the Love Has Gone",
+            "artist": "Harley Music"
+        },
         {
             "title": "GAUCHO",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "Reflection",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "WHENEVER YOU'RE ON MY MIND",
-            "artist": "Clair Marlo"
         }
     ]
 }
