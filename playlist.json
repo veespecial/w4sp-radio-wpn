@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME FLY WITH ME",
-        "artist": "Harley"
+        "title": "My Favorite Mistake",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "COME FLY WITH ME",
+            "artist": "Harley"
+        },
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
@@ -39,10 +43,6 @@
         {
             "title": "YOU ARE EVERYTHING",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "Black Cow",
-            "artist": "Andy Suzuki"
         }
     ]
 }
