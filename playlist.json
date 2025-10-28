@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ain't Nothing Like the Real Thing",
-        "artist": "MANASUS MUSIC"
+        "title": "YOU'RE THE INSPIRATION",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "Ain't Nothing Like the Real Thing",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "Tears In Heaven",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
-        },
-        {
-            "title": "Millennium",
-            "artist": "Harley Brothers"
         }
     ]
 }
