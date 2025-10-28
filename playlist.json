@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOW MUCH I FEEL",
-        "artist": "CAMERON"
+        "title": "Heaven On A Sunday",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "HOW MUCH I FEEL",
+            "artist": "CAMERON"
+        },
         {
             "title": "FOR ONCE IN OUR LIVES",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "Life In Mono",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "EVERY BEAT OF MY HEART",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
