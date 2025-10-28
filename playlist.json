@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Kiss Me",
-        "artist": "Harley Bros."
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "Kiss Me",
+            "artist": "Harley Bros."
+        },
         {
             "title": "ONSTREAM",
             "artist": "Frank Joseph\u2019s Group"
@@ -39,10 +43,6 @@
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "BLUE BOSSA",
-            "artist": "BRAD ALLISON"
         }
     ]
 }
