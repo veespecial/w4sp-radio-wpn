@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SARA SMILE",
-        "artist": "CHAD STONE BAND"
+        "title": "DON'T WORRY BABY",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "SARA SMILE",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "ONSTREAM",
             "artist": "Frank Joseph\u2019s Group"
@@ -39,10 +43,6 @@
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
-        },
-        {
-            "title": "I TURN TO YOU",
-            "artist": "Daniel Ho"
         }
     ]
 }
