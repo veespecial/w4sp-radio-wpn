@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Jo Jo",
-        "artist": "Harley"
+        "title": "How Sweet it is",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Jo Jo",
+            "artist": "Harley"
+        },
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
-        },
-        {
-            "title": "I'M IN A PHILLY MOOD",
-            "artist": "Mike Jaap"
         }
     ]
 }
