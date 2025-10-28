@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BODY AND SOUL",
-        "artist": "DAVE DYSART"
+        "title": "SARA SMILE",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "BODY AND SOUL",
+            "artist": "DAVE DYSART"
+        },
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
@@ -39,10 +43,6 @@
         {
             "title": "Heaven On A Sunday",
             "artist": "John Morton"
-        },
-        {
-            "title": "HOW MUCH I FEEL",
-            "artist": "CAMERON"
         }
     ]
 }
