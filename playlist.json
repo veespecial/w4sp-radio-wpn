@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU'RE THE INSPIRATION",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "FOR ONCE IN OUR LIVES",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "YOU'RE THE INSPIRATION",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "CAN WE TALK",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "PROMISE AIN\u2019T ENOUGH",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
