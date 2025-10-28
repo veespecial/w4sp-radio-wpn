@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUNAWAY",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "SUMMER WIND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "RUNAWAY",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "I'm Happy Just to Dance with You",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "POETRY MAN",
-            "artist": "CAMERON"
         }
     ]
 }
