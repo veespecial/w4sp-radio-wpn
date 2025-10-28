@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BODY AND SOUL",
-        "artist": "DAVE DYSART"
+        "title": "HOW MUCH I FEEL",
+        "artist": "CAMERON"
     },
     "recent": [
+        {
+            "title": "BODY AND SOUL",
+            "artist": "DAVE DYSART"
+        },
         {
             "title": "FAIR TOMORROW",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "I'LL NEVER FALL IN LOVE",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "SAY YOU LOVE ME",
-            "artist": "Josephs Band"
         }
     ]
 }
