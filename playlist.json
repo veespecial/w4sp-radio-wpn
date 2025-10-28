@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOW CAN YOU MEND A BROKEN HEART",
-        "artist": "Moro-Eden"
+        "title": "COME RAIN OR COME SHINE",
+        "artist": "It\u2019s Lenny Moore"
     },
     "recent": [
+        {
+            "title": "HOW CAN YOU MEND A BROKEN HEART",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "TIL I HEAR IT FROM YOU",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
