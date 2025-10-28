@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Matter Of Time",
-        "artist": "Jerry Cortez"
+        "title": "YOUR PRECIOUS LOVE",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "Matter Of Time",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "SARA SMILE",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "DONE WITH PONAPARTE",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "ANOTHER TIME",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
