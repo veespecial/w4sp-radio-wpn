@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JUST ONE WORD",
-        "artist": "Harley Bros."
+        "title": "STONED SOUL PICNIC",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "JUST ONE WORD",
+            "artist": "Harley Bros."
+        },
         {
             "title": "HOT SAUCE",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "One on One",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
