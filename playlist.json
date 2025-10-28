@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Black Cow",
-        "artist": "Andy Suzuki"
+        "title": "YOU ARE EVERYTHING",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "Black Cow",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "Claudette",
             "artist": "Disk Eyes London"
@@ -39,10 +43,6 @@
         {
             "title": "RUNAWAY",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "YOUR'E NO GOOD",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
