@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I GO TO EXTREMES",
-        "artist": "MANSON/MARROW/HALL"
+        "title": "LIFE IS BUT A DREAM",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "I GO TO EXTREMES",
+            "artist": "MANSON/MARROW/HALL"
+        },
         {
             "title": "FOR ELFI",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "Paramour",
-            "artist": "Dave Keenan"
         }
     ]
 }
