@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON\u2019T WANNA LOSE YOU",
-        "artist": "Curtis Brengle"
+        "title": "LONELY TOO LONG",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "DON\u2019T WANNA LOSE YOU",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
@@ -39,10 +43,6 @@
         {
             "title": "WINDLESS",
             "artist": "Michael Strickland"
-        },
-        {
-            "title": "BECAUSE YOU LOVED ME",
-            "artist": "North Point"
         }
     ]
 }
