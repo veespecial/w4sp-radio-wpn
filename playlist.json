@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL NEVER FALL IN LOVE",
-        "artist": "Andre Mayeux"
+        "title": "Samsonite Waltz",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "I'LL NEVER FALL IN LOVE",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "SAY YOU LOVE ME",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "Ain't Nothing Like the Real Thing",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "Tears In Heaven",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
