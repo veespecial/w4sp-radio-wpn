@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HERO",
-        "artist": "JOHN GOFORTH"
+        "title": "Alison",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "HERO",
+            "artist": "JOHN GOFORTH"
+        },
         {
             "title": "STARDUST",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "STUBBORN KIND OF FELLOW",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "RAIN AND SHINE",
-            "artist": "Jennifer Ivester"
         }
     ]
 }
