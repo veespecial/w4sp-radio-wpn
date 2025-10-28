@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Millennium",
-        "artist": "Harley Brothers"
+        "title": "Footprints",
+        "artist": "Melissa Siegel"
     },
     "recent": [
+        {
+            "title": "Millennium",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "DON'T LOOK BACK",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
-        },
-        {
-            "title": "Louise",
-            "artist": "Dave Raynor"
         }
     ]
 }
