@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOT SAUCE",
-        "artist": "Eric Tingstad"
+        "title": "LULLABY OF BIRDLAND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "HOT SAUCE",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "STARDUST",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "ORDINARY WORLD",
-            "artist": "Devlin's Strings"
         }
     ]
 }
