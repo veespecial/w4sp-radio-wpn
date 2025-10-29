@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MIRACLES",
-        "artist": "North Point"
+        "title": "TEARS FROM THE SUN",
+        "artist": "PASERO/SUZUKI-HAWAII"
     },
     "recent": [
+        {
+            "title": "MIRACLES",
+            "artist": "North Point"
+        },
         {
             "title": "I DON\u2019T WANNA BE ALONE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "WHEN SUNNY GETS BLUE",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "LULLABY OF BIRDLAND",
-            "artist": "Harley"
         }
     ]
 }
