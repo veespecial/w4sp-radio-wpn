@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF WE FALL IN LOVE AGAIN",
-        "artist": "Tom Kellock"
+        "title": "END OF THE DAY",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "IF WE FALL IN LOVE AGAIN",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "APRIL BLUES",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMBOAT ANNIE",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "DELIVER ME FROM MY MIND",
-            "artist": "Andy Suzuki"
         }
     ]
 }
