@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOW DO I LIVE",
-        "artist": "Andre Mayeux"
+        "title": "I TURN TO YOU",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "HOW DO I LIVE",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "WORLD I KNOW",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "CUCHAMA",
             "artist": "Govi"
-        },
-        {
-            "title": "HEAVEN",
-            "artist": "North Point"
         }
     ]
 }
