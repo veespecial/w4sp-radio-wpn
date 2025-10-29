@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T DREAM IT'S OVER",
-        "artist": "Andre Mayeux"
+        "title": "POETRY MAN",
+        "artist": "CAMERON"
     },
     "recent": [
+        {
+            "title": "DON'T DREAM IT'S OVER",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "NEPTUNE",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "(WILL YOU) COME BACK MY LOVE",
-            "artist": "JOHN GOFORTH"
         }
     ]
 }
