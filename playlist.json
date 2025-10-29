@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I CAN DREAM ABOUT YOU",
-        "artist": "Curtis Brengle"
+        "title": "DON\u2019T ASK MY NEIGHBOR",
+        "artist": "STRINGS BY ANDY"
     },
     "recent": [
+        {
+            "title": "I CAN DREAM ABOUT YOU",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "MIRACLES",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "STARDUST",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "WE'RE GONNA MAKE IT",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
