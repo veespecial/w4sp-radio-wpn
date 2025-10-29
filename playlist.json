@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEY GIRL",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "WINDLESS",
+        "artist": "Michael Strickland"
     },
     "recent": [
+        {
+            "title": "HEY GIRL",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "CLOUDY",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "DON\u2019T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
-        },
-        {
-            "title": "I CAN DREAM ABOUT YOU",
-            "artist": "Curtis Brengle"
         }
     ]
 }
