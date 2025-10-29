@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LITTLE MORE TIME WITH YOU",
-        "artist": "Andre Mayeux"
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "LITTLE MORE TIME WITH YOU",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "WHAT'S NEW",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "Carey",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "CHAIN LIGHTNING",
-            "artist": "Tom Politzer 93"
         }
     ]
 }
