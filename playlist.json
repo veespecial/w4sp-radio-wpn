@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Elfi's Tune",
-        "artist": "Dave Raynor"
+        "title": "ALL I\u2019VE GOT TO DO",
+        "artist": "Flyin\u2019 Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "Elfi's Tune",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
@@ -39,10 +43,6 @@
         {
             "title": "END OF THE DAY",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "FEEL LIKE MAKIN' LOVE",
-            "artist": "Nick Manson"
         }
     ]
 }
