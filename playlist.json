@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THAT\u2019S WHAT FRIENDS ARE FOR",
-        "artist": "North Point"
+        "title": "One on One",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "THAT\u2019S WHAT FRIENDS ARE FOR",
+            "artist": "North Point"
+        },
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
-        },
-        {
-            "title": "WELCOME TO MY WORLD",
-            "artist": "Kevin Madill-Nashville"
         }
     ]
 }
