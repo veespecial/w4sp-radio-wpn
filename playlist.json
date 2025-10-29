@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL I\u2019VE GOT TO DO",
-        "artist": "Flyin\u2019 Hawaiian Bro"
+        "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "ALL I\u2019VE GOT TO DO",
+            "artist": "Flyin\u2019 Hawaiian Bro"
+        },
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "KRISTIANA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "Walk On By",
-            "artist": "Manson Music"
         }
     ]
 }
