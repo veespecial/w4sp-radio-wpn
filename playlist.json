@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Footprints",
-        "artist": "Melissa Siegel"
+        "title": "Till There Was You",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "Footprints",
+            "artist": "Melissa Siegel"
+        },
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
-        },
-        {
-            "title": "Alison",
-            "artist": "Quistetts"
         }
     ]
 }
