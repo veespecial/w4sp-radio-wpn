@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIAMOND DUST",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "Every Kinda People",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "DIAMOND DUST",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "HOW CAN YOU MEND A BROKEN HEART",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "MY FUNNY VALENTINE",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "I SOLD MY HEART TO THE JUNKMAN",
-            "artist": "Jim Devlin"
         }
     ]
 }
