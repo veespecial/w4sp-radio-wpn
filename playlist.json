@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHENEVER YOU'RE ON MY MIND",
-        "artist": "Clair Marlo"
+        "title": "QUIEREME MUCHO",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "WHENEVER YOU'RE ON MY MIND",
+            "artist": "Clair Marlo"
+        },
         {
             "title": "YOU ARE EVERYTHING",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "GAUCHO",
             "artist": "North Point"
-        },
-        {
-            "title": "STAY (I MISSED YOU)",
-            "artist": "Moro-Eden"
         }
     ]
 }
