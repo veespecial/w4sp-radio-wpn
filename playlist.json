@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MORE THAN THIS",
-        "artist": "Disk Eyes S.F."
+        "title": "I\u2019LL BE OVER YOU",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "MORE THAN THIS",
+            "artist": "Disk Eyes S.F."
+        },
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "LITTLE MORE TIME WITH YOU",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "BECAUSE YOU LOVED ME",
-            "artist": "North Point"
         }
     ]
 }
