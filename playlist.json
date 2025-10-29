@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STARDUST",
-        "artist": "LENNY MOORE"
+        "title": "HOT SAUCE",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "STARDUST",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "DELIVER ME FROM MY MIND",
-            "artist": "Andy Suzuki"
         }
     ]
 }
