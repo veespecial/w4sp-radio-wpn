@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "OLD OAK KNOLL",
-        "artist": "Nick Manson"
+        "title": "Life In Mono",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "OLD OAK KNOLL",
+            "artist": "Nick Manson"
+        },
         {
             "title": "ALIEN",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "DIXIE MOON",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "LONELY TOO LONG",
-            "artist": "South Point"
         }
     ]
 }
