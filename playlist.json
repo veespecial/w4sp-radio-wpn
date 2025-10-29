@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MAGNOLIA",
-        "artist": "Eric Tingstad"
+        "title": "Beyond the Sea",
+        "artist": "Disk Eyes London"
     },
     "recent": [
+        {
+            "title": "MAGNOLIA",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "Reflection",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "I Only Have Eyes for You",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "SOMEWHERE IN THE WORLD",
-            "artist": "David Patt"
         }
     ]
 }
