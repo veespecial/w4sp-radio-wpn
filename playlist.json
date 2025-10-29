@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HALF A MINUTE",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "Every Kinda People",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "HALF A MINUTE",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "THIS MASQUERADE",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "HEY GIRL",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "LITTLE MORE TIME WITH YOU",
-            "artist": "Andre Mayeux"
         }
     ]
 }
