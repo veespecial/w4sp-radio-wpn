@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL ROADS LEAD TO YOU",
-        "artist": "Kevin Madill-Nashville"
+        "title": "WHAT'S NEW",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "ALL ROADS LEAD TO YOU",
+            "artist": "Kevin Madill-Nashville"
+        },
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "GOIN OUT OF MY HEAD",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "Walk On By",
-            "artist": "Manson Music"
         }
     ]
 }
