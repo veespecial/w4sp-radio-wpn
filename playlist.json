@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JULIA",
-        "artist": "North Point"
+        "title": "I Say a Little Prayer",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "JULIA",
+            "artist": "North Point"
+        },
         {
             "title": "CORRINA CORRINA",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "Kiss Me",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "GOOD LIFE",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
