@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
-        "artist": "Disk Eyes S.F."
+        "title": "Paramour",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
+            "artist": "Disk Eyes S.F."
+        },
         {
             "title": "WHAT DOES IT TAKE",
             "artist": "JON GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "DON\u2019T WANT (TO BE A FOOL)",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "ONCE AND FUTURE",
-            "artist": "Newhall Collective"
         }
     ]
 }
