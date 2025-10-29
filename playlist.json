@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL I\u2019VE GOT TO DO",
-        "artist": "Flyin\u2019 Hawaiian Bro"
+        "title": "WHAT'S NEW",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "ALL I\u2019VE GOT TO DO",
+            "artist": "Flyin\u2019 Hawaiian Bro"
+        },
         {
             "title": "IF TOMORROW NEVER COMES",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "I GO TO EXTREMES",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
