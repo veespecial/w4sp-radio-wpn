@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT'S NEW",
-        "artist": "MANSON STRINGS"
+        "title": "LAUGHTER IN THE RAIN",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "WHAT'S NEW",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "ALL I\u2019VE GOT TO DO",
             "artist": "Flyin\u2019 Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
-        },
-        {
-            "title": "IF WE FALL IN LOVE AGAIN",
-            "artist": "Tom Kellock"
         }
     ]
 }
