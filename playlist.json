@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CHAIN LIGHTNING",
-        "artist": "Tom Politzer 93"
+        "title": "Carey",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "CHAIN LIGHTNING",
+            "artist": "Tom Politzer 93"
+        },
         {
             "title": "I WANT TO THANK YOU",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "BECAUSE YOU LOVED ME",
             "artist": "North Point"
-        },
-        {
-            "title": "Love Of My Life",
-            "artist": "Andre Mayeux"
         }
     ]
 }
