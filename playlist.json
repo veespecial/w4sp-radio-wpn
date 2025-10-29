@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WINDLESS",
-        "artist": "Michael Strickland"
+        "title": "CAN I CHANGE MY MIND",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "WINDLESS",
+            "artist": "Michael Strickland"
+        },
         {
             "title": "HEY GIRL",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "I'M IN A PHILLY MOOD",
             "artist": "Mike Jaap"
-        },
-        {
-            "title": "DON\u2019T ASK MY NEIGHBOR",
-            "artist": "STRINGS BY ANDY"
         }
     ]
 }
