@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAN I CHANGE MY MIND",
-        "artist": "Politzer/Withycombe"
+        "title": "DINDI",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "CAN I CHANGE MY MIND",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "WINDLESS",
             "artist": "Michael Strickland"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T LOOK BACK",
             "artist": "Harley"
-        },
-        {
-            "title": "I'M IN A PHILLY MOOD",
-            "artist": "Mike Jaap"
         }
     ]
 }
