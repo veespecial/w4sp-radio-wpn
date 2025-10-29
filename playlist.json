@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Vienna",
-        "artist": "Manson Music"
+        "title": "YOU'RE THE INSPIRATION",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "Vienna",
+            "artist": "Manson Music"
+        },
         {
             "title": "COME RAIN OR COME SHINE",
             "artist": "It\u2019s Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "Changes",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "JUST THE TWO OF US",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
