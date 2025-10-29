@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOOD LIFE",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Kiss Me",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "GOOD LIFE",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "LULLABY OF BIRDLAND",
-            "artist": "Harley"
         }
     ]
 }
