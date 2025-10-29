@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Day Dreaming",
-        "artist": "Harley Bros."
+        "title": "IT MAKES ME CRAZY",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "Day Dreaming",
+            "artist": "Harley Bros."
+        },
         {
             "title": "EVERY BEAT OF MY HEART",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "YOUNG ENOUGH TO KNOW",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "I GO TO EXTREMES",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
