@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANOTHER SAD LOVE SONG",
-        "artist": "Mike Jaap"
+        "title": "JULIA",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "ANOTHER SAD LOVE SONG",
+            "artist": "Mike Jaap"
+        },
         {
             "title": "GOIN OUT OF MY HEAD",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "COME FLY WITH ME",
             "artist": "Harley"
-        },
-        {
-            "title": "Louise",
-            "artist": "Dave Raynor"
         }
     ]
 }
