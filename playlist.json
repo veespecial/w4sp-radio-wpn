@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DA DA",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "CHEHALIS",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "DA DA",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "OLD OAK KNOLL",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "Carey",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "I JUST WANNA STOP",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
