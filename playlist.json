@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DINDI",
-        "artist": "LENNY MOORE"
+        "title": "IT'S ALL ABOUT YOU",
+        "artist": "FUNTASTIK"
     },
     "recent": [
+        {
+            "title": "DINDI",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "CAN I CHANGE MY MIND",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "DON'T LOOK BACK",
-            "artist": "Harley"
         }
     ]
 }
