@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON\u2019T WANNA LOSE YOU",
-        "artist": "Curtis Brengle"
+        "title": "Vienna",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "DON\u2019T WANNA LOSE YOU",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
-        },
-        {
-            "title": "HALF A MINUTE",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
