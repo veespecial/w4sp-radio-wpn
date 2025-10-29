@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WINDLESS",
-        "artist": "Michael Strickland"
+        "title": "I JUST WANNA STOP",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "WINDLESS",
+            "artist": "Michael Strickland"
+        },
         {
             "title": "SUNNY CAME HOME",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "Vienna",
-            "artist": "Manson Music"
         }
     ]
 }
