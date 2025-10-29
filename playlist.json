@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SUNNY CAME HOME",
-        "artist": "MOORE and BRENGLE"
+        "title": "WINDLESS",
+        "artist": "Michael Strickland"
     },
     "recent": [
+        {
+            "title": "SUNNY CAME HOME",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "COME RAIN OR COME SHINE",
             "artist": "It\u2019s Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "Vienna",
             "artist": "Manson Music"
-        },
-        {
-            "title": "COME RAIN OR COME SHINE",
-            "artist": "It\u2019s Lenny Moore"
         }
     ]
 }
