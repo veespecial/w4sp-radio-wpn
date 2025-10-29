@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BODY AND SOUL",
-        "artist": "DAVE DYSART"
+        "title": "TIL I HEAR IT FROM YOU",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "BODY AND SOUL",
+            "artist": "DAVE DYSART"
+        },
         {
             "title": "WORLD I KNOW",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "Heaven On A Sunday",
             "artist": "John Morton"
-        },
-        {
-            "title": "ALL I WANNA DO",
-            "artist": "Harley"
         }
     ]
 }
