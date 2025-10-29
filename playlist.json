@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRAZY LITTLE THING CALLED LOVE",
-        "artist": "Harley Brothers"
+        "title": "I Say a Little Prayer",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "CRAZY LITTLE THING CALLED LOVE",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "DA DA",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIK"
-        },
-        {
-            "title": "Ain't Nothing Like the Real Thing",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
