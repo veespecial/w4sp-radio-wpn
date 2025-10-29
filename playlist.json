@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHERE IS THE LOVE",
-        "artist": "Tom Kellock"
+        "title": "Samsonite Waltz",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "WHERE IS THE LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "I Only Have Eyes for You",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "RUNAWAY",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "I GO TO EXTREMES",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
