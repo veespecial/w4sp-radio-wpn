@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW KID AROUND",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "THANK YOU",
+        "artist": "Disk Eyes S.F."
     },
     "recent": [
+        {
+            "title": "NEW KID AROUND",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "DIXIE MOON",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
-        },
-        {
-            "title": "Tempted",
-            "artist": "Harley Bros."
         }
     ]
 }
