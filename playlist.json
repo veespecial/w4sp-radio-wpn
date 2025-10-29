@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fast Car",
-        "artist": "Quistetts"
+        "title": "ONSTREAM",
+        "artist": "Frank Joseph\u2019s Group"
     },
     "recent": [
+        {
+            "title": "Fast Car",
+            "artist": "Quistetts"
+        },
         {
             "title": "DONE WITH PONAPARTE",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "CLOUDY",
             "artist": "NORTHPOINT"
-        },
-        {
-            "title": "SHAKE AND BAKE",
-            "artist": "Newhall Collective"
         }
     ]
 }
