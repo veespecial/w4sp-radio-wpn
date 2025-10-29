@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JULIA",
-        "artist": "North Point"
+        "title": "SOME ENCHANTED EVENING",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "JULIA",
+            "artist": "North Point"
+        },
         {
             "title": "ANOTHER SAD LOVE SONG",
             "artist": "Mike Jaap"
@@ -39,10 +43,6 @@
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "COME FLY WITH ME",
-            "artist": "Harley"
         }
     ]
 }
