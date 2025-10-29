@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tears In Heaven",
-        "artist": "Crescenta Valley Boys"
+        "title": "Until You Come Back To Me",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "Tears In Heaven",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "DON'T GO BREAKIN MY HEART",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "HALF A MINUTE",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
