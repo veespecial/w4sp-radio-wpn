@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOOLISH HEART",
-        "artist": "Curtis Brengle"
+        "title": "FEEL LIKE MAKIN' LOVE",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "FOOLISH HEART",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "WHEN SUNNY GETS BLUE",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "GOT TO GIVE IT UP",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "FOR ONCE IN MY LIFE",
-            "artist": "Josephs Band"
         }
     ]
 }
