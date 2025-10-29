@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR SECRET LOVE",
-        "artist": "Frank Josephs"
+        "title": "FOR ONCE IN OUR LIVES",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "YOUR SECRET LOVE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "ANOTHER SAD LOVE SONG",
             "artist": "Mike Jaap"
@@ -39,10 +43,6 @@
         {
             "title": "NEPTUNE",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "Till There Was You",
-            "artist": "Dave Raynor"
         }
     ]
 }
