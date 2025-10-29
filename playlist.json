@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I SOLD MY HEART TO THE JUNKMAN",
-        "artist": "Jim Devlin"
+        "title": "DESTINY",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "I SOLD MY HEART TO THE JUNKMAN",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "DELIVER ME FROM MY MIND",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "DREAMBOAT ANNIE",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
