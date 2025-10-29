@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I JUST WANNA STOP",
-        "artist": "MANASUS MUSIC"
+        "title": "Carey",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "I JUST WANNA STOP",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "WINDLESS",
             "artist": "Michael Strickland"
@@ -39,10 +43,6 @@
         {
             "title": "I'M IN A PHILLY MOOD",
             "artist": "Mike Jaap"
-        },
-        {
-            "title": "YOU'RE THE INSPIRATION",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
