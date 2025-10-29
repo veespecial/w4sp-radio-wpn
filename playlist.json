@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DESTINY",
-        "artist": "Nick Manson"
+        "title": "CHEHALIS",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "DESTINY",
+            "artist": "Nick Manson"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "TORN",
             "artist": "Harley Music"
-        },
-        {
-            "title": "DELIVER ME FROM MY MIND",
-            "artist": "Andy Suzuki"
         }
     ]
 }
