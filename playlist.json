@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Samsonite Waltz",
-        "artist": "Dave Keenan"
+        "title": "Black Cow",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "Samsonite Waltz",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "COME FLY WITH ME",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "AIN'T MISBEHAVIN",
-            "artist": "BRAD ALLISON"
         }
     ]
 }
