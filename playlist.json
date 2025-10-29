@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Make Lovin' Fun",
-        "artist": "Harley Bros."
+        "title": "HOT SAUCE",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "You Make Lovin' Fun",
+            "artist": "Harley Bros."
+        },
         {
             "title": "DREAMBOAT ANNIE",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "ALL I\u2019VE GOT TO DO",
             "artist": "Flyin\u2019 Hawaiian Bro"
-        },
-        {
-            "title": "My Ever Changing Moods",
-            "artist": "Jim Devlin"
         }
     ]
 }
