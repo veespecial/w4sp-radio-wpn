@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WELCOME TO MY WORLD",
-        "artist": "Kevin Madill-Nashville"
+        "title": "WHENEVER YOU'RE ON MY MIND",
+        "artist": "Clair Marlo"
     },
     "recent": [
+        {
+            "title": "WELCOME TO MY WORLD",
+            "artist": "Kevin Madill-Nashville"
+        },
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "TIL I HEAR IT FROM YOU",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
