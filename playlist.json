@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HAKUNA MATATA",
-        "artist": "Josephs Band"
+        "title": "FOREVER MORE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "HAKUNA MATATA",
+            "artist": "Josephs Band"
+        },
         {
             "title": "Beyond the Sea",
             "artist": "Disk Eyes London"
@@ -39,10 +43,6 @@
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
-        },
-        {
-            "title": "SAN TROPEZ",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
