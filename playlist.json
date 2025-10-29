@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR SECRET LOVE",
-        "artist": "Frank Josephs"
+        "title": "PROMISE AIN'T ENOUGH",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "YOUR SECRET LOVE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "SARA SMILE",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "NEVER CAN SAY GOODBYE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
