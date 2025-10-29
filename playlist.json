@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Reflection",
-        "artist": "Los Devlin Strings"
+        "title": "MAGNOLIA",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "Reflection",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "YOUNG ENOUGH TO KNOW",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
-        },
-        {
-            "title": "Walton On Thames",
-            "artist": "Jerry Cortez"
         }
     ]
 }
