@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIXIE MOON",
-        "artist": "LENNY MOORE"
+        "title": "NEW KID AROUND",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "DIXIE MOON",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "Tempted",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "GREEN FLOWER STREET",
-            "artist": "Funtastic"
         }
     ]
 }
