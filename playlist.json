@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'M IN A PHILLY MOOD",
-        "artist": "Mike Jaap"
+        "title": "Fast Car",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "I'M IN A PHILLY MOOD",
+            "artist": "Mike Jaap"
+        },
         {
             "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "DESAFINADO",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "SACRIFICE",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
