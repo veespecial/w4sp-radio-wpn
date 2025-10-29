@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Millennium",
-        "artist": "Harley Brothers"
+        "title": "(WILL YOU) COME BACK MY LOVE",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "Millennium",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "SOMETHING THAT WE DO",
             "artist": "Harley Music"
-        },
-        {
-            "title": "FAIR TOMORROW",
-            "artist": "Jerry Cortez"
         }
     ]
 }
