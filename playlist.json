@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JUST THE TWO OF US",
-        "artist": "CHAD STONE BAND"
+        "title": "I Only Have Eyes for You",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "JUST THE TWO OF US",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "GOT TO GIVE IT UP",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "WHAT'S NEW",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
