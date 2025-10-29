@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I\u2019LL BE OVER YOU",
-        "artist": "Daniel Ho"
+        "title": "BODY AND SOUL",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "I\u2019LL BE OVER YOU",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "MORE THAN THIS",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "LITTLE MORE TIME WITH YOU",
-            "artist": "Andre Mayeux"
         }
     ]
 }
