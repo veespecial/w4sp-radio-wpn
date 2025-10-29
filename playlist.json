@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR ONCE IN OUR LIVES",
-        "artist": "Andre Mayeux"
+        "title": "BAD SNEAKERS",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "FOR ONCE IN OUR LIVES",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "PROMISE AIN\u2019T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "MIRACLES",
             "artist": "North Point"
-        },
-        {
-            "title": "I DON\u2019T WANNA BE ALONE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
