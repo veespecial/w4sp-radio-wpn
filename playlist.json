@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "One on One",
-        "artist": "MANASUS MUSIC"
+        "title": "RUNAWAY",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "One on One",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "THAT\u2019S WHAT FRIENDS ARE FOR",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "Heaven On A Sunday",
             "artist": "John Morton"
-        },
-        {
-            "title": "WHENEVER YOU'RE ON MY MIND",
-            "artist": "Clair Marlo"
         }
     ]
 }
