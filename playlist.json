@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ORDINARY WORLD",
-        "artist": "Devlin's Strings"
+        "title": "Footprints",
+        "artist": "Melissa Siegel"
     },
     "recent": [
+        {
+            "title": "ORDINARY WORLD",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "Louise",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "HOT SAUCE",
-            "artist": "Eric Tingstad"
         }
     ]
 }
