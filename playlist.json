@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIMME LITTLE SIGN",
-        "artist": "STANDING PATT MUSIC"
+        "title": "Poor Side Of Town",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "GIMME LITTLE SIGN",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "GIVING YOU THE BEST THAT I GOT",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "DA DA",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
