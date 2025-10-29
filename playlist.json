@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "After All",
-        "artist": "Dave Raynor"
+        "title": "FOR ONCE IN MY LIFE",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "After All",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "Ain't Nothing Like the Real Thing",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
