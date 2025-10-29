@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JUST THE TWO OF US",
-        "artist": "CHAD STONE BAND"
+        "title": "Changes",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "JUST THE TWO OF US",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "HOW CAN YOU MEND A BROKEN HEART",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "EVERY BEAT OF MY HEART",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "Heaven On A Sunday",
-            "artist": "John Morton"
         }
     ]
 }
