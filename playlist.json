@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WEST AGAIN",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "STUBBORN KIND OF FELLOW",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "WEST AGAIN",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "SOME ENCHANTED EVENING",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "TROLLY CAR",
             "artist": "Jennifer Ivester"
-        },
-        {
-            "title": "WHAT'S GOIN ON",
-            "artist": "Josephs Band"
         }
     ]
 }
