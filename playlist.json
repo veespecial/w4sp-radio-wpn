@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE WARMTH OF THE SUN",
-        "artist": "MANUSUS/KEEFER"
+        "title": "TROPIC OF CAPRICORN",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "THE WARMTH OF THE SUN",
+            "artist": "MANUSUS/KEEFER"
+        },
         {
             "title": "TORN",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "ALIEN",
             "artist": "Funtastic"
-        },
-        {
-            "title": "I TURN TO YOU",
-            "artist": "Daniel Ho"
         }
     ]
 }
