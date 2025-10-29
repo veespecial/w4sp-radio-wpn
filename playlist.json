@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Just Like This Train",
-        "artist": "San Francisco"
+        "title": "YOUR SECRET LOVE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "Just Like This Train",
+            "artist": "San Francisco"
+        },
         {
             "title": "WHAT DOES IT TAKE",
             "artist": "JON GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "Until You Come Back To Me",
-            "artist": "Manson Music"
         }
     ]
 }
