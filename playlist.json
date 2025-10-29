@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THIS MASQUERADE",
-        "artist": "DERRICK CHASE"
+        "title": "BAD REPUTATION",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "THIS MASQUERADE",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "GOT TO GIVE IT UP",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "END OF THE DAY",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "IF WE FALL IN LOVE AGAIN",
-            "artist": "Tom Kellock"
         }
     ]
 }
