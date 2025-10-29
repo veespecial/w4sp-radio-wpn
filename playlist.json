@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAD SONGS SAY SO MUCH",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "DELIVER ME FROM MY MIND",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "SAD SONGS SAY SO MUCH",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "CRAZY LITTLE THING CALLED LOVE",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "TROPIC OF CAPRICORN",
             "artist": "South Point"
-        },
-        {
-            "title": "Changes",
-            "artist": "Ray Kelley"
         }
     ]
 }
