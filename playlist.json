@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Samsonite Waltz",
-        "artist": "Dave Keenan"
+        "title": "ONSTREAM",
+        "artist": "Frank Joseph's Group"
     },
     "recent": [
+        {
+            "title": "Samsonite Waltz",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "Alison",
             "artist": "Quistetts"
@@ -39,10 +43,6 @@
         {
             "title": "Make it With You",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "WORLD I KNOW",
-            "artist": "Harley Brothers"
         }
     ]
 }
