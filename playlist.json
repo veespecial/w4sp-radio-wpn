@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TROLLY CAR",
-        "artist": "Jennifer Ivester"
+        "title": "DROWNING IN YOUR TEARS",
+        "artist": "FUNTASTIK"
     },
     "recent": [
+        {
+            "title": "TROLLY CAR",
+            "artist": "Jennifer Ivester"
+        },
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "STONED SOUL PICNIC",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "Louise",
-            "artist": "Dave Raynor"
         }
     ]
 }
