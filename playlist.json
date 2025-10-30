@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
-        "artist": "JOHN GOFORTH"
+        "title": "RUNAWAY",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
+            "artist": "JOHN GOFORTH"
+        },
         {
             "title": "QUEEN OF HEARTS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "ANOTHER TIME",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
