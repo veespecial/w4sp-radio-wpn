@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I GO TO EXTREMES",
-        "artist": "MANSON/MARROW/HALL"
+        "title": "Reflection",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "I GO TO EXTREMES",
+            "artist": "MANSON/MARROW/HALL"
+        },
         {
             "title": "DON'T GO BREAKIN MY HEART",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "Millennium",
-            "artist": "Harley Brothers"
         }
     ]
 }
