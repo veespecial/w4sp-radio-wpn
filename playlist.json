@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GAUCHO",
-        "artist": "North Point"
+        "title": "Tempted",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "GAUCHO",
+            "artist": "North Point"
+        },
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "Reflection",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "I GO TO EXTREMES",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
