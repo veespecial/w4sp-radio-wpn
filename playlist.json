@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GREEN FLOWER STREET",
-        "artist": "Funtastic"
+        "title": "IN WONDER",
+        "artist": "Govi"
     },
     "recent": [
+        {
+            "title": "GREEN FLOWER STREET",
+            "artist": "Funtastic"
+        },
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "Turn Turn Turn",
             "artist": "John Morton"
-        },
-        {
-            "title": "After the Love Has Gone",
-            "artist": "Harley Music"
         }
     ]
 }
