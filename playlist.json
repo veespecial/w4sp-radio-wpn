@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AIN'T MISBEHAVIN",
-        "artist": "BRAD ALLISON"
+        "title": "GIVING YOU THE BEST THAT I GOT",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "AIN'T MISBEHAVIN",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "YOUR PRECIOUS LOVE",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "You're the Best Thing",
-            "artist": "DAVE PATT"
         }
     ]
 }
