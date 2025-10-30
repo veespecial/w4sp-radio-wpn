@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LULLABY OF BIRDLAND",
-        "artist": "Harley"
+        "title": "Wait So Long",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "LULLABY OF BIRDLAND",
+            "artist": "Harley"
+        },
         {
             "title": "RUNAWAY",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "I THINK I'LL TELL HIM",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "I'M IN A PHILLY MOOD",
-            "artist": "Mike Jaap"
         }
     ]
 }
