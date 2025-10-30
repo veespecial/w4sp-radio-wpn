@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ain't Nothing Like the Real Thing",
-        "artist": "MANASUS MUSIC"
+        "title": "THE STRANGER",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "Ain't Nothing Like the Real Thing",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "Where Love Goes",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "DIAMOND DUST",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
