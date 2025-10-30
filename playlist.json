@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWEET CLAIRE",
-        "artist": "Michael Strickland"
+        "title": "LOVE WILL CONQUER ALL",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "SWEET CLAIRE",
+            "artist": "Michael Strickland"
+        },
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "EARTH ANGERL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "Wait So Long",
-            "artist": "Dave Raynor"
         }
     ]
 }
