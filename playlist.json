@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I CAN DREAM ABOUT YOU",
-        "artist": "Curtis Brengle"
+        "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
+        "artist": "Disk Eyes S.F."
     },
     "recent": [
+        {
+            "title": "I CAN DREAM ABOUT YOU",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "Life In Mono",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "Fly'n",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "SACRIFICE",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
