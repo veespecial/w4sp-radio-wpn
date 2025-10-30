@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SARA SMILE",
-        "artist": "CHAD STONE BAND"
+        "title": "IN A DAYDREAM",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "SARA SMILE",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "I'LL NEVER FALL IN LOVE",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "How Deep is Your Love",
             "artist": "Harley Music"
-        },
-        {
-            "title": "BACK STABBERS",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
