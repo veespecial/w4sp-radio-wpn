@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT'S GOIN ON",
-        "artist": "Josephs Band"
+        "title": "CAMILLA",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "WHAT'S GOIN ON",
+            "artist": "Josephs Band"
+        },
         {
             "title": "GOIN OUT OF MY HEAD",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "TIL I HEAR IT FROM YOU",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "TROLLY CAR",
-            "artist": "Jennifer Ivester"
         }
     ]
 }
