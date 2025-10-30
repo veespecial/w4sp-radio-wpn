@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fly'n",
-        "artist": "Dave Raynor"
+        "title": "SMOOTH OPERATOR",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "Fly'n",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
@@ -39,10 +43,6 @@
         {
             "title": "GOT TO GIVE IT UP",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "IN A DAYDREAM",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
