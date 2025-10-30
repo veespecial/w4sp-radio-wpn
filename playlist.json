@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL ROADS LEAD TO YOU",
-        "artist": "Kevin Madill-Nashville"
+        "title": "KRISTIANA",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "ALL ROADS LEAD TO YOU",
+            "artist": "Kevin Madill-Nashville"
+        },
         {
             "title": "DESAFINADO",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "TO LOVE YOU MORE",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "DON'T DREAM IT'S OVER",
-            "artist": "Andre Mayeux"
         }
     ]
 }
