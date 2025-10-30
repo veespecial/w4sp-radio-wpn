@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ONSTREAM",
-        "artist": "Frank Joseph's Group"
+        "title": "Vienna",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "ONSTREAM",
+            "artist": "Frank Joseph's Group"
+        },
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "Shooting Star",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "Make it With You",
-            "artist": "Daniel Ho"
         }
     ]
 }
