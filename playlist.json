@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BEWILDERED",
-        "artist": "MANSON STRINGS"
+        "title": "WORLD I KNOW",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "BEWILDERED",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "SHAKE AND BAKE",
             "artist": "Newhall Collective"
@@ -39,10 +43,6 @@
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "Sweet Seasons",
-            "artist": "Harley Bros."
         }
     ]
 }
