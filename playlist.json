@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LOVE WILL CONQUER ALL",
-        "artist": "Tom Kellock"
+        "title": "GIMME LITTLE SIGN",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "LOVE WILL CONQUER ALL",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "SWEET CLAIRE",
             "artist": "Michael Strickland"
@@ -39,10 +43,6 @@
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "EARTH ANGERL (WILL YOU BE MINE)",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
