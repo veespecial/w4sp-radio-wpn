@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T GO BREAKIN MY HEART",
-        "artist": "Devlin's Strings"
+        "title": "I GO TO EXTREMES",
+        "artist": "MANSON/MARROW/HALL"
     },
     "recent": [
+        {
+            "title": "DON'T GO BREAKIN MY HEART",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
@@ -39,10 +43,6 @@
         {
             "title": "Millennium",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "GIMME LITTLE SIGN",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
