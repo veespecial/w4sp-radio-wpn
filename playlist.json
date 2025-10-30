@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JO JO",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "Elfi's Tune",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "JO JO",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "WHAT DOES IT TAKE",
             "artist": "JON GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "BACK IN THE CHAIN GANG",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "ANOTHER TIME",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
