@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL BE OVER YOU",
-        "artist": "Daniel Ho"
+        "title": "THESE DREAMS",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "I'LL BE OVER YOU",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T GO BREAKIN MY HEART",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "APPALACHIA CALLING",
-            "artist": "Eric Tingstad"
         }
     ]
 }
