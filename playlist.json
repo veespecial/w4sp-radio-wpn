@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BREAKFAST AT TIFFANY'S",
-        "artist": "Josephs Band"
+        "title": "I Say a Little Prayer",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "BREAKFAST AT TIFFANY'S",
+            "artist": "Josephs Band"
+        },
         {
             "title": "CHAIN LIGHTNING",
             "artist": "Tom Politzer 93"
@@ -39,10 +43,6 @@
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "YOU ARE EVERYTHING",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
