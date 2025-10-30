@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JUST THE TWO OF US",
-        "artist": "CHAD STONE BAND"
+        "title": "YOUNG ENOUGH TO KNOW",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "JUST THE TWO OF US",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "TORN",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "HOT SAUCE",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "GOOD LIFE",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
