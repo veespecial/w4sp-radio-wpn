@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TO LOVE YOU MORE",
-        "artist": "Frank Josephs"
+        "title": "HOT SAUCE",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "TO LOVE YOU MORE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "Changes",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "DIXIE MOON",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "SOMETIME BRAZIL",
-            "artist": "Andy Suzuki"
         }
     ]
 }
