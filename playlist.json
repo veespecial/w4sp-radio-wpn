@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ain't Nothing Like the Real Thing",
-        "artist": "MANASUS MUSIC"
+        "title": "Black Cow",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "Ain't Nothing Like the Real Thing",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "Sun King",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "APRIL BLUES",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "ALL I WANNA DO",
-            "artist": "Harley"
         }
     ]
 }
