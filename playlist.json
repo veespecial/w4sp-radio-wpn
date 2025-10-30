@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AIN'T MISBEHAVIN",
-        "artist": "BRAD ALLISON"
+        "title": "DREAMLOVER",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "AIN'T MISBEHAVIN",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
@@ -39,10 +43,6 @@
         {
             "title": "GOIN OUT OF MY HEAD",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "I THINK I'LL TELL HIM",
-            "artist": "Andy Suzuki"
         }
     ]
 }
