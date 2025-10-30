@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOT TO GIVE IT UP",
-        "artist": "STANDING PATT MUSIC"
+        "title": "BEWILDERED",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "GOT TO GIVE IT UP",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "IN A DAYDREAM",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "Sun King",
             "artist": "San Francisco"
-        },
-        {
-            "title": "SLEEPING CAT DANCE",
-            "artist": "Nick Manson"
         }
     ]
 }
