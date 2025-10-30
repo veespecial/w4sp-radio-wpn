@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAN WE TALK",
-        "artist": "South Point"
+        "title": "FAIR TOMORROW",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "CAN WE TALK",
+            "artist": "South Point"
+        },
         {
             "title": "IN WONDER",
             "artist": "Govi"
@@ -39,10 +43,6 @@
         {
             "title": "EVERY BEAT OF MY HEART",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "I'M IN A PHILLY MOOD",
-            "artist": "Mike Jaap"
         }
     ]
 }
