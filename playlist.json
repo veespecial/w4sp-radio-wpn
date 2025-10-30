@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOW MUCH I FEEL",
-        "artist": "CAMERON"
+        "title": "I Go Crazy",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "HOW MUCH I FEEL",
+            "artist": "CAMERON"
+        },
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "I JUST WANNA STOP",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
