@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "How Sweet it is",
-        "artist": "Harley Music"
+        "title": "TROLLY CAR",
+        "artist": "Jennifer Ivester"
     },
     "recent": [
+        {
+            "title": "How Sweet it is",
+            "artist": "Harley Music"
+        },
         {
             "title": "Tempted",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "I GO TO EXTREMES",
             "artist": "MANSON/MARROW/HALL"
-        },
-        {
-            "title": "MY FUNNY VALENTINE",
-            "artist": "Manasus Strings"
         }
     ]
 }
