@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HERE'S THAT RAINY DAY",
-        "artist": "Nick Manson"
+        "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "HERE'S THAT RAINY DAY",
+            "artist": "Nick Manson"
+        },
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIK"
@@ -39,10 +43,6 @@
         {
             "title": "MORE THAN THIS",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "Kiss Me",
-            "artist": "Harley Bros."
         }
     ]
 }
