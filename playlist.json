@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME RAIN OR COME SHINE",
-        "artist": "It's Lenny Moore"
+        "title": "I Say a Little Prayer",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "COME RAIN OR COME SHINE",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "Beyond the Sea",
             "artist": "Disk Eyes London"
@@ -39,10 +43,6 @@
         {
             "title": "BLUE BOSSA",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "DON'T WANT (TO BE A FOOL)",
-            "artist": "LENNY MOORE"
         }
     ]
 }
