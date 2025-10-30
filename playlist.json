@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Love Of My Life",
-        "artist": "Andre Mayeux"
+        "title": "SAVING ALL MY LOVE FOR YOU",
+        "artist": "NORTHPOINT"
     },
     "recent": [
+        {
+            "title": "Love Of My Life",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "APPALACHIA CALLING",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "After the Love Has Gone",
-            "artist": "Harley Music"
         }
     ]
 }
