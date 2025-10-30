@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THANK YOU",
-        "artist": "Disk Eyes S.F."
+        "title": "CUCHAMA",
+        "artist": "Govi"
     },
     "recent": [
+        {
+            "title": "THANK YOU",
+            "artist": "Disk Eyes S.F."
+        },
         {
             "title": "Beyond the Sea",
             "artist": "Disk Eyes London"
@@ -39,10 +43,6 @@
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "RUBY BABY",
-            "artist": "Funtastic"
         }
     ]
 }
