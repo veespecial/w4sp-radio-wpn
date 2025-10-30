@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUNAWAY",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "LULLABY OF BIRDLAND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "RUNAWAY",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
             "artist": "JOHN GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "I'M IN A PHILLY MOOD",
             "artist": "Mike Jaap"
-        },
-        {
-            "title": "DIAMOND DUST",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
