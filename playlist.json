@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'm Happy Just to Dance with You",
-        "artist": "Disk Eyes London"
+        "title": "Changes",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "I'm Happy Just to Dance with You",
+            "artist": "Disk Eyes London"
+        },
         {
             "title": "WHAT'S NEW",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "FAIR TOMORROW",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "CAN WE TALK",
-            "artist": "South Point"
         }
     ]
 }
