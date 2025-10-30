@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL NEVER FALL IN LOVE",
-        "artist": "Andre Mayeux"
+        "title": "SARA SMILE",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "I'LL NEVER FALL IN LOVE",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "BACK STABBERS",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "BROWN EYED GIRL",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
