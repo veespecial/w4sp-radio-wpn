@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MORE THAN THIS",
-        "artist": "Disk Eyes S.F."
+        "title": "ORDINARY WORLD",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "MORE THAN THIS",
+            "artist": "Disk Eyes S.F."
+        },
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "TROPIC OF CAPRICORN",
             "artist": "South Point"
-        },
-        {
-            "title": "Until You Come Back To Me",
-            "artist": "Manson Music"
         }
     ]
 }
