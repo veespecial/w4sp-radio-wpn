@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Every Kinda People",
-        "artist": "Harley Bros."
+        "title": "CHEHALIS",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "Every Kinda People",
+            "artist": "Harley Bros."
+        },
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "CLOUDY",
             "artist": "NORTHPOINT"
-        },
-        {
-            "title": "I CAN LOVE YOU LIKE THAT",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
