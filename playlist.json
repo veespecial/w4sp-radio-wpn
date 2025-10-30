@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Where Love Goes",
-        "artist": "Dave Raynor"
+        "title": "HOW CAN YOU MEND A BROKEN HEART",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "Where Love Goes",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "DA DA",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "HERE'S THAT RAINY DAY",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "DROWNING IN YOUR TEARS",
-            "artist": "FUNTASTIK"
         }
     ]
 }
