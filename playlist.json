@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'M IN A PHILLY MOOD",
-        "artist": "Mike Jaap"
+        "title": "EVERY BEAT OF MY HEART",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "I'M IN A PHILLY MOOD",
+            "artist": "Mike Jaap"
+        },
         {
             "title": "NEXT EVENT",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
-        },
-        {
-            "title": "Heaven On A Sunday",
-            "artist": "John Morton"
         }
     ]
 }
