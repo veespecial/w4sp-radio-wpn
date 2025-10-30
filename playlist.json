@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "END OF THE DAY",
-        "artist": "Manasus Strings"
+        "title": "PROMISE AIN'T ENOUGH",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "END OF THE DAY",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "You Make Lovin' Fun",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "WINDLESS",
-            "artist": "Michael Strickland"
         }
     ]
 }
