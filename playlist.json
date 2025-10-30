@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Where Love Goes",
-        "artist": "Dave Raynor"
+        "title": "I GOTTA RUN",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "Where Love Goes",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "IF TOMORROW NEVER COMES",
-            "artist": "Josephs Band"
         }
     ]
 }
