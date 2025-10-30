@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Millennium",
-        "artist": "Harley Brothers"
+        "title": "DREAMLOVER",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "Millennium",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "I WANT TO THANK YOU",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
