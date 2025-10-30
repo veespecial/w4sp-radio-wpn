@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BROWN EYED GIRL",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "I JUST WANNA STOP",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "BROWN EYED GIRL",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "WEST AGAIN",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "Vienna",
             "artist": "Manson Music"
-        },
-        {
-            "title": "ONSTREAM",
-            "artist": "Frank Joseph's Group"
         }
     ]
 }
