@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE FINER THINGS",
-        "artist": "DAVE DYSART"
+        "title": "Earl's Tune",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "THE FINER THINGS",
+            "artist": "DAVE DYSART"
+        },
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "JUST THE TWO OF US",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "SOMETHING THAT WE DO",
-            "artist": "Harley Music"
         }
     ]
 }
