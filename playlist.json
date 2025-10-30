@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Harvest for the World",
-        "artist": "Harley Brothers"
+        "title": "I GOTTA RUN",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "Harvest for the World",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "WINDLESS",
             "artist": "Michael Strickland"
@@ -39,10 +43,6 @@
         {
             "title": "Wait So Long",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "DREAMLOVER",
-            "artist": "It's Lenny Moore"
         }
     ]
 }
