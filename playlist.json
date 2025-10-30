@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I THINK I'LL TELL HIM",
-        "artist": "Andy Suzuki"
+        "title": "I Go Crazy",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "I THINK I'LL TELL HIM",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "I'M IN A PHILLY MOOD",
             "artist": "Mike Jaap"
@@ -39,10 +43,6 @@
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "NEVER CAN SAY GOODBYE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
