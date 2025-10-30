@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "APRIL BLUES",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Heartbreak Hotel",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "APRIL BLUES",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "MERCY MERCY ME",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR PRECIOUS LOVE",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "WHENEVER YOU'RE ON MY MIND",
-            "artist": "Clair Marlo"
         }
     ]
 }
