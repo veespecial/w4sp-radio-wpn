@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STONED SOUL PICNIC",
-        "artist": "Daniel Ho"
+        "title": "Kiss Me",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "STONED SOUL PICNIC",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Louise",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "THE STRANGER",
             "artist": "North Point"
-        },
-        {
-            "title": "MY FUNNY VALENTINE",
-            "artist": "Manasus Strings"
         }
     ]
 }
