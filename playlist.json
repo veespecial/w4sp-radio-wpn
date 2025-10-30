@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIAMOND DUST",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "Where Love Goes",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "DIAMOND DUST",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "LULLABY OF BIRDLAND",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "IF TOMORROW NEVER COMES",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "NEPTUNE",
-            "artist": "Andy Suzuki"
         }
     ]
 }
