@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Say a Little Prayer",
-        "artist": "Harley Music"
+        "title": "DON'T WORRY BABY",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "I Say a Little Prayer",
+            "artist": "Harley Music"
+        },
         {
             "title": "BREAKFAST AT TIFFANY'S",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "I GOTTA RUN",
             "artist": "John Morton"
-        },
-        {
-            "title": "SOUL SHADOWS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
