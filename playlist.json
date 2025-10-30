@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Samsonite Waltz",
-        "artist": "Dave Keenan"
+        "title": "BLUE BOSSA",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "Samsonite Waltz",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "WHAT'S GOIN ON",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "After All",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "SACRIFICE",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
