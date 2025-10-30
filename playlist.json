@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FAIR TOMORROW",
-        "artist": "Jerry Cortez"
+        "title": "Life In Mono",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "FAIR TOMORROW",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "CAN WE TALK",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "QUIEREME MUCHO",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "EVERY BEAT OF MY HEART",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
