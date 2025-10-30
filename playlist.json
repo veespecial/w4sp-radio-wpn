@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ooh Baby Baby",
-        "artist": "Crescenta Valley Boys"
+        "title": "I WANT TO THANK YOU",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "Ooh Baby Baby",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "EARTH ANGERL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "GOT TO GIVE IT UP",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "CAN WE TALK",
-            "artist": "South Point"
         }
     ]
 }
