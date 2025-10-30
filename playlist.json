@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIRL WITH A RED CARNATION",
-        "artist": "Acoustic Alchemy"
+        "title": "Heaven On A Sunday",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "GIRL WITH A RED CARNATION",
+            "artist": "Acoustic Alchemy"
+        },
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "AIN'T MISBEHAVIN",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "YOUR PRECIOUS LOVE",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
