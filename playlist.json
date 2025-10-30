@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tears In Heaven",
-        "artist": "Crescenta Valley Boys"
+        "title": "Changes",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "Tears In Heaven",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANUSUS/KEEFER"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WORRY BABY",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "I Say a Little Prayer",
-            "artist": "Harley Music"
         }
     ]
 }
