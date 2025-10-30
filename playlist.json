@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL I'VE GOT TO DO",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "Walk On By",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "ALL I'VE GOT TO DO",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "Fast Car",
             "artist": "Quistetts"
@@ -39,10 +43,6 @@
         {
             "title": "Beyond the Sea",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "NEW KID AROUND",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
