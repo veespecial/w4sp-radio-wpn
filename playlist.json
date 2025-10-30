@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I THINK I'LL TELL HIM",
-        "artist": "Andy Suzuki"
+        "title": "GOIN OUT OF MY HEAD",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "I THINK I'LL TELL HIM",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "GIVING YOU THE BEST THAT I GOT",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "How Sweet it is",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Tempted",
-            "artist": "Harley Bros."
         }
     ]
 }
