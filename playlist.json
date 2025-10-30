@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT DOES IT TAKE",
-        "artist": "JON GOFORTH"
+        "title": "NEXT EVENT",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "WHAT DOES IT TAKE",
+            "artist": "JON GOFORTH"
+        },
         {
             "title": "ALL ROADS LEAD TO YOU",
             "artist": "Kevin Madill-Nashville"
@@ -39,10 +43,6 @@
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "Every Kinda People",
-            "artist": "Harley Bros."
         }
     ]
 }
