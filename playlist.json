@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Poor Side Of Town",
-        "artist": "Crescenta Valley Boys"
+        "title": "I Only Have Eyes for You",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "Poor Side Of Town",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "IF TOMORROW NEVER COMES",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "Paramour",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "ORDINARY WORLD",
-            "artist": "Devlin's Strings"
         }
     ]
 }
