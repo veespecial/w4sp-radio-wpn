@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Every Kinda People",
-        "artist": "Harley Bros."
+        "title": "MERCY MERCY ME",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "Every Kinda People",
+            "artist": "Harley Bros."
+        },
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANUSUS/KEEFER"
@@ -39,10 +43,6 @@
         {
             "title": "STARDUST",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "SHAKE AND BAKE",
-            "artist": "Newhall Collective"
         }
     ]
 }
