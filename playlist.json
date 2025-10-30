@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Help Me",
-        "artist": "Harley Music"
+        "title": "MAGNOLIA",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "Help Me",
+            "artist": "Harley Music"
+        },
         {
             "title": "SWAY",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "Walton On Thames",
-            "artist": "Jerry Cortez"
         }
     ]
 }
