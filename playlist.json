@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LOVE WILL CONQUER ALL",
-        "artist": "Tom Kellock"
+        "title": "BECAUSE YOU LOVED ME",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "LOVE WILL CONQUER ALL",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "BAD REPUTATION",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "ROSE IN THE VINE",
-            "artist": "Harley"
         }
     ]
 }
