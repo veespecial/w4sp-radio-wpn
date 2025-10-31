@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JUST THE TWO OF US",
-        "artist": "CHAD STONE BAND"
+        "title": "CAMILLA",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "JUST THE TWO OF US",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "FOOLISH HEART",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "RAIN AND SHINE",
-            "artist": "Jennifer Ivester"
         }
     ]
 }
