@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WANT (TO BE A FOOL)",
-        "artist": "LENNY MOORE"
+        "title": "CORRINA CORRINA",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "DON'T WANT (TO BE A FOOL)",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "DESAFINADO",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "I'LL NEVER FALL IN LOVE",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "ONCE AND FUTURE",
-            "artist": "Newhall Collective"
         }
     ]
 }
