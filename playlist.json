@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOIN OUT OF MY HEAD",
-        "artist": "Nick Manson"
+        "title": "I DON'T WANNA BE ALONE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "GOIN OUT OF MY HEAD",
+            "artist": "Nick Manson"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "COME FLY WITH ME",
             "artist": "Harley"
-        },
-        {
-            "title": "Wait So Long",
-            "artist": "Dave Raynor"
         }
     ]
 }
