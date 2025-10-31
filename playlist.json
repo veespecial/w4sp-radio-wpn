@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WINDLESS",
-        "artist": "Michael Strickland"
+        "title": "Fast Car",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "WINDLESS",
+            "artist": "Michael Strickland"
+        },
         {
             "title": "STARDUST",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "MAGNOLIA",
-            "artist": "Eric Tingstad"
         }
     ]
 }
