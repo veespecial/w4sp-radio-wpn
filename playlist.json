@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE STRANGER",
-        "artist": "North Point"
+        "title": "TROPIC OF CAPRICORN",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "THE STRANGER",
+            "artist": "North Point"
+        },
         {
             "title": "Changes",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "SARA SMILE",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "WILD AND FREE",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
