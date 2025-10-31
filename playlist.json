@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAD SONGS SAY SO MUCH",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "EARTH ANGERL (WILL YOU BE MINE)",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "SAD SONGS SAY SO MUCH",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "Wait So Long",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "FOR ONCE IN MY LIFE",
-            "artist": "Josephs Band"
         }
     ]
 }
