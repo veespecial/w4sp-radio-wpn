@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tempted",
-        "artist": "Harley Bros."
+        "title": "FOOLISH HEART",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "Tempted",
+            "artist": "Harley Bros."
+        },
         {
             "title": "Louise",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
-        },
-        {
-            "title": "SOME ENCHANTED EVENING",
-            "artist": "Manasus Strings"
         }
     ]
 }
