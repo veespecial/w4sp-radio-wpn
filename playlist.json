@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JO JO",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "Footprints",
+        "artist": "Melissa Siegel"
     },
     "recent": [
+        {
+            "title": "JO JO",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "CLOUDY",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "YOUR'E NO GOOD",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
