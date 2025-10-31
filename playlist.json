@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DROWNING IN YOUR TEARS",
-        "artist": "FUNTASTIK"
+        "title": "SUMMER WIND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "DROWNING IN YOUR TEARS",
+            "artist": "FUNTASTIK"
+        },
         {
             "title": "EVERY BEAT OF MY HEART",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "NEW KID AROUND",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "TEARS FROM THE SUN",
-            "artist": "PASERO/SUZUKI-HAWAII"
         }
     ]
 }
