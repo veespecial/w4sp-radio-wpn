@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LOVE WILL CONQUER ALL",
-        "artist": "Tom Kellock"
+        "title": "MIDNIGHT TRAIN TO GEORGIA",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "LOVE WILL CONQUER ALL",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "Alison",
             "artist": "Quistetts"
@@ -39,10 +43,6 @@
         {
             "title": "IF TOMORROW NEVER COMES",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "ALL I WANNA DO",
-            "artist": "Harley"
         }
     ]
 }
