@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Day Dreaming",
-        "artist": "Harley Bros."
+        "title": "FOREVER MORE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "Day Dreaming",
+            "artist": "Harley Bros."
+        },
         {
             "title": "SOMETIME BRAZIL",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "MY FUNNY VALENTINE",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "RUBY BABY",
-            "artist": "Funtastic"
         }
     ]
 }
