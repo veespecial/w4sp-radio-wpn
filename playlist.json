@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WILD AND FREE",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "SARA SMILE",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "WILD AND FREE",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "Turn Turn Turn",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "WHAT'S NEW",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "DESTINY",
-            "artist": "Nick Manson"
         }
     ]
 }
