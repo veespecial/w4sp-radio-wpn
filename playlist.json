@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR ELFI",
-        "artist": "Nick Manson"
+        "title": "(WILL YOU) COME BACK MY LOVE",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "FOR ELFI",
+            "artist": "Nick Manson"
+        },
         {
             "title": "GIRL WITH A RED CARNATION",
             "artist": "Acoustic Alchemy"
@@ -39,10 +43,6 @@
         {
             "title": "I'm Happy Just to Dance with You",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "DREAMLOVER",
-            "artist": "It's Lenny Moore"
         }
     ]
 }
