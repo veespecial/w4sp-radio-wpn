@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL I WANNA DO",
-        "artist": "Harley"
+        "title": "IF TOMORROW NEVER COMES",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "ALL I WANNA DO",
+            "artist": "Harley"
+        },
         {
             "title": "HOW DO I LIVE",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "NORWEGAIN WOOD",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "EARTH ANGERL (WILL YOU BE MINE)",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
