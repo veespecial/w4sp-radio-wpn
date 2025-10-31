@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Walk On By",
-        "artist": "Manson Music"
+        "title": "Every Kinda People",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Walk On By",
+            "artist": "Manson Music"
+        },
         {
             "title": "You are the Sunshine of My Life",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "CUCHAMA",
             "artist": "Govi"
-        },
-        {
-            "title": "THAT'S WHAT FRIENDS ARE FOR",
-            "artist": "North Point"
         }
     ]
 }
