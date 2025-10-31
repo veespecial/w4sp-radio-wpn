@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BODY AND SOUL",
-        "artist": "DAVE DYSART"
+        "title": "Turn Turn Turn",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "BODY AND SOUL",
+            "artist": "DAVE DYSART"
+        },
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "HEARD IT IN A LOVE SONG",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "APRIL BLUES",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
