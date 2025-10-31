@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Elfi's Tune",
-        "artist": "Dave Raynor"
+        "title": "IN A DAYDREAM",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "Elfi's Tune",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "Yesterday",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "Love Of My Life",
-            "artist": "Andre Mayeux"
         }
     ]
 }
