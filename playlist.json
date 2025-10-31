@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STUBBORN KIND OF FELLOW",
-        "artist": "Crescenta Valley Boys"
+        "title": "IF TOMORROW NEVER COMES",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "STUBBORN KIND OF FELLOW",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "MERCY MERCY ME",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "STONED SOUL PICNIC",
-            "artist": "Daniel Ho"
         }
     ]
 }
