@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
-        "artist": "CAMERON"
+        "title": "Reflection",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
+            "artist": "CAMERON"
+        },
         {
             "title": "SARA SMILE",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "Claudette",
-            "artist": "Disk Eyes London"
         }
     ]
 }
