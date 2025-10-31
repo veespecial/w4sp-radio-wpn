@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Make Lovin' Fun",
-        "artist": "Harley Bros."
+        "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
+        "artist": "CAMERON"
     },
     "recent": [
+        {
+            "title": "You Make Lovin' Fun",
+            "artist": "Harley Bros."
+        },
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
@@ -39,10 +43,6 @@
         {
             "title": "One on One",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "BROWN EYED GIRL",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
