@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T ASK MY NEIGHBOR",
-        "artist": "STRINGS BY ANDY"
+        "title": "ALL I'VE GOT TO DO",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "DON'T ASK MY NEIGHBOR",
+            "artist": "STRINGS BY ANDY"
+        },
         {
             "title": "I'LL BE OVER YOU",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "FOOLISH HEART",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "Tempted",
-            "artist": "Harley Bros."
         }
     ]
 }
