@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "After the Love Has Gone",
-        "artist": "Harley Music"
+        "title": "Wait So Long",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "After the Love Has Gone",
+            "artist": "Harley Music"
+        },
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANUSUS/KEEFER"
@@ -39,10 +43,6 @@
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
-        },
-        {
-            "title": "I THINK I'LL TELL HIM",
-            "artist": "Andy Suzuki"
         }
     ]
 }
