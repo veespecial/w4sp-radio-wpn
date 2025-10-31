@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HIGHER AND HIGHER",
-        "artist": "MANASUS MUSIC"
+        "title": "MAGNOLIA",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "HIGHER AND HIGHER",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "I'LL BE OVER YOU",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "JUST THE TWO OF US",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "Millennium",
-            "artist": "Harley Brothers"
         }
     ]
 }
