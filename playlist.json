@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CORRINA CORRINA",
-        "artist": "Harley"
+        "title": "RUBY BABY",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "CORRINA CORRINA",
+            "artist": "Harley"
+        },
         {
             "title": "DON'T WANT (TO BE A FOOL)",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "SILVER SPRINGS",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "I'LL NEVER FALL IN LOVE",
-            "artist": "Andre Mayeux"
         }
     ]
 }
