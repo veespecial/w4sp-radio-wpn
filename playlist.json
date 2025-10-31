@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL BE OVER YOU",
-        "artist": "Daniel Ho"
+        "title": "HIGHER AND HIGHER",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "I'LL BE OVER YOU",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Millennium",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "Millennium",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "I WANT TO THANK YOU",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
