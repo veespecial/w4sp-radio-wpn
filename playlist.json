@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL I'VE GOT TO DO",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "Vienna",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "ALL I'VE GOT TO DO",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "IF TOMORROW NEVER COMES",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "COME RAIN OR COME SHINE",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "SHAKE AND BAKE",
-            "artist": "Newhall Collective"
         }
     ]
 }
