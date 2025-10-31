@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Earl's Tune",
-        "artist": "Dave Raynor"
+        "title": "How Deep is Your Love",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Earl's Tune",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "SLEEPING CAT DANCE",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "NEW KID AROUND",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "IN WONDER",
-            "artist": "Govi"
         }
     ]
 }
