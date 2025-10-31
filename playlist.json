@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JUST ONE WORD",
-        "artist": "Harley Bros."
+        "title": "WHEN SUNNY GETS BLUE",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "JUST ONE WORD",
+            "artist": "Harley Bros."
+        },
         {
             "title": "THE STRANGER",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "NEVER ENDING SONG OF LOVE",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "ROLL TO ME",
-            "artist": "Harley Brothers"
         }
     ]
 }
