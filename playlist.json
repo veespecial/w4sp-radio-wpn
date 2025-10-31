@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TROPIC OF CAPRICORN",
-        "artist": "South Point"
+        "title": "IT'S ALL ABOUT YOU",
+        "artist": "FUNTASTIK"
     },
     "recent": [
+        {
+            "title": "TROPIC OF CAPRICORN",
+            "artist": "South Point"
+        },
         {
             "title": "THE STRANGER",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
             "artist": "CAMERON"
-        },
-        {
-            "title": "SARA SMILE",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
