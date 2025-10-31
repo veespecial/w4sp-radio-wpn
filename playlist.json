@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU'RE THE INSPIRATION",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "MAGNOLIA",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "YOU'RE THE INSPIRATION",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "WINDLESS",
             "artist": "Michael Strickland"
@@ -39,10 +43,6 @@
         {
             "title": "AFTER ALL",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "ORDINARY WORLD",
-            "artist": "Devlin's Strings"
         }
     ]
 }
