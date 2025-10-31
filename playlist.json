@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DA DA",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "YOU ARE EVERYTHING",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "DA DA",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "STONED SOUL PICNIC",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "You Are My Destiny",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
