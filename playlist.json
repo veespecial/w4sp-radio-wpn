@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOOD LIFE",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "BEWILDERED",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "GOOD LIFE",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "Don't Let Me be Lonely Tonight",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "THANK YOU",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "PROMISE AIN'T ENOUGH",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
