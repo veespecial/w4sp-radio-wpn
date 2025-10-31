@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SHAKE AND BAKE",
-        "artist": "Newhall Collective"
+        "title": "TEARS FROM THE SUN",
+        "artist": "PASERO/SUZUKI-HAWAII"
     },
     "recent": [
+        {
+            "title": "SHAKE AND BAKE",
+            "artist": "Newhall Collective"
+        },
         {
             "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "WINDLESS",
             "artist": "Michael Strickland"
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
