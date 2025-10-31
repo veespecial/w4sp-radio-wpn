@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE FINER THINGS",
-        "artist": "DAVE DYSART"
+        "title": "RAIN AND SHINE",
+        "artist": "Jennifer Ivester"
     },
     "recent": [
+        {
+            "title": "THE FINER THINGS",
+            "artist": "DAVE DYSART"
+        },
         {
             "title": "SOME ENCHANTED EVENING",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "EVERY BEAT OF MY HEART",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "QUIEREME MUCHO",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
