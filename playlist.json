@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "One on One",
-        "artist": "MANASUS MUSIC"
+        "title": "I GOTTA RUN",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "One on One",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "BROWN EYED GIRL",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "JUST THE TWO OF US",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
-            "artist": "JOHN GOFORTH"
         }
     ]
 }
