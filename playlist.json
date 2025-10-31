@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BREAKFAST AT TIFFANY'S",
-        "artist": "Josephs Band"
+        "title": "ALL ROADS LEAD TO YOU",
+        "artist": "Kevin Madill-Nashville"
     },
     "recent": [
+        {
+            "title": "BREAKFAST AT TIFFANY'S",
+            "artist": "Josephs Band"
+        },
         {
             "title": "NEXT EVENT",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "Tears In Heaven",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "Life In Mono",
-            "artist": "Andy Suzuki"
         }
     ]
 }
