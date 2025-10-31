@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DESAFINADO",
-        "artist": "BRAD ALLISON"
+        "title": "DON'T WANT (TO BE A FOOL)",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "DESAFINADO",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "AFTER ALL",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "GOT TO GIVE IT UP",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
