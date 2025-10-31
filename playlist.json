@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW KID AROUND",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "THE STRANGER",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "NEW KID AROUND",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
@@ -39,10 +43,6 @@
         {
             "title": "After All",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "YOU ARE EVERYTHING",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
