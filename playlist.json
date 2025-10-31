@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ROLL TO ME",
-        "artist": "Harley Brothers"
+        "title": "NEVER ENDING SONG OF LOVE",
+        "artist": "DUKE OF MORTON"
     },
     "recent": [
+        {
+            "title": "ROLL TO ME",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "After All",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Walk On By",
-            "artist": "Manson Music"
         }
     ]
 }
