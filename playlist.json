@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU'RE THE INSPIRATION",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "You Are My Destiny",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "YOU'RE THE INSPIRATION",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "BLUE BOSSA",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "SWAY",
-            "artist": "Harley"
         }
     ]
 }
