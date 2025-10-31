@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "END OF THE DAY",
-        "artist": "Manasus Strings"
+        "title": "Samsonite Waltz",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "END OF THE DAY",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "Fly'n",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "YOU ARE EVERYTHING",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "Heartbreak Hotel",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
