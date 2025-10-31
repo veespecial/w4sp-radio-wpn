@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CHAIN LIGHTNING",
-        "artist": "Tom Politzer 93"
+        "title": "Terpsichore",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "CHAIN LIGHTNING",
+            "artist": "Tom Politzer 93"
+        },
         {
             "title": "Carey",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WANNA LOSE YOU",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
