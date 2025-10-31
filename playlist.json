@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Alison",
-        "artist": "Quistetts"
+        "title": "Millennium",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Alison",
+            "artist": "Quistetts"
+        },
         {
             "title": "ONSTREAM",
             "artist": "Frank Joseph's Group"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WORRY BABY",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "CHAIN LIGHTNING",
-            "artist": "Tom Politzer 93"
         }
     ]
 }
