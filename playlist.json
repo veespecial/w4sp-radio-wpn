@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "(WILL YOU) COME BACK MY LOVE",
-        "artist": "JOHN GOFORTH"
+        "title": "WELCOME TO MY WORLD",
+        "artist": "Kevin Madill-Nashville"
     },
     "recent": [
+        {
+            "title": "(WILL YOU) COME BACK MY LOVE",
+            "artist": "JOHN GOFORTH"
+        },
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "SHAKE AND BAKE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
