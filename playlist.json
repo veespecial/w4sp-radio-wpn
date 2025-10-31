@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Alison",
-        "artist": "Quistetts"
+        "title": "LOVE WILL CONQUER ALL",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "Alison",
+            "artist": "Quistetts"
+        },
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "ALL I WANNA DO",
             "artist": "Harley"
-        },
-        {
-            "title": "HOW DO I LIVE",
-            "artist": "Andre Mayeux"
         }
     ]
 }
