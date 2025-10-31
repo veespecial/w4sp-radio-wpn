@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DREAMLOVER",
-        "artist": "It's Lenny Moore"
+        "title": "I'm Happy Just to Dance with You",
+        "artist": "Disk Eyes London"
     },
     "recent": [
+        {
+            "title": "DREAMLOVER",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "Tempted",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Alison",
             "artist": "Quistetts"
-        },
-        {
-            "title": "LIFE IS BUT A DREAM",
-            "artist": "Devlin's Strings"
         }
     ]
 }
