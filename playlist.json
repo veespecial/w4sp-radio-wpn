@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "QUIEREME MUCHO",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "YOUR PRECIOUS LOVE",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "QUIEREME MUCHO",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "NEXT EVENT",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "STARDUST",
-            "artist": "LENNY MOORE"
         }
     ]
 }
