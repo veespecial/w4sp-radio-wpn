@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TORN",
-        "artist": "Harley Music"
+        "title": "TO LOVE YOU MORE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "TORN",
+            "artist": "Harley Music"
+        },
         {
             "title": "SWEET CLAIRE",
             "artist": "Michael Strickland"
@@ -39,10 +43,6 @@
         {
             "title": "QUIEREME MUCHO",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "I THINK I'LL TELL HIM",
-            "artist": "Andy Suzuki"
         }
     ]
 }
