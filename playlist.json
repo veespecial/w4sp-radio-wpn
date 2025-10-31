@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIVING YOU THE BEST THAT I GOT",
-        "artist": "Curtis Brengle"
+        "title": "BAD SNEAKERS",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "GIVING YOU THE BEST THAT I GOT",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "DON'T DREAM IT'S OVER",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
-        },
-        {
-            "title": "BEWILDERED",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
