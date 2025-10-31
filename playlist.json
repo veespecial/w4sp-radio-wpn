@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IT'S ALL ABOUT YOU",
-        "artist": "FUNTASTIK"
+        "title": "HOW DO I LIVE",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "IT'S ALL ABOUT YOU",
+            "artist": "FUNTASTIK"
+        },
         {
             "title": "MIRACLES",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "Wait So Long",
-            "artist": "Dave Raynor"
         }
     ]
 }
