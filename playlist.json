@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Nobody Does It Better",
-        "artist": "Tom Politzer"
+        "title": "LOVE WILL CONQUER ALL",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "Nobody Does It Better",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "HOW CAN YOU MEND A BROKEN HEART",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "ROSE IN THE VINE",
             "artist": "Harley"
-        },
-        {
-            "title": "CUCHAMA",
-            "artist": "Govi"
         }
     ]
 }
