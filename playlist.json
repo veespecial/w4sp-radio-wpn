@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WORLD I KNOW",
-        "artist": "Harley Brothers"
+        "title": "LONELY TOO LONG",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "WORLD I KNOW",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Sweet Seasons",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "I DON'T WANNA BE ALONE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "GOIN OUT OF MY HEAD",
-            "artist": "Nick Manson"
         }
     ]
 }
