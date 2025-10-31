@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GREEN FLOWER STREET",
-        "artist": "Funtastic"
+        "title": "Just Like This Train",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "GREEN FLOWER STREET",
+            "artist": "Funtastic"
+        },
         {
             "title": "Kiss Me",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "HOT SAUCE",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "I GOTTA RUN",
-            "artist": "John Morton"
         }
     ]
 }
