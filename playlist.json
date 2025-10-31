@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "EARTH ANGERL (WILL YOU BE MINE)",
-        "artist": "MANSON STRINGS"
+        "title": "NORWEGAIN WOOD",
+        "artist": "DUKE OF MORTON"
     },
     "recent": [
+        {
+            "title": "EARTH ANGERL (WILL YOU BE MINE)",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "FAIR TOMORROW",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "LAUGHTER IN THE RAIN",
-            "artist": "Nick Manson"
         }
     ]
 }
