@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T LOOK BACK",
-        "artist": "Harley"
+        "title": "I CAN LOVE YOU LIKE THAT",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "DON'T LOOK BACK",
+            "artist": "Harley"
+        },
         {
             "title": "SAY YOU LOVE ME",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "SLEEPING CAT DANCE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "GIRL WITH A RED CARNATION",
-            "artist": "Acoustic Alchemy"
         }
     ]
 }
