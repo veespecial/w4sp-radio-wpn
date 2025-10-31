@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BABYLON SISTERS",
-        "artist": "Tom Politzer"
+        "title": "Carey",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "BABYLON SISTERS",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "MAGNOLIA",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "I WILL",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
-            "artist": "Disk Eyes S.F."
         }
     ]
 }
