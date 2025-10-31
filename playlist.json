@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DREAMBOAT ANNIE",
-        "artist": "CHAD STONE BAND"
+        "title": "TIL I HEAR IT FROM YOU",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "DREAMBOAT ANNIE",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "I DON'T WANNA BE ALONE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "CHEHALIS",
-            "artist": "Eric Tingstad"
         }
     ]
 }
