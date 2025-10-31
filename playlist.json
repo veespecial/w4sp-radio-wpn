@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIFE IS BUT A DREAM",
-        "artist": "Devlin's Strings"
+        "title": "Alison",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "LIFE IS BUT A DREAM",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "THANK YOU",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "HOW DO I LIVE",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "IT'S ALL ABOUT YOU",
-            "artist": "FUNTASTIK"
         }
     ]
 }
