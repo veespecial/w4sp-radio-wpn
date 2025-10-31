@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
-        "artist": "Tom Kellock"
+        "title": "ROSE IN THE VINE",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "Until You Come Back To Me",
             "artist": "Manson Music"
-        },
-        {
-            "title": "I'M IN A PHILLY MOOD",
-            "artist": "Mike Jaap"
         }
     ]
 }
