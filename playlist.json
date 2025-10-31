@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ORDINARY WORLD",
-        "artist": "Devlin's Strings"
+        "title": "AFTER ALL",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "ORDINARY WORLD",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "JULIA",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T GO BREAKIN MY HEART",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "My Ever Changing Moods",
-            "artist": "Jim Devlin"
         }
     ]
 }
