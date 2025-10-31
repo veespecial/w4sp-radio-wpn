@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Yesterday",
-        "artist": "Josephs Band"
+        "title": "Don't Let Me be Lonely Tonight",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Yesterday",
+            "artist": "Josephs Band"
+        },
         {
             "title": "Love Of My Life",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "BEWILDERED",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "Changes",
-            "artist": "Ray Kelley"
         }
     ]
 }
