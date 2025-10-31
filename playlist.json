@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Just Like This Train",
-        "artist": "San Francisco"
+        "title": "SAVING ALL MY LOVE FOR YOU",
+        "artist": "NORTHPOINT"
     },
     "recent": [
+        {
+            "title": "Just Like This Train",
+            "artist": "San Francisco"
+        },
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "WHAT'S GOIN ON",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "HOT SAUCE",
-            "artist": "Eric Tingstad"
         }
     ]
 }
