@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tempted",
-        "artist": "Harley Bros."
+        "title": "DREAMLOVER",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "Tempted",
+            "artist": "Harley Bros."
+        },
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "THANK YOU",
-            "artist": "Disk Eyes S.F."
         }
     ]
 }
