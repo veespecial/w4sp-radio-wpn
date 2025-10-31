@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR ONCE IN MY LIFE",
-        "artist": "Josephs Band"
+        "title": "LAUGHTER IN THE RAIN",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "FOR ONCE IN MY LIFE",
+            "artist": "Josephs Band"
+        },
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "JUST ONE WORD",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "THE STRANGER",
-            "artist": "North Point"
         }
     ]
 }
