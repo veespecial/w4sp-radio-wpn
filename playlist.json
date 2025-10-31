@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Walton On Thames",
-        "artist": "Jerry Cortez"
+        "title": "CAN WE TALK",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "Walton On Thames",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "HOW CAN YOU MEND A BROKEN HEART",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "HOW MUCH I FEEL",
-            "artist": "CAMERON"
         }
     ]
 }
