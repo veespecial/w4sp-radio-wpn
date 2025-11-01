@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LAUGHTER IN THE RAIN",
-        "artist": "Nick Manson"
+        "title": "COME FLY WITH ME",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "LAUGHTER IN THE RAIN",
+            "artist": "Nick Manson"
+        },
         {
             "title": "WHEN SUNNY GETS BLUE",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIK"
-        },
-        {
-            "title": "After All",
-            "artist": "Dave Raynor"
         }
     ]
 }
