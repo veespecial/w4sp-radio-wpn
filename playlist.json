@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TROPIC OF CAPRICORN",
-        "artist": "South Point"
+        "title": "CLOUDY",
+        "artist": "NORTHPOINT"
     },
     "recent": [
+        {
+            "title": "TROPIC OF CAPRICORN",
+            "artist": "South Point"
+        },
         {
             "title": "BACK IN THE CHAIN GANG",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "MAGNOLIA",
             "artist": "Funtastic"
-        },
-        {
-            "title": "Vienna",
-            "artist": "Manson Music"
         }
     ]
 }
