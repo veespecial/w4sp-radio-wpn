@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE WARMTH OF THE SUN",
-        "artist": "MANUSUS/KEEFER"
+        "title": "HIGHER AND HIGHER",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "THE WARMTH OF THE SUN",
+            "artist": "MANUSUS/KEEFER"
+        },
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "BACK STABBERS",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "WHAT'S GOIN ON",
-            "artist": "Josephs Band"
         }
     ]
 }
