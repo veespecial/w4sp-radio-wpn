@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You are the Sunshine of My Life",
-        "artist": "Harley Music"
+        "title": "CAMILLA",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "You are the Sunshine of My Life",
+            "artist": "Harley Music"
+        },
         {
             "title": "Where Love Goes",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR PRECIOUS LOVE",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "QUIEREME MUCHO",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
