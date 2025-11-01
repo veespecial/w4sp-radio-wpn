@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Life In Mono",
-        "artist": "Andy Suzuki"
+        "title": "SOMEWHERE IN THE WORLD",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "Life In Mono",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "WEST AGAIN",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "ALL I'VE GOT TO DO",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
