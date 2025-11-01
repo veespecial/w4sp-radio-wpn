@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I SOLD MY HEART TO THE JUNKMAN",
-        "artist": "Jim Devlin"
+        "title": "FOR ONCE IN MY LIFE",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "I SOLD MY HEART TO THE JUNKMAN",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "CLOUDY",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "WEST AGAIN",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "GOT TO GIVE IT UP",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
