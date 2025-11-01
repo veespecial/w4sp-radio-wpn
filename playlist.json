@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Claudette",
-        "artist": "Disk Eyes London"
+        "title": "DROWNING IN YOUR TEARS",
+        "artist": "FUNTASTIK"
     },
     "recent": [
+        {
+            "title": "Claudette",
+            "artist": "Disk Eyes London"
+        },
         {
             "title": "BECAUSE YOU LOVED ME",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "Love Of My Life",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "END OF THE DAY",
-            "artist": "Manasus Strings"
         }
     ]
 }
