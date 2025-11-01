@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEVER ENDING SONG OF LOVE",
-        "artist": "DUKE OF MORTON"
+        "title": "DIXIE MOON",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "NEVER ENDING SONG OF LOVE",
+            "artist": "DUKE OF MORTON"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "MERCY MERCY ME",
-            "artist": "Tom Kellock"
         }
     ]
 }
