@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOUL SHADOWS",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "MORE THAN THIS",
+        "artist": "Disk Eyes S.F."
     },
     "recent": [
+        {
+            "title": "SOUL SHADOWS",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "WHAT DOES IT TAKE",
             "artist": "JON GOFORTH"
-        },
-        {
-            "title": "Pickin Like Lee",
-            "artist": "Michael Ranstrom"
         }
     ]
 }
