@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHEN SUNNY GETS BLUE",
-        "artist": "BRAD ALLISON"
+        "title": "LAUGHTER IN THE RAIN",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "WHEN SUNNY GETS BLUE",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "Walk On By",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "After All",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "DON'T GO BREAKIN MY HEART",
-            "artist": "Devlin's Strings"
         }
     ]
 }
