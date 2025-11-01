@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BEWILDERED",
-        "artist": "MANSON STRINGS"
+        "title": "Beyond the Sea",
+        "artist": "Disk Eyes London"
     },
     "recent": [
+        {
+            "title": "BEWILDERED",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "JO JO",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "STAY (I MISSED YOU)",
-            "artist": "Moro-Eden"
         }
     ]
 }
