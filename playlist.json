@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Yesterday",
-        "artist": "Josephs Band"
+        "title": "DONE WITH PONAPARTE",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "Yesterday",
+            "artist": "Josephs Band"
+        },
         {
             "title": "THANK YOU",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "I'M IN A PHILLY MOOD",
             "artist": "Mike Jaap"
-        },
-        {
-            "title": "HALF A MINUTE",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
