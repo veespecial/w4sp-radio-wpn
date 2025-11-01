@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DELIVER ME FROM MY MIND",
-        "artist": "Andy Suzuki"
+        "title": "NEW YORK STATE OF MIND",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "DELIVER ME FROM MY MIND",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
             "artist": "JOHN GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "WHAT'S NEW",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "Walton On Thames",
-            "artist": "Jerry Cortez"
         }
     ]
 }
