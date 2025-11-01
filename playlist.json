@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHEN SUNNY GETS BLUE",
-        "artist": "BRAD ALLISON"
+        "title": "CAN WE TALK",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "WHEN SUNNY GETS BLUE",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "GIRL WITH A RED CARNATION",
             "artist": "Acoustic Alchemy"
-        },
-        {
-            "title": "DIAMOND DUST",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
