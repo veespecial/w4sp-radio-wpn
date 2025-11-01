@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Vienna",
-        "artist": "Manson Music"
+        "title": "MAGNOLIA",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "Vienna",
+            "artist": "Manson Music"
+        },
         {
             "title": "One on One",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "HERO",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "Paramour",
-            "artist": "Dave Keenan"
         }
     ]
 }
