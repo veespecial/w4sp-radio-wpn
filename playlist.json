@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIVELY UP YOURSELF",
-        "artist": "Tom Politzer"
+        "title": "QUEEN OF HEARTS",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "LIVELY UP YOURSELF",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "After All",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "KRISTIANA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "LULLABY OF BIRDLAND",
-            "artist": "Harley"
         }
     ]
 }
