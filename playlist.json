@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Walk On By",
-        "artist": "Manson Music"
+        "title": "WHEN SUNNY GETS BLUE",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "Walk On By",
+            "artist": "Manson Music"
+        },
         {
             "title": "Alison",
             "artist": "Quistetts"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T GO BREAKIN MY HEART",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "I'LL NEVER FALL IN LOVE",
-            "artist": "Andre Mayeux"
         }
     ]
 }
