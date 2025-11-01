@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE WARMTH OF THE SUN",
-        "artist": "MANUSUS/KEEFER"
+        "title": "Where Love Goes",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "THE WARMTH OF THE SUN",
+            "artist": "MANUSUS/KEEFER"
+        },
         {
             "title": "FOR ELFI",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "DREAMLOVER",
-            "artist": "It's Lenny Moore"
         }
     ]
 }
