@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Where Love Goes",
-        "artist": "Dave Raynor"
+        "title": "IN A DAYDREAM",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "Where Love Goes",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "YOU ARE EVERYTHING",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "CAMILLA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "OLD OAK KNOLL",
-            "artist": "Nick Manson"
         }
     ]
 }
