@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Heartbreak Hotel",
-        "artist": "Crescenta Valley Boys"
+        "title": "WELCOME TO MY WORLD",
+        "artist": "Kevin Madill-Nashville"
     },
     "recent": [
+        {
+            "title": "Heartbreak Hotel",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "YOU DON'T KNOW ME",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "MORE THAN THIS",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "SOUL SHADOWS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
