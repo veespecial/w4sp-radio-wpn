@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Louise",
-        "artist": "Dave Raynor"
+        "title": "DESAFINADO",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "Louise",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "Ain't Nothing Like the Real Thing",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "TO LOVE YOU MORE",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "BACK STABBERS",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
