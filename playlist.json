@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IN WONDER",
-        "artist": "Govi"
+        "title": "Day Dreaming",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "IN WONDER",
+            "artist": "Govi"
+        },
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
@@ -39,10 +43,6 @@
         {
             "title": "SARA SMILE",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "BROWN EYED GIRL",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
