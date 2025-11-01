@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR SECRET LOVE",
-        "artist": "Frank Josephs"
+        "title": "CUCHAMA",
+        "artist": "Govi"
     },
     "recent": [
+        {
+            "title": "YOUR SECRET LOVE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR PRECIOUS LOVE",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "DREAMLOVER",
-            "artist": "It's Lenny Moore"
         }
     ]
 }
