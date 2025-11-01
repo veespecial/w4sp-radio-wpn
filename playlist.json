@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TO LOVE YOU MORE",
-        "artist": "Frank Josephs"
+        "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
+        "artist": "Disk Eyes S.F."
     },
     "recent": [
+        {
+            "title": "TO LOVE YOU MORE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "BACK STABBERS",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
-        },
-        {
-            "title": "CAN WE TALK",
-            "artist": "South Point"
         }
     ]
 }
