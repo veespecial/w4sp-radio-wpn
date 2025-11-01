@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Every Kinda People",
-        "artist": "Harley Bros."
+        "title": "THIS MASQUERADE",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "Every Kinda People",
+            "artist": "Harley Bros."
+        },
         {
             "title": "IT'S ALL ABOUT YOU",
             "artist": "FUNTASTIK"
@@ -39,10 +43,6 @@
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Ooh Baby Baby",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
