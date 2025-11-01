@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUBY BABY",
-        "artist": "Funtastic"
+        "title": "BLUE BOSSA",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "RUBY BABY",
+            "artist": "Funtastic"
+        },
         {
             "title": "MY FUNNY VALENTINE",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "I Only Have Eyes for You",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "Matter Of Time",
-            "artist": "Jerry Cortez"
         }
     ]
 }
