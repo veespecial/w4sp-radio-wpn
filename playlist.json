@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NORWEGAIN WOOD",
-        "artist": "DUKE OF MORTON"
+        "title": "YOU'RE THE INSPIRATION",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "NORWEGAIN WOOD",
+            "artist": "DUKE OF MORTON"
+        },
         {
             "title": "WHAT DOES IT TAKE",
             "artist": "JON GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "THANK YOU",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
