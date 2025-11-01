@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Elfi's Tune",
-        "artist": "Dave Raynor"
+        "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "Elfi's Tune",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "TEARS FROM THE SUN",
-            "artist": "PASERO/SUZUKI-HAWAII"
         }
     ]
 }
