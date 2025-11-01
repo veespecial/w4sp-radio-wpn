@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU'RE THE INSPIRATION",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "YOUR SECRET LOVE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "YOU'RE THE INSPIRATION",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "NORWEGAIN WOOD",
             "artist": "DUKE OF MORTON"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "THANK YOU",
-            "artist": "Disk Eyes S.F."
         }
     ]
 }
