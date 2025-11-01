@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Say a Little Prayer",
-        "artist": "Harley Music"
+        "title": "WHERE IS THE LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "I Say a Little Prayer",
+            "artist": "Harley Music"
+        },
         {
             "title": "DON'T WANT (TO BE A FOOL)",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "SOME ENCHANTED EVENING",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "Nobody Does It Better",
-            "artist": "Tom Politzer"
         }
     ]
 }
