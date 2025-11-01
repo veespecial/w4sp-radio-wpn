@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "QUEEN OF HEARTS",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "MERCY MERCY ME",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "QUEEN OF HEARTS",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "DELIVER ME FROM MY MIND",
-            "artist": "Andy Suzuki"
         }
     ]
 }
