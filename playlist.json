@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Pickin Like Lee",
-        "artist": "Michael Ranstrom"
+        "title": "WHAT DOES IT TAKE",
+        "artist": "JON GOFORTH"
     },
     "recent": [
+        {
+            "title": "Pickin Like Lee",
+            "artist": "Michael Ranstrom"
+        },
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "ONSTREAM",
             "artist": "Frank Joseph's Group"
-        },
-        {
-            "title": "Don't Let Me be Lonely Tonight",
-            "artist": "Harley Brothers"
         }
     ]
 }
