@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "EARTH ANGERL (WILL YOU BE MINE)",
-        "artist": "MANSON STRINGS"
+        "title": "DESTINY",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "EARTH ANGERL (WILL YOU BE MINE)",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "ANOTHER SAD LOVE SONG",
             "artist": "Mike Jaap"
@@ -39,10 +43,6 @@
         {
             "title": "NEW KID AROUND",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "HEY GIRL",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
