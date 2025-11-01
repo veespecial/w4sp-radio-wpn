@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I THINK I'LL TELL HIM",
-        "artist": "Andy Suzuki"
+        "title": "BECAUSE YOU LOVED ME",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "I THINK I'LL TELL HIM",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
@@ -39,10 +43,6 @@
         {
             "title": "BLUE BOSSA",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "I'LL BE OVER YOU",
-            "artist": "Daniel Ho"
         }
     ]
 }
