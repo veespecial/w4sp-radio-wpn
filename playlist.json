@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ORDINARY WORLD",
-        "artist": "Devlin's Strings"
+        "title": "THESE DREAMS",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "ORDINARY WORLD",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "DON'T WORRY BABY",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "COME FLY WITH ME",
             "artist": "Harley"
-        },
-        {
-            "title": "LAUGHTER IN THE RAIN",
-            "artist": "Nick Manson"
         }
     ]
 }
