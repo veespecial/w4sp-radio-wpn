@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PROMISE AIN'T ENOUGH",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "PROMISE AIN'T ENOUGH",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "Beyond the Sea",
             "artist": "Disk Eyes London"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "ANOTHER TIME",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
