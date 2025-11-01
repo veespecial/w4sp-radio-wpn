@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "(WILL YOU) COME BACK MY LOVE",
-        "artist": "JOHN GOFORTH"
+        "title": "DELIVER ME FROM MY MIND",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "(WILL YOU) COME BACK MY LOVE",
+            "artist": "JOHN GOFORTH"
+        },
         {
             "title": "FAIR TOMORROW",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "CUCHAMA",
             "artist": "Govi"
-        },
-        {
-            "title": "YOUR SECRET LOVE",
-            "artist": "Frank Josephs"
         }
     ]
 }
