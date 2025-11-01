@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR ONCE IN MY LIFE",
-        "artist": "Josephs Band"
+        "title": "NEW YORK STATE OF MIND",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "FOR ONCE IN MY LIFE",
+            "artist": "Josephs Band"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "Life In Mono",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "WEST AGAIN",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
