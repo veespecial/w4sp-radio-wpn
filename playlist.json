@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STONED SOUL PICNIC",
-        "artist": "Daniel Ho"
+        "title": "RAIN AND SHINE",
+        "artist": "Jennifer Ivester"
     },
     "recent": [
+        {
+            "title": "STONED SOUL PICNIC",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "GIRL WITH A RED CARNATION",
             "artist": "Acoustic Alchemy"
@@ -39,10 +43,6 @@
         {
             "title": "HOW MUCH I FEEL",
             "artist": "CAMERON"
-        },
-        {
-            "title": "END OF THE DAY",
-            "artist": "Manasus Strings"
         }
     ]
 }
