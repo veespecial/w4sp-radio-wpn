@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TROPIC OF CAPRICORN",
-        "artist": "South Point"
+        "title": "FOREVER MORE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "TROPIC OF CAPRICORN",
+            "artist": "South Point"
+        },
         {
             "title": "CUCHAMA",
             "artist": "Govi"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WANT (TO BE A FOOL)",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "Till There Was You",
-            "artist": "Dave Raynor"
         }
     ]
 }
