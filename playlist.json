@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GAUCHO",
-        "artist": "North Point"
+        "title": "WINDLESS",
+        "artist": "Michael Strickland"
     },
     "recent": [
+        {
+            "title": "GAUCHO",
+            "artist": "North Point"
+        },
         {
             "title": "Wahine",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "GOIN OUT OF MY HEAD",
-            "artist": "Nick Manson"
         }
     ]
 }
