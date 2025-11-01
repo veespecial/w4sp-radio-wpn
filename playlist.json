@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I GOTTA RUN",
-        "artist": "John Morton"
+        "title": "SWAY",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "I GOTTA RUN",
+            "artist": "John Morton"
+        },
         {
             "title": "WILD AND FREE",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "Ain't Nothing Like the Real Thing",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "DON'T WANNA LOSE YOU",
-            "artist": "Curtis Brengle"
         }
     ]
 }
