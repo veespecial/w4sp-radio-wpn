@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEY GIRL",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "NEW KID AROUND",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "HEY GIRL",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "MIRACLES",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "(WILL YOU) COME BACK MY LOVE",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "FAIR TOMORROW",
-            "artist": "Jerry Cortez"
         }
     ]
 }
