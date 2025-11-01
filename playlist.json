@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WORLD I KNOW",
-        "artist": "Harley Brothers"
+        "title": "WHENEVER YOU'RE ON MY MIND",
+        "artist": "Clair Marlo"
     },
     "recent": [
+        {
+            "title": "WORLD I KNOW",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "JUST ONE WORD",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "I Only Have Eyes for You",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "MAGNOLIA",
-            "artist": "Eric Tingstad"
         }
     ]
 }
