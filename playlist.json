@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEXT EVENT",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "BACK IN THE CHAIN GANG",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "NEXT EVENT",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "One on One",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "ONSTREAM",
-            "artist": "Frank Joseph's Group"
         }
     ]
 }
