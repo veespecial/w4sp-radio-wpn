@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JO JO",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "BEWILDERED",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "JO JO",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "CORRINA CORRINA",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "THIS MASQUERADE",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
