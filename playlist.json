@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THANK YOU",
-        "artist": "Disk Eyes S.F."
+        "title": "DREAMLOVER",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "THANK YOU",
+            "artist": "Disk Eyes S.F."
+        },
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
             "artist": "CAMERON"
-        },
-        {
-            "title": "NEW YORK STATE OF MIND",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
