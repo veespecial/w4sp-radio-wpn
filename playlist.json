@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Nobody Does It Better",
-        "artist": "Tom Politzer"
+        "title": "SOME ENCHANTED EVENING",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "Nobody Does It Better",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "THESE DREAMS",
-            "artist": "Curtis Brengle"
         }
     ]
 }
