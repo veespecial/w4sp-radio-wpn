@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEPTUNE",
-        "artist": "Andy Suzuki"
+        "title": "APPALACHIA CALLING",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "NEPTUNE",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "BROWN EYED GIRL",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "STONED SOUL PICNIC",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "THAT'S WHAT FRIENDS ARE FOR",
-            "artist": "North Point"
         }
     ]
 }
