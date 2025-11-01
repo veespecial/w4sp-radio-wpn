@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SHAKE AND BAKE",
-        "artist": "Newhall Collective"
+        "title": "LITTLE MORE TIME WITH YOU",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "SHAKE AND BAKE",
+            "artist": "Newhall Collective"
+        },
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "YOU DON'T KNOW ME",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "DA DA",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
