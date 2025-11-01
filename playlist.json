@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AIN'T MISBEHAVIN",
-        "artist": "BRAD ALLISON"
+        "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "AIN'T MISBEHAVIN",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "HOW DO I LIVE",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
-        },
-        {
-            "title": "WORLD I KNOW",
-            "artist": "Harley Brothers"
         }
     ]
 }
