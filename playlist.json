@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BROWN EYED GIRL",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "NEPTUNE",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "BROWN EYED GIRL",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
@@ -39,10 +43,6 @@
         {
             "title": "THAT'S WHAT FRIENDS ARE FOR",
             "artist": "North Point"
-        },
-        {
-            "title": "Fast Car",
-            "artist": "Quistetts"
         }
     ]
 }
