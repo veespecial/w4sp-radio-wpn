@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WORLD I KNOW",
-        "artist": "Harley Brothers"
+        "title": "JUST ONE WORD",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "WORLD I KNOW",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "I WANT TO THANK YOU",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
-        },
-        {
-            "title": "JUST THE TWO OF US",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
