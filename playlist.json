@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Help Me",
-        "artist": "Harley Music"
+        "title": "Shooting Star",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "Help Me",
+            "artist": "Harley Music"
+        },
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "WELCOME TO MY WORLD",
             "artist": "Kevin Madill-Nashville"
-        },
-        {
-            "title": "HEY GIRL",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
