@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THIS MASQUERADE",
-        "artist": "DERRICK CHASE"
+        "title": "IF TOMORROW NEVER COMES",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "THIS MASQUERADE",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANUSUS/KEEFER"
-        },
-        {
-            "title": "ROLL TO ME",
-            "artist": "Harley Brothers"
         }
     ]
 }
