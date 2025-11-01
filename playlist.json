@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Favorite Mistake",
-        "artist": "Frank Josephs"
+        "title": "Ooh Baby Baby",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "My Favorite Mistake",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "THIS MASQUERADE",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "Every Kinda People",
-            "artist": "Harley Bros."
         }
     ]
 }
