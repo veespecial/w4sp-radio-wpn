@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW YORK STATE OF MIND",
-        "artist": "DERRICK CHASE"
+        "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
+        "artist": "CAMERON"
     },
     "recent": [
+        {
+            "title": "NEW YORK STATE OF MIND",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "FOR ONCE IN MY LIFE",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
-        },
-        {
-            "title": "Life In Mono",
-            "artist": "Andy Suzuki"
         }
     ]
 }
