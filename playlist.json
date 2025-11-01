@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JUST ONE WORD",
-        "artist": "Harley Bros."
+        "title": "WORLD I KNOW",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "JUST ONE WORD",
+            "artist": "Harley Bros."
+        },
         {
             "title": "IN WONDER",
             "artist": "Govi"
@@ -39,10 +43,6 @@
         {
             "title": "MAGNOLIA",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "LAUGHTER IN THE RAIN",
-            "artist": "Nick Manson"
         }
     ]
 }
