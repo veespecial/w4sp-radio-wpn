@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wait So Long",
-        "artist": "Dave Raynor"
+        "title": "HERO",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "Wait So Long",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
@@ -39,10 +43,6 @@
         {
             "title": "JO JO",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "SAN TROPEZ",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
