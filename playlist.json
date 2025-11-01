@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THIS MASQUERADE",
-        "artist": "DERRICK CHASE"
+        "title": "LIVELY UP YOURSELF",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "THIS MASQUERADE",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "Life In Mono",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "NEVER ENDING SONG OF LOVE",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "I SOLD MY HEART TO THE JUNKMAN",
-            "artist": "Jim Devlin"
         }
     ]
 }
