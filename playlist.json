@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DREAMLOVER",
-        "artist": "It's Lenny Moore"
+        "title": "YOUR PRECIOUS LOVE",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "DREAMLOVER",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "THANK YOU",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
-            "artist": "CAMERON"
         }
     ]
 }
