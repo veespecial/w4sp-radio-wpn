@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THAT'S WHAT FRIENDS ARE FOR",
-        "artist": "North Point"
+        "title": "STONED SOUL PICNIC",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "THAT'S WHAT FRIENDS ARE FOR",
+            "artist": "North Point"
+        },
         {
             "title": "Fast Car",
             "artist": "Quistetts"
@@ -39,10 +43,6 @@
         {
             "title": "POETRY MAN",
             "artist": "CAMERON"
-        },
-        {
-            "title": "FEEL LIKE MAKIN' LOVE",
-            "artist": "Nick Manson"
         }
     ]
 }
