@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT'S GOIN ON",
-        "artist": "Josephs Band"
+        "title": "BACK STABBERS",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "WHAT'S GOIN ON",
+            "artist": "Josephs Band"
+        },
         {
             "title": "SOMETIME BRAZIL",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
-        },
-        {
-            "title": "SOUL SHADOWS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
