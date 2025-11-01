@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JO JO",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "FOOLISH HEART",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "JO JO",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "CAMILLA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "You are the Sunshine of My Life",
-            "artist": "Harley Music"
         }
     ]
 }
