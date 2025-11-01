@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "EVERY BEAT OF MY HEART",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "Make it With You",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "EVERY BEAT OF MY HEART",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "Fly'n",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "SOMETHING THAT WE DO",
             "artist": "Harley Music"
-        },
-        {
-            "title": "LITTLE MORE TIME WITH YOU",
-            "artist": "Andre Mayeux"
         }
     ]
 }
