@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DESAFINADO",
-        "artist": "BRAD ALLISON"
+        "title": "ORDINARY WORLD",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "DESAFINADO",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "Louise",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "TO LOVE YOU MORE",
-            "artist": "Frank Josephs"
         }
     ]
 }
