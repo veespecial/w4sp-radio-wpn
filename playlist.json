@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IN A DAYDREAM",
-        "artist": "Crescenta Valley Boys"
+        "title": "Changes",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "IN A DAYDREAM",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "POETRY MAN",
             "artist": "CAMERON"
@@ -39,10 +43,6 @@
         {
             "title": "ALIEN",
             "artist": "Funtastic"
-        },
-        {
-            "title": "Beyond the Sea",
-            "artist": "Disk Eyes London"
         }
     ]
 }
