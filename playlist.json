@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "END OF THE DAY",
-        "artist": "Manasus Strings"
+        "title": "Love Of My Life",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "END OF THE DAY",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "FOR ELFI",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
-        },
-        {
-            "title": "Kiss Me",
-            "artist": "Harley Bros."
         }
     ]
 }
