@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR PRECIOUS LOVE",
-        "artist": "TOMMY/BRIAN"
+        "title": "Till There Was You",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "YOUR PRECIOUS LOVE",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "I WANT TO THANK YOU",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "ONCE AND FUTURE",
-            "artist": "Newhall Collective"
         }
     ]
 }
