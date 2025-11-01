@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANOTHER TIME",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Harvest for the World",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "ANOTHER TIME",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIK"
@@ -39,10 +43,6 @@
         {
             "title": "One on One",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "WHAT'S GOIN ON",
-            "artist": "Josephs Band"
         }
     ]
 }
