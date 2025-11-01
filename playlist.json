@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THIS MASQUERADE",
-        "artist": "DERRICK CHASE"
+        "title": "STAY (I MISSED YOU)",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "THIS MASQUERADE",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "RUNAWAY",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "YOU ARE EVERYTHING",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "You're the Best Thing",
-            "artist": "DAVE PATT"
         }
     ]
 }
