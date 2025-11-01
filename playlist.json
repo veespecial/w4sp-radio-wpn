@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT DOES IT TAKE",
-        "artist": "JON GOFORTH"
+        "title": "TEARS FROM THE SUN",
+        "artist": "PASERO/SUZUKI-HAWAII"
     },
     "recent": [
+        {
+            "title": "WHAT DOES IT TAKE",
+            "artist": "JON GOFORTH"
+        },
         {
             "title": "CRAZY LITTLE THING CALLED LOVE",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "NEPTUNE",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "FOR ONCE IN MY LIFE",
-            "artist": "Josephs Band"
         }
     ]
 }
