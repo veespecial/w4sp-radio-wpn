@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME RAIN OR COME SHINE",
-        "artist": "It's Lenny Moore"
+        "title": "DIAMOND DUST",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "COME RAIN OR COME SHINE",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "NEVER ENDING SONG OF LOVE",
-            "artist": "DUKE OF MORTON"
         }
     ]
 }
