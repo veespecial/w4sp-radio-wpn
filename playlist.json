@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF TOMORROW NEVER COMES",
-        "artist": "Josephs Band"
+        "title": "MY FUNNY VALENTINE",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "IF TOMORROW NEVER COMES",
+            "artist": "Josephs Band"
+        },
         {
             "title": "THIS MASQUERADE",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "THE WARMTH OF THE SUN",
-            "artist": "MANUSUS/KEEFER"
         }
     ]
 }
