@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE STRANGER",
-        "artist": "North Point"
+        "title": "MIDNIGHT TRAIN TO GEORGIA",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "THE STRANGER",
+            "artist": "North Point"
+        },
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "CAN WE TALK",
             "artist": "South Point"
-        },
-        {
-            "title": "STUBBORN KIND OF FELLOW",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
