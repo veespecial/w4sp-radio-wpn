@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Poor Side Of Town",
-        "artist": "Crescenta Valley Boys"
+        "title": "I TURN TO YOU",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "Poor Side Of Town",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "YOUNG ENOUGH TO KNOW",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "NEW YORK STATE OF MIND",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
