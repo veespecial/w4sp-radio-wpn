@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WANT TO THANK YOU",
-        "artist": "MANASUS MUSIC"
+        "title": "WHERE IS THE LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "I WANT TO THANK YOU",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "CLOUDY",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "HOT SAUCE",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "HOW DO I LIVE",
-            "artist": "Andre Mayeux"
         }
     ]
 }
