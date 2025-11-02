@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHEN SUNNY GETS BLUE",
-        "artist": "BRAD ALLISON"
+        "title": "I'm Happy Just to Dance with You",
+        "artist": "Disk Eyes London"
     },
     "recent": [
+        {
+            "title": "WHEN SUNNY GETS BLUE",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "CAN WE TALK",
             "artist": "South Point"
-        },
-        {
-            "title": "Samsonite Waltz",
-            "artist": "Dave Keenan"
         }
     ]
 }
