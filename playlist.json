@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLUE BOSSA",
-        "artist": "BRAD ALLISON"
+        "title": "Ain't Nothing Like the Real Thing",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "BLUE BOSSA",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "LIVELY UP YOURSELF",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "IT'S ALL ABOUT YOU",
             "artist": "FUNTASTIK"
-        },
-        {
-            "title": "IN A DAYDREAM",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
