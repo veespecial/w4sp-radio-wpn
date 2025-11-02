@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
-        "artist": "CAMERON"
+        "title": "HIGHER AND HIGHER",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
+            "artist": "CAMERON"
+        },
         {
             "title": "BREAKFAST AT TIFFANY'S",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "Fool on the Hill",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
