@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DREAMBOAT ANNIE",
-        "artist": "CHAD STONE BAND"
+        "title": "NEVER CAN SAY GOODBYE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "DREAMBOAT ANNIE",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "ALL I'VE GOT TO DO",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "WELCOME TO MY WORLD",
-            "artist": "Kevin Madill-Nashville"
         }
     ]
 }
