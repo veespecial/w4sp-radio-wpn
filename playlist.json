@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IT'S ALL ABOUT YOU",
-        "artist": "FUNTASTIK"
+        "title": "Day Dreaming",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "IT'S ALL ABOUT YOU",
+            "artist": "FUNTASTIK"
+        },
         {
             "title": "HEAVEN",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "NORWEGAIN WOOD",
-            "artist": "DUKE OF MORTON"
         }
     ]
 }
