@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
-        "artist": "JOHN GOFORTH"
+        "title": "Kiss Me",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
+            "artist": "JOHN GOFORTH"
+        },
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "EARTH ANGERL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "NEPTUNE",
-            "artist": "Andy Suzuki"
         }
     ]
 }
