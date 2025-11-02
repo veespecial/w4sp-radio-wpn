@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SHAKE AND BAKE",
-        "artist": "Newhall Collective"
+        "title": "Long Ago",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "SHAKE AND BAKE",
+            "artist": "Newhall Collective"
+        },
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "Life In Mono",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "YOUR'E NO GOOD",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
