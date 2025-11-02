@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR PRECIOUS LOVE",
-        "artist": "TOMMY/BRIAN"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "YOUR PRECIOUS LOVE",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "FOR ONCE IN MY LIFE",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "Beyond the Sea",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "IN WONDER",
-            "artist": "Govi"
         }
     ]
 }
