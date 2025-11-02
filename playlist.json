@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ROSE IN THE VINE",
-        "artist": "Harley"
+        "title": "HALF A MINUTE",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "ROSE IN THE VINE",
+            "artist": "Harley"
+        },
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "WHEN SUNNY GETS BLUE",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "Millennium",
-            "artist": "Harley Brothers"
         }
     ]
 }
