@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "How Sweet it is",
-        "artist": "Harley Music"
+        "title": "Jo Jo",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "How Sweet it is",
+            "artist": "Harley Music"
+        },
         {
             "title": "EARTH ANGERL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "Footprints",
-            "artist": "Melissa Siegel"
         }
     ]
 }
