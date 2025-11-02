@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWEET CLAIRE",
-        "artist": "Michael Strickland"
+        "title": "Fast Car",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "SWEET CLAIRE",
+            "artist": "Michael Strickland"
+        },
         {
             "title": "THANK YOU",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "KRISTIANA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "GOOD LIFE",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
