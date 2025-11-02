@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEPTUNE",
-        "artist": "Andy Suzuki"
+        "title": "EARTH ANGERL (WILL YOU BE MINE)",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "NEPTUNE",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "How Deep is Your Love",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
             "artist": "CAMERON"
-        },
-        {
-            "title": "BREAKFAST AT TIFFANY'S",
-            "artist": "Josephs Band"
         }
     ]
 }
