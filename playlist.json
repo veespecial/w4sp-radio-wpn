@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HERE'S THAT RAINY DAY",
-        "artist": "Nick Manson"
+        "title": "BAD REPUTATION",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "HERE'S THAT RAINY DAY",
+            "artist": "Nick Manson"
+        },
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "Kiss Me",
-            "artist": "Harley Bros."
         }
     ]
 }
