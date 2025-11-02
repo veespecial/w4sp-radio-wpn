@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WE'RE GONNA MAKE IT",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "My Favorite Mistake",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "WE'RE GONNA MAKE IT",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "Vienna",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "DONE WITH PONAPARTE",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "JUST THE TWO OF US",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
