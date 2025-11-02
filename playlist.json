@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUNG ENOUGH TO KNOW",
-        "artist": "Andy Suzuki"
+        "title": "IT MAKES ME CRAZY",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "YOUNG ENOUGH TO KNOW",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "DREAMBOAT ANNIE",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
