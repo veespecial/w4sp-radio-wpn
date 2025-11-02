@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Till There Was You",
-        "artist": "Dave Raynor"
+        "title": "BACK STABBERS",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "Till There Was You",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "NEXT EVENT",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "(WILL YOU) COME BACK MY LOVE",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "You're the Best Thing",
-            "artist": "DAVE PATT"
         }
     ]
 }
