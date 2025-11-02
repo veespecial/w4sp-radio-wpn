@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "How Sweet it is",
-        "artist": "Harley Music"
+        "title": "DON'T WANT (TO BE A FOOL)",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "How Sweet it is",
+            "artist": "Harley Music"
+        },
         {
             "title": "DA DA",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "Sweet Seasons",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Shooting Star",
-            "artist": "Dave Raynor"
         }
     ]
 }
