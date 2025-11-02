@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fool on the Hill",
-        "artist": "Los Devlin Strings"
+        "title": "CHEHALIS",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "Fool on the Hill",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Heartbreak Hotel",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "DESTINY",
-            "artist": "Nick Manson"
         }
     ]
 }
