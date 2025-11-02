@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WORRY BABY",
-        "artist": "Tom Kellock"
+        "title": "CHEHALIS",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "DON'T WORRY BABY",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "DON'T DREAM IT'S OVER",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "ORDINARY WORLD",
-            "artist": "Devlin's Strings"
         }
     ]
 }
