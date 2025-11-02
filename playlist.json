@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR'E NO GOOD",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "FOOLISH HEART",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "YOUR'E NO GOOD",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "BLUE BOSSA",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "LIVELY UP YOURSELF",
-            "artist": "Tom Politzer"
         }
     ]
 }
