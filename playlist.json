@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SACRIFICE",
-        "artist": "MANSON/MARROW/HALL"
+        "title": "GAUCHO",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "SACRIFICE",
+            "artist": "MANSON/MARROW/HALL"
+        },
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
@@ -39,10 +43,6 @@
         {
             "title": "SWEET CLAIRE",
             "artist": "Michael Strickland"
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
