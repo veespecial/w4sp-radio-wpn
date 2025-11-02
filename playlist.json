@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAN WE TALK",
-        "artist": "South Point"
+        "title": "FOREVER MORE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "CAN WE TALK",
+            "artist": "South Point"
+        },
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "CRAZY LITTLE THING CALLED LOVE",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Fly'n",
-            "artist": "Dave Raynor"
         }
     ]
 }
