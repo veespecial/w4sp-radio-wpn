@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Beyond the Sea",
-        "artist": "Disk Eyes London"
+        "title": "GOOD LIFE",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "Beyond the Sea",
+            "artist": "Disk Eyes London"
+        },
         {
             "title": "IN WONDER",
             "artist": "Govi"
@@ -39,10 +43,6 @@
         {
             "title": "SWAY",
             "artist": "Harley"
-        },
-        {
-            "title": "JUST ONE WORD",
-            "artist": "Harley Bros."
         }
     ]
 }
