@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Elfi's Tune",
-        "artist": "Dave Raynor"
+        "title": "DINDI",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Elfi's Tune",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "ONSTREAM",
             "artist": "Frank Joseph's Group"
@@ -39,10 +43,6 @@
         {
             "title": "YOU ARE EVERYTHING",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "ALL ROADS LEAD TO YOU",
-            "artist": "Kevin Madill-Nashville"
         }
     ]
 }
