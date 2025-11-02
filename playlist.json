@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOMEWHERE IN THE WORLD",
-        "artist": "David Patt"
+        "title": "HOW DO I LIVE",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "SOMEWHERE IN THE WORLD",
+            "artist": "David Patt"
+        },
         {
             "title": "CUCHAMA",
             "artist": "Govi"
@@ -39,10 +43,6 @@
         {
             "title": "BACK IN THE CHAIN GANG",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "ANOTHER SAD LOVE SONG",
-            "artist": "Mike Jaap"
         }
     ]
 }
