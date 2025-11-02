@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Are My Destiny",
-        "artist": "Los Devlin Strings"
+        "title": "Claudette",
+        "artist": "Disk Eyes London"
     },
     "recent": [
+        {
+            "title": "You Are My Destiny",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "IF TOMORROW NEVER COMES",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "WHENEVER YOU'RE ON MY MIND",
-            "artist": "Clair Marlo"
         }
     ]
 }
