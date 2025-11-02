@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WILL",
-        "artist": "Josephs Band"
+        "title": "STAY (I MISSED YOU)",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "I WILL",
+            "artist": "Josephs Band"
+        },
         {
             "title": "RUNAWAY",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
-        },
-        {
-            "title": "ONCE AND FUTURE",
-            "artist": "Newhall Collective"
         }
     ]
 }
