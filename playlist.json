@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR SECRET LOVE",
-        "artist": "Frank Josephs"
+        "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "YOUR SECRET LOVE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "Always Yours",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "NEPTUNE",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "How Deep is Your Love",
-            "artist": "Harley Music"
         }
     ]
 }
