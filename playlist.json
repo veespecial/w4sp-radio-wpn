@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE STRANGER",
-        "artist": "North Point"
+        "title": "HEARD IT IN A LOVE SONG",
+        "artist": "DUKE OF MORTON"
     },
     "recent": [
+        {
+            "title": "THE STRANGER",
+            "artist": "North Point"
+        },
         {
             "title": "GOOD LIFE",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "DELIVER ME FROM MY MIND",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "I WANT TO THANK YOU",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
