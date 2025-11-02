@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TORN",
-        "artist": "Harley Music"
+        "title": "SOMETIME BRAZIL",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "TORN",
+            "artist": "Harley Music"
+        },
         {
             "title": "WHAT DOES IT TAKE",
             "artist": "JON GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WORRY BABY",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "DON'T DREAM IT'S OVER",
-            "artist": "Andre Mayeux"
         }
     ]
 }
