@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "KRISTIANA",
-        "artist": "Jerry Cortez"
+        "title": "Millennium",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "KRISTIANA",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "WEST AGAIN",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "POETRY MAN",
             "artist": "CAMERON"
-        },
-        {
-            "title": "TIL I HEAR IT FROM YOU",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
