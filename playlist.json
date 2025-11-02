@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MAGNOLIA",
-        "artist": "Eric Tingstad"
+        "title": "SAD SONGS SAY SO MUCH",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "MAGNOLIA",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "ALL I WANNA DO",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "DIXIE MOON",
-            "artist": "LENNY MOORE"
         }
     ]
 }
