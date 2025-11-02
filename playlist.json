@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BAD SNEAKERS",
-        "artist": "LENNY MOORE"
+        "title": "Matter Of Time",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "BAD SNEAKERS",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "JULIA",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "You are the Sunshine of My Life",
             "artist": "Harley Music"
-        },
-        {
-            "title": "CORRINA CORRINA",
-            "artist": "Harley"
         }
     ]
 }
