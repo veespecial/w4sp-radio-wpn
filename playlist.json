@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HALF A MINUTE",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "ALL ROADS LEAD TO YOU",
+        "artist": "Kevin Madill-Nashville"
     },
     "recent": [
+        {
+            "title": "HALF A MINUTE",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "Pickin Like Lee",
             "artist": "Michael Ranstrom"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "Always Yours",
-            "artist": "Dave Raynor"
         }
     ]
 }
