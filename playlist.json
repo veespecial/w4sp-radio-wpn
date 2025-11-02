@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STAY (I MISSED YOU)",
-        "artist": "Moro-Eden"
+        "title": "YOU ARE EVERYTHING",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "STAY (I MISSED YOU)",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "I WILL",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "GAUCHO",
             "artist": "North Point"
-        },
-        {
-            "title": "SACRIFICE",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
