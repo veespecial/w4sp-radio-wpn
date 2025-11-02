@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Ever Changing Moods",
-        "artist": "Jim Devlin"
+        "title": "Make it With You",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "My Ever Changing Moods",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Paramour",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "QUEEN OF HEARTS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
