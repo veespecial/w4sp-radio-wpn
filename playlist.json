@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CORRINA CORRINA",
-        "artist": "Harley"
+        "title": "You are the Sunshine of My Life",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "CORRINA CORRINA",
+            "artist": "Harley"
+        },
         {
             "title": "JUST THE TWO OF US",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "FOR ONCE IN MY LIFE",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "WEST AGAIN",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
