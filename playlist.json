@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEARD IT IN A LOVE SONG",
-        "artist": "DUKE OF MORTON"
+        "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
+        "artist": "CAMERON"
     },
     "recent": [
+        {
+            "title": "HEARD IT IN A LOVE SONG",
+            "artist": "DUKE OF MORTON"
+        },
         {
             "title": "THE STRANGER",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "WINDLESS",
             "artist": "Michael Strickland"
-        },
-        {
-            "title": "DELIVER ME FROM MY MIND",
-            "artist": "Andy Suzuki"
         }
     ]
 }
