@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL I WANNA DO",
-        "artist": "Harley"
+        "title": "Terpsichore",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "ALL I WANNA DO",
+            "artist": "Harley"
+        },
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "BODY AND SOUL",
             "artist": "DAVE DYSART"
-        },
-        {
-            "title": "DON'T WANT (TO BE A FOOL)",
-            "artist": "LENNY MOORE"
         }
     ]
 }
