@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF TOMORROW NEVER COMES",
-        "artist": "Josephs Band"
+        "title": "STARDUST",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "IF TOMORROW NEVER COMES",
+            "artist": "Josephs Band"
+        },
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
@@ -39,10 +43,6 @@
         {
             "title": "GAUCHO",
             "artist": "North Point"
-        },
-        {
-            "title": "WILD AND FREE",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
