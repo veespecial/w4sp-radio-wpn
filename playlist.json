@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANOTHER TIME",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "BEWILDERED",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "ANOTHER TIME",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "DON'T WANT (TO BE A FOOL)",
-            "artist": "LENNY MOORE"
         }
     ]
 }
