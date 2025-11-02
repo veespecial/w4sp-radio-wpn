@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOMETIME BRAZIL",
-        "artist": "Andy Suzuki"
+        "title": "Just Like This Train",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "SOMETIME BRAZIL",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "TORN",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "DON'T WORRY BABY",
-            "artist": "Tom Kellock"
         }
     ]
 }
