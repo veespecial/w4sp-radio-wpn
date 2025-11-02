@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW YORK STATE OF MIND",
-        "artist": "DERRICK CHASE"
+        "title": "YOUNG ENOUGH TO KNOW",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "NEW YORK STATE OF MIND",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "MY FUNNY VALENTINE",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMBOAT ANNIE",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "One on One",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
