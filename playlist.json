@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL ROADS LEAD TO YOU",
-        "artist": "Kevin Madill-Nashville"
+        "title": "Fast Car",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "ALL ROADS LEAD TO YOU",
+            "artist": "Kevin Madill-Nashville"
+        },
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
-        },
-        {
-            "title": "YOU DON'T KNOW ME",
-            "artist": "Manasus Strings"
         }
     ]
 }
