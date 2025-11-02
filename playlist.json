@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IN A DAYDREAM",
-        "artist": "Crescenta Valley Boys"
+        "title": "IT'S ALL ABOUT YOU",
+        "artist": "FUNTASTIK"
     },
     "recent": [
+        {
+            "title": "IN A DAYDREAM",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "FAIR TOMORROW",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "DA DA",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "SOME ENCHANTED EVENING",
-            "artist": "Manasus Strings"
         }
     ]
 }
