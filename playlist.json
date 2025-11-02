@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SILVER SPRINGS",
-        "artist": "Harley Brothers"
+        "title": "TROPIC OF CAPRICORN",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "SILVER SPRINGS",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "I DON'T WANNA BE ALONE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
-        },
-        {
-            "title": "GIMME LITTLE SIGN",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
