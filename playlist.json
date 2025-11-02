@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wahine",
-        "artist": "Jerry Cortez"
+        "title": "Samsonite Waltz",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "Wahine",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "I Say a Little Prayer",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "I WILL",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "RUNAWAY",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
