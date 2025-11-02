@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TO LOVE YOU MORE",
-        "artist": "Frank Josephs"
+        "title": "FOR ONCE IN OUR LIVES",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "TO LOVE YOU MORE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "YOU ARE EVERYTHING",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "HOT SAUCE",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "LULLABY OF BIRDLAND",
-            "artist": "Harley"
         }
     ]
 }
