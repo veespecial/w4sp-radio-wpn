@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TEARS FROM THE SUN",
-        "artist": "PASERO/SUZUKI-HAWAII"
+        "title": "AIN'T MISBEHAVIN",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "TEARS FROM THE SUN",
+            "artist": "PASERO/SUZUKI-HAWAII"
+        },
         {
             "title": "WILD AND FREE",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "Until You Come Back To Me",
             "artist": "Manson Music"
-        },
-        {
-            "title": "Pickin Like Lee",
-            "artist": "Michael Ranstrom"
         }
     ]
 }
