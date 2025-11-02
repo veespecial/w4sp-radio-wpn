@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You are the Sunshine of My Life",
-        "artist": "Harley Music"
+        "title": "GIRL WITH A RED CARNATION",
+        "artist": "Acoustic Alchemy"
     },
     "recent": [
+        {
+            "title": "You are the Sunshine of My Life",
+            "artist": "Harley Music"
+        },
         {
             "title": "CORRINA CORRINA",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIK"
-        },
-        {
-            "title": "FOR ONCE IN MY LIFE",
-            "artist": "Josephs Band"
         }
     ]
 }
