@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Till There Was You",
-        "artist": "Dave Raynor"
+        "title": "LONELY TOO LONG",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "Till There Was You",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "TIL I HEAR IT FROM YOU",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "NEXT EVENT",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "MAGNOLIA",
-            "artist": "Eric Tingstad"
         }
     ]
 }
