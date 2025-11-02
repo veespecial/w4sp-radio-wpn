@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "After All",
-        "artist": "Dave Raynor"
+        "title": "Paramour",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "After All",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "TROLLY CAR",
             "artist": "Jennifer Ivester"
@@ -39,10 +43,6 @@
         {
             "title": "SWAY",
             "artist": "Harley"
-        },
-        {
-            "title": "I SOLD MY HEART TO THE JUNKMAN",
-            "artist": "Jim Devlin"
         }
     ]
 }
