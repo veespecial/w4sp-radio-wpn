@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DA DA",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "How Sweet it is",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "DA DA",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "SOME ENCHANTED EVENING",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Shooting Star",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "DON'T WANNA LOSE YOU",
-            "artist": "Curtis Brengle"
         }
     ]
 }
