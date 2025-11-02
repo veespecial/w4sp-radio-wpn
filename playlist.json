@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEAVEN",
-        "artist": "North Point"
+        "title": "IT'S ALL ABOUT YOU",
+        "artist": "FUNTASTIK"
     },
     "recent": [
+        {
+            "title": "HEAVEN",
+            "artist": "North Point"
+        },
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
@@ -39,10 +43,6 @@
         {
             "title": "NORWEGAIN WOOD",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "Reflection",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
