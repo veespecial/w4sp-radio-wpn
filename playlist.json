@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Reflection",
-        "artist": "Los Devlin Strings"
+        "title": "NORWEGAIN WOOD",
+        "artist": "DUKE OF MORTON"
     },
     "recent": [
+        {
+            "title": "Reflection",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "WORLD I KNOW",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "I Only Have Eyes for You",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "SOMEWHERE IN THE WORLD",
-            "artist": "David Patt"
         }
     ]
 }
