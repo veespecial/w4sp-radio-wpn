@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "(WILL YOU) COME BACK MY LOVE",
-        "artist": "JOHN GOFORTH"
+        "title": "WHAT'S GOIN ON",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "(WILL YOU) COME BACK MY LOVE",
+            "artist": "JOHN GOFORTH"
+        },
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
@@ -39,10 +43,6 @@
         {
             "title": "FOR ELFI",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "TROPIC OF CAPRICORN",
-            "artist": "South Point"
         }
     ]
 }
