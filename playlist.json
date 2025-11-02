@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Favorite Mistake",
-        "artist": "Frank Josephs"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "My Favorite Mistake",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "HOT SAUCE",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T GO BREAKIN MY HEART",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "Till There Was You",
-            "artist": "Dave Raynor"
         }
     ]
 }
