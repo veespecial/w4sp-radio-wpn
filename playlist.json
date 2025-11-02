@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STARDUST",
-        "artist": "LENNY MOORE"
+        "title": "BEWILDERED",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "STARDUST",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "ONSTREAM",
             "artist": "Frank Joseph's Group"
@@ -39,10 +43,6 @@
         {
             "title": "HERO",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "CRAZY LITTLE THING CALLED LOVE",
-            "artist": "Harley Brothers"
         }
     ]
 }
