@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tears In Heaven",
-        "artist": "Crescenta Valley Boys"
+        "title": "DROWNING IN YOUR TEARS",
+        "artist": "FUNTASTIK"
     },
     "recent": [
+        {
+            "title": "Tears In Heaven",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "WINDLESS",
             "artist": "Michael Strickland"
@@ -39,10 +43,6 @@
         {
             "title": "Matter Of Time",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "MIRACLES",
-            "artist": "North Point"
         }
     ]
 }
