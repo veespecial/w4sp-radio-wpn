@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fly'n",
-        "artist": "Dave Raynor"
+        "title": "I JUST WANNA STOP",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "Fly'n",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "SARA SMILE",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "IT'S ALL ABOUT YOU",
             "artist": "FUNTASTIK"
-        },
-        {
-            "title": "HEAVEN",
-            "artist": "North Point"
         }
     ]
 }
