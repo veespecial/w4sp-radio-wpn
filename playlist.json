@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BACK IN THE CHAIN GANG",
-        "artist": "Harley Brothers"
+        "title": "NEW YORK STATE OF MIND",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "BACK IN THE CHAIN GANG",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "ANOTHER SAD LOVE SONG",
             "artist": "Mike Jaap"
@@ -39,10 +43,6 @@
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
-        },
-        {
-            "title": "HERE'S THAT RAINY DAY",
-            "artist": "Nick Manson"
         }
     ]
 }
