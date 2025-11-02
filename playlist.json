@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Make it With You",
-        "artist": "Daniel Ho"
+        "title": "WILD AND FREE",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "Make it With You",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "DON'T WORRY BABY",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "Fast Car",
             "artist": "Quistetts"
-        },
-        {
-            "title": "SWEET CLAIRE",
-            "artist": "Michael Strickland"
         }
     ]
 }
