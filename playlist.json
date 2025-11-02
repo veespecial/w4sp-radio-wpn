@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sweet Seasons",
-        "artist": "Harley Bros."
+        "title": "DA DA",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "Sweet Seasons",
+            "artist": "Harley Bros."
+        },
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "NEPTUNE",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "GIRL WITH A RED CARNATION",
-            "artist": "Acoustic Alchemy"
         }
     ]
 }
