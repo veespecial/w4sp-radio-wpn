@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'M IN A PHILLY MOOD",
-        "artist": "Mike Jaap"
+        "title": "You Make Lovin' Fun",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "I'M IN A PHILLY MOOD",
+            "artist": "Mike Jaap"
+        },
         {
             "title": "DON'T WANNA LOSE YOU",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "ANOTHER TIME",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "I JUST WANNA STOP",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
