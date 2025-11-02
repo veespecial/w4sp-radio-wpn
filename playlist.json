@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Make Lovin' Fun",
-        "artist": "Harley Bros."
+        "title": "ALL I'VE GOT TO DO",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "You Make Lovin' Fun",
+            "artist": "Harley Bros."
+        },
         {
             "title": "SWAY",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "Reflection",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "TO LOVE YOU MORE",
-            "artist": "Frank Josephs"
         }
     ]
 }
