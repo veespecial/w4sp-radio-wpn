@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T ASK MY NEIGHBOR",
-        "artist": "STRINGS BY ANDY"
+        "title": "BACK STABBERS",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "DON'T ASK MY NEIGHBOR",
+            "artist": "STRINGS BY ANDY"
+        },
         {
             "title": "CHAIN LIGHTNING",
             "artist": "Tom Politzer 93"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR PRECIOUS LOVE",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "OLD OAK KNOLL",
-            "artist": "Nick Manson"
         }
     ]
 }
