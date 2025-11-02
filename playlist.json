@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MIDNIGHT TRAIN TO GEORGIA",
-        "artist": "Daniel Ho"
+        "title": "ALL I WANNA DO",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "MIDNIGHT TRAIN TO GEORGIA",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Walk On By",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WANT (TO BE A FOOL)",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "SMOOTH OPERATOR",
-            "artist": "Josephs Band"
         }
     ]
 }
