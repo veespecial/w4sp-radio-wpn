@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Turn Turn Turn",
-        "artist": "John Morton"
+        "title": "ONCE AND FUTURE",
+        "artist": "Newhall Collective"
     },
     "recent": [
+        {
+            "title": "Turn Turn Turn",
+            "artist": "John Morton"
+        },
         {
             "title": "HERO",
             "artist": "JOHN GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "SOMETIME BRAZIL",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "TORN",
-            "artist": "Harley Music"
         }
     ]
 }
