@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL BE OVER YOU",
-        "artist": "Daniel Ho"
+        "title": "WINDLESS",
+        "artist": "Michael Strickland"
     },
     "recent": [
+        {
+            "title": "I'LL BE OVER YOU",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Paramour",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "ALL I'VE GOT TO DO",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "You Make Lovin' Fun",
-            "artist": "Harley Bros."
         }
     ]
 }
