@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Walk On By",
-        "artist": "Manson Music"
+        "title": "MIDNIGHT TRAIN TO GEORGIA",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "Walk On By",
+            "artist": "Manson Music"
+        },
         {
             "title": "Walton On Thames",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "SMOOTH OPERATOR",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "STUBBORN KIND OF FELLOW",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
