@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GAUCHO",
-        "artist": "North Point"
+        "title": "LULLABY OF BIRDLAND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "GAUCHO",
+            "artist": "North Point"
+        },
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
@@ -39,10 +43,6 @@
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "SWEET CLAIRE",
-            "artist": "Michael Strickland"
         }
     ]
 }
