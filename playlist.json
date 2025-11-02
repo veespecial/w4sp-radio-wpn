@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Say a Little Prayer",
-        "artist": "Harley Music"
+        "title": "Wahine",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "I Say a Little Prayer",
+            "artist": "Harley Music"
+        },
         {
             "title": "ANOTHER SAD LOVE SONG",
             "artist": "Mike Jaap"
@@ -39,10 +43,6 @@
         {
             "title": "RUNAWAY",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "BEWILDERED",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
