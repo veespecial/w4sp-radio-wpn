@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU DON'T KNOW ME",
-        "artist": "Manasus Strings"
+        "title": "GREEN FLOWER STREET",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "YOU DON'T KNOW ME",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "MAGNOLIA",
-            "artist": "Eric Tingstad"
         }
     ]
 }
