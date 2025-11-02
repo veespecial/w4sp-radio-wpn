@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Always Yours",
-        "artist": "Dave Raynor"
+        "title": "YOUR SECRET LOVE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "Always Yours",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "I GO TO EXTREMES",
             "artist": "MANSON/MARROW/HALL"
@@ -39,10 +43,6 @@
         {
             "title": "How Deep is Your Love",
             "artist": "Harley Music"
-        },
-        {
-            "title": "CAN I CHANGE MY MIND",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
