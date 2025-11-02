@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Pickin Like Lee",
-        "artist": "Michael Ranstrom"
+        "title": "HALF A MINUTE",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "Pickin Like Lee",
+            "artist": "Michael Ranstrom"
+        },
         {
             "title": "YOUR PRECIOUS LOVE",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "Always Yours",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "I GO TO EXTREMES",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
