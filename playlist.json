@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW YORK STATE OF MIND",
-        "artist": "DERRICK CHASE"
+        "title": "Till There Was You",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "NEW YORK STATE OF MIND",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "BACK IN THE CHAIN GANG",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "GOT TO GIVE IT UP",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "TEARS FROM THE SUN",
-            "artist": "PASERO/SUZUKI-HAWAII"
         }
     ]
 }
