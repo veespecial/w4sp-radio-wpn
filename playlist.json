@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHERE IS THE LOVE",
-        "artist": "Tom Kellock"
+        "title": "DON'T WANNA LOSE YOU",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "WHERE IS THE LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "I WANT TO THANK YOU",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "HOT SAUCE",
-            "artist": "Eric Tingstad"
         }
     ]
 }
