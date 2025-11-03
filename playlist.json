@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE FINER THINGS",
-        "artist": "DAVE DYSART"
+        "title": "Make it With You",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "THE FINER THINGS",
+            "artist": "DAVE DYSART"
+        },
         {
             "title": "Fast Car",
             "artist": "Quistetts"
@@ -39,10 +43,6 @@
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "SUMMER WIND",
-            "artist": "Harley"
         }
     ]
 }
