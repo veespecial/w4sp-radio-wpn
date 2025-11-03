@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOMETIME BRAZIL",
-        "artist": "Andy Suzuki"
+        "title": "SUMMER WIND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "SOMETIME BRAZIL",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "I GO TO EXTREMES",
             "artist": "MANSON/MARROW/HALL"
@@ -39,10 +43,6 @@
         {
             "title": "GOIN OUT OF MY HEAD",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "Millennium",
-            "artist": "Harley Brothers"
         }
     ]
 }
