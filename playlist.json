@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Always Yours",
-        "artist": "Dave Raynor"
+        "title": "THIS MASQUERADE",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "Always Yours",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "CAN WE TALK",
             "artist": "South Point"
-        },
-        {
-            "title": "YOUNG ENOUGH TO KNOW",
-            "artist": "Andy Suzuki"
         }
     ]
 }
