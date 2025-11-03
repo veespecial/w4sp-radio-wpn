@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HERO",
-        "artist": "JOHN GOFORTH"
+        "title": "ALIEN",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "HERO",
+            "artist": "JOHN GOFORTH"
+        },
         {
             "title": "WEST AGAIN",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "Beyond the Sea",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "Day Dreaming",
-            "artist": "Harley Bros."
         }
     ]
 }
