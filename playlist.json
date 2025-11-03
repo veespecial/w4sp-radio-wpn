@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TIL I HEAR IT FROM YOU",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "SILVER SPRINGS",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "TIL I HEAR IT FROM YOU",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "BECAUSE YOU LOVED ME",
             "artist": "North Point"
-        },
-        {
-            "title": "OLD OAK KNOLL",
-            "artist": "Nick Manson"
         }
     ]
 }
