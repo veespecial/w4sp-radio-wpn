@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
-        "artist": "JOHN GOFORTH"
+        "title": "DON'T ASK MY NEIGHBOR",
+        "artist": "STRINGS BY ANDY"
     },
     "recent": [
+        {
+            "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
+            "artist": "JOHN GOFORTH"
+        },
         {
             "title": "Yesterday",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "Shooting Star",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "IT MAKES ME CRAZY",
-            "artist": "Nick Manson"
         }
     ]
 }
