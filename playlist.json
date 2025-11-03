@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MY FUNNY VALENTINE",
-        "artist": "Manasus Strings"
+        "title": "Long Ago",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "MY FUNNY VALENTINE",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "HEY GIRL",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
-        },
-        {
-            "title": "Fast Car",
-            "artist": "Quistetts"
         }
     ]
 }
