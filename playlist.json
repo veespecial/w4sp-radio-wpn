@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'M IN A PHILLY MOOD",
-        "artist": "Mike Jaap"
+        "title": "I JUST WANNA STOP",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "I'M IN A PHILLY MOOD",
+            "artist": "Mike Jaap"
+        },
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
@@ -39,10 +43,6 @@
         {
             "title": "POETRY MAN",
             "artist": "CAMERON"
-        },
-        {
-            "title": "SOMETHING THAT WE DO",
-            "artist": "Harley Music"
         }
     ]
 }
