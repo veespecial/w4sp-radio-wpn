@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "QUEEN OF HEARTS",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "NORWEGAIN WOOD",
+        "artist": "DUKE OF MORTON"
     },
     "recent": [
+        {
+            "title": "QUEEN OF HEARTS",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "Long Ago",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "Reflection",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "Make it With You",
-            "artist": "Daniel Ho"
         }
     ]
 }
