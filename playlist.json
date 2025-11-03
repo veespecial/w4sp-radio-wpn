@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CHEHALIS",
-        "artist": "Eric Tingstad"
+        "title": "ANOTHER TIME",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "CHEHALIS",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "LIVELY UP YOURSELF",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "BREAKFAST AT TIFFANY'S",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "GOIN OUT OF MY HEAD",
-            "artist": "Nick Manson"
         }
     ]
 }
