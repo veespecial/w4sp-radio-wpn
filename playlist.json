@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WE'RE GONNA MAKE IT",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "OLD OAK KNOLL",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "WE'RE GONNA MAKE IT",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "CLOUDY",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "NORWEGAIN WOOD",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "Life In Mono",
-            "artist": "Andy Suzuki"
         }
     ]
 }
