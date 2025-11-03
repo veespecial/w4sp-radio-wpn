@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HAKUNA MATATA",
-        "artist": "Josephs Band"
+        "title": "TIL I HEAR IT FROM YOU",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "HAKUNA MATATA",
+            "artist": "Josephs Band"
+        },
         {
             "title": "BAD REPUTATION",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "OLD OAK KNOLL",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "EARTH ANGERL (WILL YOU BE MINE)",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
