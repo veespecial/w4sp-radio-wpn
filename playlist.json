@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAN WE TALK",
-        "artist": "South Point"
+        "title": "Vienna",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "CAN WE TALK",
+            "artist": "South Point"
+        },
         {
             "title": "YOUNG ENOUGH TO KNOW",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "KRISTIANA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "THANK YOU",
-            "artist": "Disk Eyes S.F."
         }
     ]
 }
