@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Are My Destiny",
-        "artist": "Los Devlin Strings"
+        "title": "Sweet Seasons",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "You Are My Destiny",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "Heaven On A Sunday",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "MERCY MERCY ME",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "PROMISE AIN'T ENOUGH",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
