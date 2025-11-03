@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Shooting Star",
-        "artist": "Dave Raynor"
+        "title": "SOUL SHADOWS",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "Shooting Star",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "COME RAIN OR COME SHINE",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "YOUR SECRET LOVE",
-            "artist": "Frank Josephs"
         }
     ]
 }
