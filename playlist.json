@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STAY (I MISSED YOU)",
-        "artist": "Moro-Eden"
+        "title": "ALIEN",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "STAY (I MISSED YOU)",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "Walk On By",
             "artist": "Manson Music"
-        },
-        {
-            "title": "NEVER ENDING SONG OF LOVE",
-            "artist": "DUKE OF MORTON"
         }
     ]
 }
