@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Always Yours",
-        "artist": "Dave Raynor"
+        "title": "DINDI",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Always Yours",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "RUBY BABY",
-            "artist": "Funtastic"
         }
     ]
 }
