@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAD SONGS SAY SO MUCH",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "Sun King",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "SAD SONGS SAY SO MUCH",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "Carey",
-            "artist": "Josephs Band"
         }
     ]
 }
