@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BECAUSE YOU LOVED ME",
-        "artist": "North Point"
+        "title": "DON'T DREAM IT'S OVER",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "BECAUSE YOU LOVED ME",
+            "artist": "North Point"
+        },
         {
             "title": "OLD OAK KNOLL",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "NORWEGAIN WOOD",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "QUEEN OF HEARTS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
