@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIVING YOU THE BEST THAT I GOT",
-        "artist": "Curtis Brengle"
+        "title": "My Favorite Mistake",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "GIVING YOU THE BEST THAT I GOT",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "Alison",
             "artist": "Quistetts"
@@ -39,10 +43,6 @@
         {
             "title": "HOT SAUCE",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "STONED SOUL PICNIC",
-            "artist": "Daniel Ho"
         }
     ]
 }
