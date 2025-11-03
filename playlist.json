@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SARA SMILE",
-        "artist": "CHAD STONE BAND"
+        "title": "One on One",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "SARA SMILE",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "ALIEN",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "MIRACLES",
             "artist": "North Point"
-        },
-        {
-            "title": "CHEHALIS",
-            "artist": "Eric Tingstad"
         }
     ]
 }
