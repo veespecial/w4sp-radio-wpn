@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Jo Jo",
-        "artist": "Harley"
+        "title": "SAD SONGS SAY SO MUCH",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "Jo Jo",
+            "artist": "Harley"
+        },
         {
             "title": "WELCOME TO MY WORLD",
             "artist": "Kevin Madill-Nashville"
@@ -39,10 +43,6 @@
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
-        },
-        {
-            "title": "ONCE AND FUTURE",
-            "artist": "Newhall Collective"
         }
     ]
 }
