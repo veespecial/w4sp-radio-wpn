@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CORRINA CORRINA",
-        "artist": "Harley"
+        "title": "I TURN TO YOU",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "CORRINA CORRINA",
+            "artist": "Harley"
+        },
         {
             "title": "After the Love Has Gone",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "AIN'T MISBEHAVIN",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "SLEEPING CAT DANCE",
-            "artist": "Nick Manson"
         }
     ]
 }
