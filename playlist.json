@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CHEHALIS",
-        "artist": "Eric Tingstad"
+        "title": "MIRACLES",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "CHEHALIS",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "Walk On By",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "YOU ARE EVERYTHING",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "DON'T GO BREAKIN MY HEART",
-            "artist": "Devlin's Strings"
         }
     ]
 }
