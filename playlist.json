@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STUBBORN KIND OF FELLOW",
-        "artist": "Crescenta Valley Boys"
+        "title": "DON'T GO BREAKIN MY HEART",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "STUBBORN KIND OF FELLOW",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "WINDLESS",
             "artist": "Michael Strickland"
@@ -39,10 +43,6 @@
         {
             "title": "DESAFINADO",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "BREAKFAST AT TIFFANY'S",
-            "artist": "Josephs Band"
         }
     ]
 }
