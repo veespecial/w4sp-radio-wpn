@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WELCOME TO MY WORLD",
-        "artist": "Kevin Madill-Nashville"
+        "title": "Jo Jo",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "WELCOME TO MY WORLD",
+            "artist": "Kevin Madill-Nashville"
+        },
         {
             "title": "How Deep is Your Love",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "WE'RE GONNA MAKE IT",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
