@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SUMMER WIND",
-        "artist": "Harley"
+        "title": "STAY (I MISSED YOU)",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "SUMMER WIND",
+            "artist": "Harley"
+        },
         {
             "title": "SOMETIME BRAZIL",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "NEVER ENDING SONG OF LOVE",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "GOIN OUT OF MY HEAD",
-            "artist": "Nick Manson"
         }
     ]
 }
