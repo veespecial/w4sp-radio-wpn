@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOME ENCHANTED EVENING",
-        "artist": "Manasus Strings"
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "SOME ENCHANTED EVENING",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "ALL I'VE GOT TO DO",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "EARTH ANGERL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "WORLD I KNOW",
-            "artist": "Harley Brothers"
         }
     ]
 }
