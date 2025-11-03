@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ORDINARY WORLD",
-        "artist": "Devlin's Strings"
+        "title": "NEVER CAN SAY GOODBYE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "ORDINARY WORLD",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "YOU DON'T KNOW ME",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
-        },
-        {
-            "title": "YOU ARE EVERYTHING",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
