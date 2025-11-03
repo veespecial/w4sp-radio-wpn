@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CHAIN LIGHTNING",
-        "artist": "Tom Politzer 93"
+        "title": "I'LL BE OVER YOU",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "CHAIN LIGHTNING",
+            "artist": "Tom Politzer 93"
+        },
         {
             "title": "I GOTTA RUN",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "SILVER SPRINGS",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Claudette",
-            "artist": "Disk Eyes London"
         }
     ]
 }
