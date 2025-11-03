@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Until You Come Back To Me",
-        "artist": "Manson Music"
+        "title": "APRIL BLUES",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "Until You Come Back To Me",
+            "artist": "Manson Music"
+        },
         {
             "title": "SUNNY CAME HOME",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
-        },
-        {
-            "title": "SOME ENCHANTED EVENING",
-            "artist": "Manasus Strings"
         }
     ]
 }
