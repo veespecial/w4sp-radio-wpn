@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "EVERY BEAT OF MY HEART",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "GOIN OUT OF MY HEAD",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "EVERY BEAT OF MY HEART",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "I GOTTA RUN",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "After the Love Has Gone",
             "artist": "Harley Music"
-        },
-        {
-            "title": "You Make Lovin' Fun",
-            "artist": "Harley Bros."
         }
     ]
 }
