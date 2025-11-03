@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Ever Changing Moods",
-        "artist": "Jim Devlin"
+        "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
+        "artist": "CAMERON"
     },
     "recent": [
+        {
+            "title": "My Ever Changing Moods",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
@@ -39,10 +43,6 @@
         {
             "title": "FOR ONCE IN OUR LIVES",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "Life In Mono",
-            "artist": "Andy Suzuki"
         }
     ]
 }
