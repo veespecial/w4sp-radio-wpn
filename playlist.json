@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WORRY BABY",
-        "artist": "Tom Kellock"
+        "title": "THAT'S WHAT FRIENDS ARE FOR",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "DON'T WORRY BABY",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "Reflection",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "One on One",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "SARA SMILE",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
