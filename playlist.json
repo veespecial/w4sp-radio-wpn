@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAMILLA",
-        "artist": "Jerry Cortez"
+        "title": "SHAKE AND BAKE",
+        "artist": "Newhall Collective"
     },
     "recent": [
+        {
+            "title": "CAMILLA",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "SOMETHING THAT WE DO",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "Yesterday",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "YOU'RE THE INSPIRATION",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
