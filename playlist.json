@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Beyond the Sea",
-        "artist": "Disk Eyes London"
+        "title": "PROMISE AIN'T ENOUGH",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "Beyond the Sea",
+            "artist": "Disk Eyes London"
+        },
         {
             "title": "Day Dreaming",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Millennium",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "After All",
-            "artist": "Dave Raynor"
         }
     ]
 }
