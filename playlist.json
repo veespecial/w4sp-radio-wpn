@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW YORK STATE OF MIND",
-        "artist": "DERRICK CHASE"
+        "title": "SUNNY CAME HOME",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "NEW YORK STATE OF MIND",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "MORE THAN THIS",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "SHAKE AND BAKE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "CAMILLA",
-            "artist": "Jerry Cortez"
         }
     ]
 }
