@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Claudette",
-        "artist": "Disk Eyes London"
+        "title": "SILVER SPRINGS",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Claudette",
+            "artist": "Disk Eyes London"
+        },
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
@@ -39,10 +43,6 @@
         {
             "title": "MAGNOLIA",
             "artist": "Funtastic"
-        },
-        {
-            "title": "DONE WITH PONAPARTE",
-            "artist": "Moro-Eden"
         }
     ]
 }
