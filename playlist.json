@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIXIE MOON",
-        "artist": "LENNY MOORE"
+        "title": "Footprints",
+        "artist": "Melissa Siegel"
     },
     "recent": [
+        {
+            "title": "DIXIE MOON",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "Wahine",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "You are the Sunshine of My Life",
-            "artist": "Harley Music"
         }
     ]
 }
