@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I JUST WANNA STOP",
-        "artist": "MANASUS MUSIC"
+        "title": "Nobody Does It Better",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "I JUST WANNA STOP",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIK"
@@ -39,10 +43,6 @@
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "Sweet Seasons",
-            "artist": "Harley Bros."
         }
     ]
 }
