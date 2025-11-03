@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Reflection",
-        "artist": "Los Devlin Strings"
+        "title": "DON'T WORRY BABY",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "Reflection",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "Make it With You",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "SARA SMILE",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "ALIEN",
-            "artist": "Funtastic"
         }
     ]
 }
