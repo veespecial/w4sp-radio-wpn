@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Yesterday",
-        "artist": "Josephs Band"
+        "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "Yesterday",
+            "artist": "Josephs Band"
+        },
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "IT MAKES ME CRAZY",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "YOUNG ENOUGH TO KNOW",
-            "artist": "Andy Suzuki"
         }
     ]
 }
