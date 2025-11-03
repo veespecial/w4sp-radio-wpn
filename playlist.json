@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Love Of My Life",
-        "artist": "Andre Mayeux"
+        "title": "GAUCHO",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "Love Of My Life",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "MAGNOLIA",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "ORDINARY WORLD",
-            "artist": "Devlin's Strings"
         }
     ]
 }
