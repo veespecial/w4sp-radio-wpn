@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL I'VE GOT TO DO",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "Fast Car",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "ALL I'VE GOT TO DO",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "Wahine",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "SOMETIME BRAZIL",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "I GO TO EXTREMES",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
