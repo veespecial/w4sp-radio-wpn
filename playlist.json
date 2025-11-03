@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I TURN TO YOU",
-        "artist": "Daniel Ho"
+        "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
+        "artist": "Disk Eyes S.F."
     },
     "recent": [
+        {
+            "title": "I TURN TO YOU",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "RAIN AND SHINE",
             "artist": "Jennifer Ivester"
@@ -39,10 +43,6 @@
         {
             "title": "GIRL WITH A RED CARNATION",
             "artist": "Acoustic Alchemy"
-        },
-        {
-            "title": "YOUR PRECIOUS LOVE",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
