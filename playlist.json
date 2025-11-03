@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T GO BREAKIN MY HEART",
-        "artist": "Devlin's Strings"
+        "title": "CHAIN LIGHTNING",
+        "artist": "Tom Politzer 93"
     },
     "recent": [
+        {
+            "title": "DON'T GO BREAKIN MY HEART",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "AIN'T MISBEHAVIN",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "ONSTREAM",
             "artist": "Frank Joseph's Group"
-        },
-        {
-            "title": "HEY GIRL",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
