@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Make it With You",
-        "artist": "Daniel Ho"
+        "title": "GOT TO GIVE IT UP",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "Make it With You",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
@@ -39,10 +43,6 @@
         {
             "title": "Heaven On A Sunday",
             "artist": "John Morton"
-        },
-        {
-            "title": "I'm Happy Just to Dance with You",
-            "artist": "Disk Eyes London"
         }
     ]
 }
