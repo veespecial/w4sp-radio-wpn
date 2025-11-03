@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SILVER SPRINGS",
-        "artist": "Harley Brothers"
+        "title": "Terpsichore",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "SILVER SPRINGS",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "TIL I HEAR IT FROM YOU",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T DREAM IT'S OVER",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "BECAUSE YOU LOVED ME",
-            "artist": "North Point"
         }
     ]
 }
