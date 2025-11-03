@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEVER ENDING SONG OF LOVE",
-        "artist": "DUKE OF MORTON"
+        "title": "Walk On By",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "NEVER ENDING SONG OF LOVE",
+            "artist": "DUKE OF MORTON"
+        },
         {
             "title": "GOIN OUT OF MY HEAD",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "STUBBORN KIND OF FELLOW",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "WINDLESS",
-            "artist": "Michael Strickland"
         }
     ]
 }
