@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AIN'T MISBEHAVIN",
-        "artist": "BRAD ALLISON"
+        "title": "BACK IN THE CHAIN GANG",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "AIN'T MISBEHAVIN",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "NORWEGAIN WOOD",
             "artist": "DUKE OF MORTON"
@@ -39,10 +43,6 @@
         {
             "title": "THAT'S WHAT FRIENDS ARE FOR",
             "artist": "North Point"
-        },
-        {
-            "title": "DON'T WORRY BABY",
-            "artist": "Tom Kellock"
         }
     ]
 }
