@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RAIN AND SHINE",
-        "artist": "Jennifer Ivester"
+        "title": "Heartbreak Hotel",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "RAIN AND SHINE",
+            "artist": "Jennifer Ivester"
+        },
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "How Deep is Your Love",
             "artist": "Harley Music"
-        },
-        {
-            "title": "WHERE IS THE LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
