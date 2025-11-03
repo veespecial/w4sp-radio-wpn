@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BECAUSE YOU LOVED ME",
-        "artist": "North Point"
+        "title": "Alison",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "BECAUSE YOU LOVED ME",
+            "artist": "North Point"
+        },
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "GIRL WITH A RED CARNATION",
             "artist": "Acoustic Alchemy"
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
