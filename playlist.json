@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "EARTH ANGERL (WILL YOU BE MINE)",
-        "artist": "MANSON STRINGS"
+        "title": "SOMETHING THAT WE DO",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "EARTH ANGERL (WILL YOU BE MINE)",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "WORLD I KNOW",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
-        },
-        {
-            "title": "STAY (I MISSED YOU)",
-            "artist": "Moro-Eden"
         }
     ]
 }
