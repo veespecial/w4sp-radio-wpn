@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
-        "artist": "Disk Eyes S.F."
+        "title": "Tempted",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
+            "artist": "Disk Eyes S.F."
+        },
         {
             "title": "Carey",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "I GO TO EXTREMES",
             "artist": "MANSON/MARROW/HALL"
-        },
-        {
-            "title": "After the Love Has Gone",
-            "artist": "Harley Music"
         }
     ]
 }
