@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOIN OUT OF MY HEAD",
-        "artist": "Nick Manson"
+        "title": "NEVER ENDING SONG OF LOVE",
+        "artist": "DUKE OF MORTON"
     },
     "recent": [
+        {
+            "title": "GOIN OUT OF MY HEAD",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Millennium",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "WINDLESS",
             "artist": "Michael Strickland"
-        },
-        {
-            "title": "Love Of My Life",
-            "artist": "Andre Mayeux"
         }
     ]
 }
