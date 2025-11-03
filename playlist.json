@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TEARS FROM THE SUN",
-        "artist": "PASERO/SUZUKI-HAWAII"
+        "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "TEARS FROM THE SUN",
+            "artist": "PASERO/SUZUKI-HAWAII"
+        },
         {
             "title": "DREAMBOAT ANNIE",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "WHAT DOES IT TAKE",
             "artist": "JON GOFORTH"
-        },
-        {
-            "title": "I WANT TO THANK YOU",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
