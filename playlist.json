@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BREAKFAST AT TIFFANY'S",
-        "artist": "Josephs Band"
+        "title": "You're the Best Thing",
+        "artist": "DAVE PATT"
     },
     "recent": [
+        {
+            "title": "BREAKFAST AT TIFFANY'S",
+            "artist": "Josephs Band"
+        },
         {
             "title": "GOIN OUT OF MY HEAD",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "I TURN TO YOU",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "CORRINA CORRINA",
-            "artist": "Harley"
         }
     ]
 }
