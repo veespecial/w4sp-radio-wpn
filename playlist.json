@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOT TO GIVE IT UP",
-        "artist": "STANDING PATT MUSIC"
+        "title": "LULLABY OF BIRDLAND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "GOT TO GIVE IT UP",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "Make it With You",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "Heaven On A Sunday",
-            "artist": "John Morton"
         }
     ]
 }
