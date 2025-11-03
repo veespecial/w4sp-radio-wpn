@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WILL",
-        "artist": "Josephs Band"
+        "title": "HALF A MINUTE",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "I WILL",
+            "artist": "Josephs Band"
+        },
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
