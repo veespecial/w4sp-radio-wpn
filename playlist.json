@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STAY (I MISSED YOU)",
-        "artist": "Moro-Eden"
+        "title": "GREEN FLOWER STREET",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "STAY (I MISSED YOU)",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "WHAT'S GOIN ON",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "WHERE IS THE LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
