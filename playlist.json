@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL BE OVER YOU",
-        "artist": "Daniel Ho"
+        "title": "WHAT'S NEW",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "I'LL BE OVER YOU",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "SHAKE AND BAKE",
             "artist": "Newhall Collective"
@@ -39,10 +43,6 @@
         {
             "title": "JUST ONE WORD",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "QUEEN OF HEARTS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
