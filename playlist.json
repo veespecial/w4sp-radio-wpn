@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Walk On By",
-        "artist": "Manson Music"
+        "title": "I JUST WANNA STOP",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "Walk On By",
+            "artist": "Manson Music"
+        },
         {
             "title": "I GOTTA RUN",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "LOVE WILL CONQUER ALL",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "BAD SNEAKERS",
-            "artist": "LENNY MOORE"
         }
     ]
 }
