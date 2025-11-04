@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOT SAUCE",
-        "artist": "Eric Tingstad"
+        "title": "THE STRANGER",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "HOT SAUCE",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "TIL I HEAR IT FROM YOU",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "ONSTREAM",
-            "artist": "Frank Joseph's Group"
         }
     ]
 }
