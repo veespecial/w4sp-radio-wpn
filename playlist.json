@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ORDINARY WORLD",
-        "artist": "Devlin's Strings"
+        "title": "RUNAWAY",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "ORDINARY WORLD",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "THIS MASQUERADE",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "Make it With You",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "HIGHER AND HIGHER",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
