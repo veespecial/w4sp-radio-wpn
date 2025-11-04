@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ROSE IN THE VINE",
-        "artist": "Harley"
+        "title": "WHAT'S NEW",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "ROSE IN THE VINE",
+            "artist": "Harley"
+        },
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIC MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
-        },
-        {
-            "title": "IF TOMORROW NEVER COMES",
-            "artist": "Josephs Band"
         }
     ]
 }
