@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIMME LITTLE SIGN",
-        "artist": "STANDING PATT MUSIC"
+        "title": "FAIR TOMORROW",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "GIMME LITTLE SIGN",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "I'M IN A PHILLY MOOD",
             "artist": "Mike Jaap"
@@ -39,10 +43,6 @@
         {
             "title": "NEW KID AROUND",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "COME FLY WITH ME",
-            "artist": "Harley"
         }
     ]
 }
