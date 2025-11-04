@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MORE THAN THIS",
-        "artist": "Disk Eyes S.F."
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "MORE THAN THIS",
+            "artist": "Disk Eyes S.F."
+        },
         {
             "title": "BLUE BOSSA",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "BABYLON SISTERS",
-            "artist": "Tom Politzer"
         }
     ]
 }
