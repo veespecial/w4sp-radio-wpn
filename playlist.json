@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "QUIEREME MUCHO",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "YOUNG ENOUGH TO KNOW",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "QUIEREME MUCHO",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "Fly'n",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "FOR ONCE IN OUR LIVES",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "FOOLISH HEART",
-            "artist": "Curtis Brengle"
         }
     ]
 }
