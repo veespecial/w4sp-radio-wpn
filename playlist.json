@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEVER ENDING SONG OF LOVE",
-        "artist": "DUKE OF MORTON"
+        "title": "APPALACHIA CALLING",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "NEVER ENDING SONG OF LOVE",
+            "artist": "DUKE OF MORTON"
+        },
         {
             "title": "Where Love Goes",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "I GOTTA RUN",
             "artist": "John Morton"
-        },
-        {
-            "title": "SAD SONGS SAY SO MUCH",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
