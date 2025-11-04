@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Every Kinda People",
-        "artist": "Harley Bros."
+        "title": "STARDUST",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Every Kinda People",
+            "artist": "Harley Bros."
+        },
         {
             "title": "MIRACLES",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "MERCY MERCY ME",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
-            "artist": "CAMERON"
         }
     ]
 }
