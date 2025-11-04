@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FAIR TOMORROW",
-        "artist": "Jerry Cortez"
+        "title": "ORDINARY WORLD",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "FAIR TOMORROW",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "TO LOVE YOU MORE",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "NEW KID AROUND",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
