@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BROWN EYED GIRL",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "SOME ENCHANTED EVENING",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "BROWN EYED GIRL",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "MAGNOLIA",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "LULLABY OF BIRDLAND",
-            "artist": "Harley"
         }
     ]
 }
