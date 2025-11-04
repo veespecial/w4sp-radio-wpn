@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BREAKFAST AT TIFFANY'S",
-        "artist": "Josephs Band"
+        "title": "BECAUSE YOU LOVED ME",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "BREAKFAST AT TIFFANY'S",
+            "artist": "Josephs Band"
+        },
         {
             "title": "POETRY MAN",
             "artist": "CAMERON"
@@ -39,10 +43,6 @@
         {
             "title": "ROSE IN THE VINE",
             "artist": "Harley"
-        },
-        {
-            "title": "DROWNING IN YOUR TEARS",
-            "artist": "FUNTASTIC MUSIC"
         }
     ]
 }
