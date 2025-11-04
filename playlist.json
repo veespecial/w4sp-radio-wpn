@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOMETHING THAT WE DO",
-        "artist": "Harley Music"
+        "title": "DREAMLOVER",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "SOMETHING THAT WE DO",
+            "artist": "Harley Music"
+        },
         {
             "title": "IN A DAYDREAM",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "Where Love Goes",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "DON'T ASK MY NEIGHBOR",
-            "artist": "STRINGS BY ANDY"
         }
     ]
 }
