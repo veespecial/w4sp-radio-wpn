@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fast Car",
-        "artist": "Quistetts"
+        "title": "Sun King",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "Fast Car",
+            "artist": "Quistetts"
+        },
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "Until You Come Back To Me",
             "artist": "Manson Music"
-        },
-        {
-            "title": "JUST ONE WORD",
-            "artist": "Harley Bros."
         }
     ]
 }
