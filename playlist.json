@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SACRIFICE",
-        "artist": "MANSON/MARROW/HALL"
+        "title": "My Ever Changing Moods",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "SACRIFICE",
+            "artist": "MANSON/MARROW/HALL"
+        },
         {
             "title": "THIS MASQUERADE",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "Life In Mono",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "BACK STABBERS",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
