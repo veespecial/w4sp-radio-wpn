@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JUST ONE WORD",
-        "artist": "Harley Bros."
+        "title": "Until You Come Back To Me",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "JUST ONE WORD",
+            "artist": "Harley Bros."
+        },
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "BLUE BOSSA",
-            "artist": "BRAD ALLISON"
         }
     ]
 }
