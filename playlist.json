@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "After the Love Has Gone",
-        "artist": "Harley Music"
+        "title": "EARTH ANGERL (WILL YOU BE MINE)",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "After the Love Has Gone",
+            "artist": "Harley Music"
+        },
         {
             "title": "WEST AGAIN",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "LIVELY UP YOURSELF",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "I JUST WANNA STOP",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
