@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BAD SNEAKERS",
-        "artist": "LENNY MOORE"
+        "title": "LOVE WILL CONQUER ALL",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "BAD SNEAKERS",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "RUNAWAY",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "FOR ELFI",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "SARA SMILE",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
