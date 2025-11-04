@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IT MAKES ME CRAZY",
-        "artist": "Nick Manson"
+        "title": "You Are My Destiny",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "IT MAKES ME CRAZY",
+            "artist": "Nick Manson"
+        },
         {
             "title": "HEARD IT IN A LOVE SONG",
             "artist": "DUKE OF MORTON"
@@ -39,10 +43,6 @@
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANUSUS/KEEFER"
-        },
-        {
-            "title": "THE FINER THINGS",
-            "artist": "DAVE DYSART"
         }
     ]
 }
