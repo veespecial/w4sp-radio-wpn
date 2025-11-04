@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NORWEGAIN WOOD",
-        "artist": "DUKE OF MORTON"
+        "title": "STONED SOUL PICNIC",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "NORWEGAIN WOOD",
+            "artist": "DUKE OF MORTON"
+        },
         {
             "title": "Day Dreaming",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "SILVER SPRINGS",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "SOMEWHERE IN THE WORLD",
-            "artist": "David Patt"
         }
     ]
 }
