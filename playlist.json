@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Where Love Goes",
-        "artist": "Dave Raynor"
+        "title": "NEVER ENDING SONG OF LOVE",
+        "artist": "DUKE OF MORTON"
     },
     "recent": [
+        {
+            "title": "Where Love Goes",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
@@ -39,10 +43,6 @@
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "Alison",
-            "artist": "Quistetts"
         }
     ]
 }
