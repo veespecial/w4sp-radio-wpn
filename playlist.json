@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "OLD OAK KNOLL",
-        "artist": "Nick Manson"
+        "title": "Claudette",
+        "artist": "Disk Eyes London"
     },
     "recent": [
+        {
+            "title": "OLD OAK KNOLL",
+            "artist": "Nick Manson"
+        },
         {
             "title": "I'M BEGINNING TO SEE THE LIGHT",
             "artist": "April Barrows"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "NEVER CAN SAY GOODBYE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
