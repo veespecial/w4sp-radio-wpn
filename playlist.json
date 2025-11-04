@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOW DO I LIVE",
-        "artist": "Andre Mayeux"
+        "title": "EVERY BEAT OF MY HEART",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "HOW DO I LIVE",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "CHAIN LIGHTNING",
             "artist": "Tom Politzer 93"
@@ -39,10 +43,6 @@
         {
             "title": "HEAVEN",
             "artist": "North Point"
-        },
-        {
-            "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
-            "artist": "CAMERON"
         }
     ]
 }
