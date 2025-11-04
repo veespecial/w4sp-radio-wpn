@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF WE FALL IN LOVE AGAIN",
-        "artist": "Tom Kellock"
+        "title": "YOUR PRECIOUS LOVE",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "IF WE FALL IN LOVE AGAIN",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "GIRL WITH A RED CARNATION",
             "artist": "Acoustic Alchemy"
-        },
-        {
-            "title": "WHAT DOES IT TAKE",
-            "artist": "JON GOFORTH"
         }
     ]
 }
