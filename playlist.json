@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T DREAM IT'S OVER",
-        "artist": "Andre Mayeux"
+        "title": "FOR ELFI",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "DON'T DREAM IT'S OVER",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "TROLLY CAR",
             "artist": "Jennifer Ivester"
@@ -39,10 +43,6 @@
         {
             "title": "Always Yours",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "WINDLESS",
-            "artist": "Michael Strickland"
         }
     ]
 }
