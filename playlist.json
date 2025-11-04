@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DELIVER ME FROM MY MIND",
-        "artist": "Andy Suzuki"
+        "title": "Fool on the Hill",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "DELIVER ME FROM MY MIND",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "SAY YOU LOVE ME",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "Walton On Thames",
-            "artist": "Jerry Cortez"
         }
     ]
 }
