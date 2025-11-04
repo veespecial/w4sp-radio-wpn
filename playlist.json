@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wait So Long",
-        "artist": "Dave Raynor"
+        "title": "I Only Have Eyes for You",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "Wait So Long",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "Heaven On A Sunday",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "CLOUDY",
             "artist": "NORTHPOINT"
-        },
-        {
-            "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
