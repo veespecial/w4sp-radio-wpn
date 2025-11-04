@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "POETRY MAN",
-        "artist": "CAMERON"
+        "title": "BREAKFAST AT TIFFANY'S",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "POETRY MAN",
+            "artist": "CAMERON"
+        },
         {
             "title": "END OF THE DAY",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIC MUSIC"
-        },
-        {
-            "title": "RUBY BABY",
-            "artist": "Funtastic"
         }
     ]
 }
