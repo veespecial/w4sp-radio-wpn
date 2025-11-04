@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR'E NO GOOD",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "Wait So Long",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "YOUR'E NO GOOD",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "Don't Let Me be Lonely Tonight",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "DON'T WORRY BABY",
-            "artist": "Tom Kellock"
         }
     ]
 }
