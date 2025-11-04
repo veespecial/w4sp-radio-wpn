@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW KID AROUND",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "TO LOVE YOU MORE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "NEW KID AROUND",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "COME FLY WITH ME",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "LIFE IS BUT A DREAM",
-            "artist": "Devlin's Strings"
         }
     ]
 }
