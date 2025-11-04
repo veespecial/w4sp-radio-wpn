@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Nobody Does It Better",
-        "artist": "Tom Politzer"
+        "title": "I WANT TO THANK YOU",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "Nobody Does It Better",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "APPALACHIA CALLING",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "NEVER ENDING SONG OF LOVE",
-            "artist": "DUKE OF MORTON"
         }
     ]
 }
