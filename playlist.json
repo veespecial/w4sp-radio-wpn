@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOW MUCH I FEEL",
-        "artist": "CAMERON"
+        "title": "BODY AND SOUL",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "HOW MUCH I FEEL",
+            "artist": "CAMERON"
+        },
         {
             "title": "WHEN SUNNY GETS BLUE",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "ALIEN",
             "artist": "Funtastic"
-        },
-        {
-            "title": "Kiss Me",
-            "artist": "Harley Bros."
         }
     ]
 }
