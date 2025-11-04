@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Terpsichore",
-        "artist": "Dave Keenan"
+        "title": "Jo Jo",
+        "artist": "Quist"
     },
     "recent": [
+        {
+            "title": "Terpsichore",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "Wahine",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "THANK YOU",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
