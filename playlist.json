@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEXT EVENT",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Always Yours",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "NEXT EVENT",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "WELCOME TO MY WORLD",
             "artist": "Kevin Madill-Nashville"
@@ -39,10 +43,6 @@
         {
             "title": "GOIN OUT OF MY HEAD",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "I Say a Little Prayer",
-            "artist": "Harley Music"
         }
     ]
 }
