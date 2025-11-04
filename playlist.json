@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T DREAM IT'S OVER",
-        "artist": "Andre Mayeux"
+        "title": "How Sweet it is",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "DON'T DREAM IT'S OVER",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "Black Cow",
-            "artist": "Andy Suzuki"
         }
     ]
 }
