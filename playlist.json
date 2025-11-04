@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BACK STABBERS",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "Life In Mono",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "BACK STABBERS",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "I WANT TO THANK YOU",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "FOOLISH HEART",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "IT'S ALL ABOUT YOU",
-            "artist": "FUNTASTIK"
         }
     ]
 }
