@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "EVERY BEAT OF MY HEART",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "EVERY BEAT OF MY HEART",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "HOW DO I LIVE",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "ANOTHER TIME",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "HEAVEN",
-            "artist": "North Point"
         }
     ]
 }
