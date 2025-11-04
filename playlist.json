@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU ARE EVERYTHING",
-        "artist": "STANDING PATT MUSIC"
+        "title": "SHAKE AND BAKE",
+        "artist": "Newhall Collective"
     },
     "recent": [
+        {
+            "title": "YOU ARE EVERYTHING",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "(WILL YOU) COME BACK MY LOVE",
             "artist": "JOHN GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "MAGNOLIA",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "Wait So Long",
-            "artist": "Dave Raynor"
         }
     ]
 }
