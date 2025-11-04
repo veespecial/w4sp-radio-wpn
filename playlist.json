@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIRL WITH A RED CARNATION",
-        "artist": "Acoustic Alchemy"
+        "title": "THE STRANGER",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "GIRL WITH A RED CARNATION",
+            "artist": "Acoustic Alchemy"
+        },
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "OLD OAK KNOLL",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "I'M BEGINNING TO SEE THE LIGHT",
-            "artist": "April Barrows"
         }
     ]
 }
