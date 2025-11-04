@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CLOUDY",
-        "artist": "NORTHPOINT"
+        "title": "WHENEVER YOU'RE ON MY MIND",
+        "artist": "Clair Marlo"
     },
     "recent": [
+        {
+            "title": "CLOUDY",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "I'LL NEVER FALL IN LOVE",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "CAN WE TALK",
-            "artist": "South Point"
         }
     ]
 }
