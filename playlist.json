@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Reflection",
-        "artist": "Los Devlin Strings"
+        "title": "I'M BEGINNING TO SEE THE LIGHT",
+        "artist": "April Barrows"
     },
     "recent": [
+        {
+            "title": "Reflection",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "How Sweet it is",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "DINDI",
-            "artist": "LENNY MOORE"
         }
     ]
 }
