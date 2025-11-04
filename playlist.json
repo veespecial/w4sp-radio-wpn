@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR PRECIOUS LOVE",
-        "artist": "TOMMY/BRIAN"
+        "title": "Just Like This Train",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "YOUR PRECIOUS LOVE",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "SLEEPING CAT DANCE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "GIRL WITH A RED CARNATION",
-            "artist": "Acoustic Alchemy"
         }
     ]
 }
