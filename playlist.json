@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOW CAN YOU MEND A BROKEN HEART",
-        "artist": "Moro-Eden"
+        "title": "HERO",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "HOW CAN YOU MEND A BROKEN HEART",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "BACK IN THE CHAIN GANG",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "FOR ONCE IN MY LIFE",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "I CAN DREAM ABOUT YOU",
-            "artist": "Curtis Brengle"
         }
     ]
 }
