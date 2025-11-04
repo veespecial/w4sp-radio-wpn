@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LONELY TOO LONG",
-        "artist": "South Point"
+        "title": "SAD SONGS SAY SO MUCH",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "LONELY TOO LONG",
+            "artist": "South Point"
+        },
         {
             "title": "WORLD I KNOW",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "SWEET CLAIRE",
             "artist": "Michael Strickland"
-        },
-        {
-            "title": "YOUR PRECIOUS LOVE",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
