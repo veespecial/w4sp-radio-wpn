@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIAMOND DUST",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "IF TOMORROW NEVER COMES",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "DIAMOND DUST",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "I'M BEGINNING TO SEE THE LIGHT",
             "artist": "April Barrows"
@@ -39,10 +43,6 @@
         {
             "title": "MORE THAN THIS",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "BLUE BOSSA",
-            "artist": "BRAD ALLISON"
         }
     ]
 }
