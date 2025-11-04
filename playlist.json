@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT'S NEW",
-        "artist": "MANSON STRINGS"
+        "title": "Louise",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "WHAT'S NEW",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "ROSE IN THE VINE",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "Walton On Thames",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "TEARS FROM THE SUN",
-            "artist": "PASERO/SUZUKI-HAWAII"
         }
     ]
 }
