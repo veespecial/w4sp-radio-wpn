@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Changes",
-        "artist": "Ray Kelley"
+        "title": "WHEN SUNNY GETS BLUE",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "Changes",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "THANK YOU",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "NORWEGAIN WOOD",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "LIFE IS BUT A DREAM",
-            "artist": "Devlin's Strings"
         }
     ]
 }
