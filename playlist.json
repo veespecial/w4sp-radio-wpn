@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR ELFI",
-        "artist": "Nick Manson"
+        "title": "Pickin Like Lee",
+        "artist": "Michael Ranstrom"
     },
     "recent": [
+        {
+            "title": "FOR ELFI",
+            "artist": "Nick Manson"
+        },
         {
             "title": "SARA SMILE",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "Elfi's Tune",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "Samsonite Waltz",
-            "artist": "Dave Keenan"
         }
     ]
 }
