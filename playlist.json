@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAVING ALL MY LOVE FOR YOU",
-        "artist": "NORTHPOINT"
+        "title": "Beyond the Sea",
+        "artist": "Disk Eyes London"
     },
     "recent": [
+        {
+            "title": "SAVING ALL MY LOVE FOR YOU",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "DON'T LOOK BACK",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "THIS MASQUERADE",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "GIVING YOU THE BEST THAT I GOT",
-            "artist": "Curtis Brengle"
         }
     ]
 }
