@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU ARE EVERYTHING",
-        "artist": "STANDING PATT MUSIC"
+        "title": "BLUE BOSSA",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "YOU ARE EVERYTHING",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "MIDNIGHT TRAIN TO GEORGIA",
-            "artist": "Daniel Ho"
         }
     ]
 }
