@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STAY (I MISSED YOU)",
-        "artist": "Moro-Eden"
+        "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "STAY (I MISSED YOU)",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "CORRINA CORRINA",
             "artist": "Harley"
-        },
-        {
-            "title": "SOME ENCHANTED EVENING",
-            "artist": "Manasus Strings"
         }
     ]
 }
