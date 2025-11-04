@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WINDLESS",
-        "artist": "Michael Strickland"
+        "title": "Always Yours",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "WINDLESS",
+            "artist": "Michael Strickland"
+        },
         {
             "title": "ALL I'VE GOT TO DO",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "I'M BEGINNING TO SEE THE LIGHT",
             "artist": "April Barrows"
-        },
-        {
-            "title": "DREAMBOAT ANNIE",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
