@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I GOTTA RUN",
-        "artist": "John Morton"
+        "title": "CAN I CHANGE MY MIND",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "I GOTTA RUN",
+            "artist": "John Morton"
+        },
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
-        },
-        {
-            "title": "HOW DO I LIVE",
-            "artist": "Andre Mayeux"
         }
     ]
 }
