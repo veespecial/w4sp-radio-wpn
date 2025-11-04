@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Changes",
-        "artist": "Ray Kelley"
+        "title": "SUNNY CAME HOME",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "Changes",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "Elfi's Tune",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "CAN I CHANGE MY MIND",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "STARDUST",
-            "artist": "LENNY MOORE"
         }
     ]
 }
