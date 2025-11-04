@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Always Yours",
-        "artist": "Dave Raynor"
+        "title": "Wahine",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "Always Yours",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "WINDLESS",
             "artist": "Michael Strickland"
@@ -39,10 +43,6 @@
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "I'M BEGINNING TO SEE THE LIGHT",
-            "artist": "April Barrows"
         }
     ]
 }
