@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HERO",
-        "artist": "JOHN GOFORTH"
+        "title": "WORLD I KNOW",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "HERO",
+            "artist": "JOHN GOFORTH"
+        },
         {
             "title": "AIN'T MISBEHAVIN",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "Sun King",
             "artist": "San Francisco"
-        },
-        {
-            "title": "Fast Car",
-            "artist": "Quistetts"
         }
     ]
 }
