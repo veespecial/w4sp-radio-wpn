@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL I WANNA DO",
-        "artist": "Harley"
+        "title": "SOMETHING THAT WE DO",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "ALL I WANNA DO",
+            "artist": "Harley"
+        },
         {
             "title": "DON'T GO BREAKIN MY HEART",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "CRAZY LITTLE THING CALLED LOVE",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Heartbreak Hotel",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
