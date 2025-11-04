@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HIGHER AND HIGHER",
-        "artist": "MANASUS MUSIC"
+        "title": "DREAMBOAT ANNIE",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "HIGHER AND HIGHER",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "TIL I HEAR IT FROM YOU",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "HAKUNA MATATA",
-            "artist": "Josephs Band"
         }
     ]
 }
