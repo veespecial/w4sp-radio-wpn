@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Heartbreak Hotel",
-        "artist": "Crescenta Valley Boys"
+        "title": "CRAZY LITTLE THING CALLED LOVE",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Heartbreak Hotel",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "DESAFINADO",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "NORWEGAIN WOOD",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "Day Dreaming",
-            "artist": "Harley Bros."
         }
     ]
 }
