@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HERO",
-        "artist": "JOHN GOFORTH"
+        "title": "Kiss Me",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "HERO",
+            "artist": "JOHN GOFORTH"
+        },
         {
             "title": "HOW CAN YOU MEND A BROKEN HEART",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "DA DA",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "FOR ONCE IN MY LIFE",
-            "artist": "Josephs Band"
         }
     ]
 }
