@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PROMISE AIN'T ENOUGH",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "DELIVER ME FROM MY MIND",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "PROMISE AIN'T ENOUGH",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "JUST ONE WORD",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Walton On Thames",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "Pickin Like Lee",
-            "artist": "Michael Ranstrom"
         }
     ]
 }
