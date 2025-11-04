@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOW DO I LIVE",
-        "artist": "Andre Mayeux"
+        "title": "SACRIFICE",
+        "artist": "MANSON/MARROW/HALL"
     },
     "recent": [
+        {
+            "title": "HOW DO I LIVE",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "CHAIN LIGHTNING",
             "artist": "Tom Politzer 93"
-        },
-        {
-            "title": "THESE DREAMS",
-            "artist": "Curtis Brengle"
         }
     ]
 }
