@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEARD IT IN A LOVE SONG",
-        "artist": "DUKE OF MORTON"
+        "title": "DESAFINADO",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "HEARD IT IN A LOVE SONG",
+            "artist": "DUKE OF MORTON"
+        },
         {
             "title": "FOR ONCE IN MY LIFE",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "I Say a Little Prayer",
             "artist": "Harley Music"
-        },
-        {
-            "title": "ALL I WANNA DO",
-            "artist": "Harley"
         }
     ]
 }
