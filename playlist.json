@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALIEN",
-        "artist": "Funtastic"
+        "title": "ONSTREAM",
+        "artist": "Frank Joseph's Group"
     },
     "recent": [
+        {
+            "title": "ALIEN",
+            "artist": "Funtastic"
+        },
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "Heartbreak Hotel",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "Tempted",
-            "artist": "Harley Bros."
         }
     ]
 }
