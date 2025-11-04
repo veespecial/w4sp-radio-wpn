@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "How Deep is Your Love",
-        "artist": "Harley Music"
+        "title": "HIGHER AND HIGHER",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "How Deep is Your Love",
+            "artist": "Harley Music"
+        },
         {
             "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "BREAKFAST AT TIFFANY'S",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "POETRY MAN",
-            "artist": "CAMERON"
         }
     ]
 }
