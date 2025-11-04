@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JULIA",
-        "artist": "North Point"
+        "title": "IN A DAYDREAM",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "JULIA",
+            "artist": "North Point"
+        },
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
-        },
-        {
-            "title": "ONCE AND FUTURE",
-            "artist": "Newhall Collective"
         }
     ]
 }
