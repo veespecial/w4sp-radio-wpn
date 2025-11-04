@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STAY (I MISSED YOU)",
-        "artist": "Moro-Eden"
+        "title": "NEVER CAN SAY GOODBYE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "STAY (I MISSED YOU)",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "APPALACHIA CALLING",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "Heaven On A Sunday",
-            "artist": "John Morton"
         }
     ]
 }
