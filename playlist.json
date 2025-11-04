@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAMILLA",
-        "artist": "Jerry Cortez"
+        "title": "Tears In Heaven",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "CAMILLA",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "Make it With You",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WANT (TO BE A FOOL)",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "Samsonite Waltz",
-            "artist": "Dave Keenan"
         }
     ]
 }
