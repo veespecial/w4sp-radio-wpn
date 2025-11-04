@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GREEN FLOWER STREET",
-        "artist": "Funtastic"
+        "title": "BREAKFAST AT TIFFANY'S",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "GREEN FLOWER STREET",
+            "artist": "Funtastic"
+        },
         {
             "title": "ONSTREAM",
             "artist": "Frank Joseph's Group"
@@ -39,10 +43,6 @@
         {
             "title": "YOU ARE EVERYTHING",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "(WILL YOU) COME BACK MY LOVE",
-            "artist": "JOHN GOFORTH"
         }
     ]
 }
