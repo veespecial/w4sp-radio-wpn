@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DESAFINADO",
-        "artist": "BRAD ALLISON"
+        "title": "Heartbreak Hotel",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "DESAFINADO",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "Day Dreaming",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Jo Jo",
-            "artist": "Quist"
         }
     ]
 }
