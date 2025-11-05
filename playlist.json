@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HALF A MINUTE",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "Samsonite Waltz",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "HALF A MINUTE",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
@@ -39,10 +43,6 @@
         {
             "title": "Make it With You",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "Nobody Does It Better",
-            "artist": "Tom Politzer"
         }
     ]
 }
