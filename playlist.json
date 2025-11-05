@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Day Dreaming",
-        "artist": "Harley Bros."
+        "title": "Vienna",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "Day Dreaming",
+            "artist": "Harley Bros."
+        },
         {
             "title": "WHAT DOES IT TAKE",
             "artist": "JON GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "Harvest for the World",
-            "artist": "Harley Brothers"
         }
     ]
 }
