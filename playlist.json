@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I GO TO EXTREMES",
-        "artist": "MANSON/MARROW/HALL"
+        "title": "DREAMLOVER",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "I GO TO EXTREMES",
+            "artist": "MANSON/MARROW/HALL"
+        },
         {
             "title": "Carey",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "WHAT'S NEW",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "ORDINARY WORLD",
-            "artist": "Devlin's Strings"
         }
     ]
 }
