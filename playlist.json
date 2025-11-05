@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEVER ENDING SONG OF LOVE",
-        "artist": "DUKE OF MORTON"
+        "title": "IT MAKES ME CRAZY",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "NEVER ENDING SONG OF LOVE",
+            "artist": "DUKE OF MORTON"
+        },
         {
             "title": "ALIEN",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "Poor Side Of Town",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
