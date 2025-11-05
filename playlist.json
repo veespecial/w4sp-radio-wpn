@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CLOUDY",
-        "artist": "NORTHPOINT"
+        "title": "You Make Lovin' Fun",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "CLOUDY",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "SILVER SPRINGS",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
-        },
-        {
-            "title": "HAKUNA MATATA",
-            "artist": "Josephs Band"
         }
     ]
 }
