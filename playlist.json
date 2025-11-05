@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CORRINA CORRINA",
-        "artist": "Harley"
+        "title": "HAKUNA MATATA",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "CORRINA CORRINA",
+            "artist": "Harley"
+        },
         {
             "title": "WE'RE GONNA MAKE IT",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "CAN I CHANGE MY MIND",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "I THINK I'LL TELL HIM",
-            "artist": "Andy Suzuki"
         }
     ]
 }
