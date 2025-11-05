@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR PRECIOUS LOVE",
-        "artist": "TOMMY/BRIAN"
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "YOUR PRECIOUS LOVE",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "YOU ARE EVERYTHING",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Ain't Nothing Like the Real Thing",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "LIFE IS BUT A DREAM",
-            "artist": "Devlin's Strings"
         }
     ]
 }
