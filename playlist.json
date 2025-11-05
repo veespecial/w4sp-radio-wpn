@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Carey",
-        "artist": "Josephs Band"
+        "title": "I GO TO EXTREMES",
+        "artist": "MANSON/MARROW/HALL"
     },
     "recent": [
+        {
+            "title": "Carey",
+            "artist": "Josephs Band"
+        },
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "DA DA",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
