@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I SOLD MY HEART TO THE JUNKMAN",
-        "artist": "Jim Devlin"
+        "title": "Samsonite Waltz",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "I SOLD MY HEART TO THE JUNKMAN",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "RAIN AND SHINE",
             "artist": "Jennifer Ivester"
@@ -39,10 +43,6 @@
         {
             "title": "CORRINA CORRINA",
             "artist": "Harley"
-        },
-        {
-            "title": "SLEEPING CAT DANCE",
-            "artist": "Nick Manson"
         }
     ]
 }
