@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR ONCE IN MY LIFE",
-        "artist": "Josephs Band"
+        "title": "Sweet Seasons",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "FOR ONCE IN MY LIFE",
+            "artist": "Josephs Band"
+        },
         {
             "title": "Till There Was You",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "ANOTHER TIME",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
