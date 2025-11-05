@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CUCHAMA",
-        "artist": "Govi"
+        "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "CUCHAMA",
+            "artist": "Govi"
+        },
         {
             "title": "GIRL WITH A RED CARNATION",
             "artist": "Acoustic Alchemy"
@@ -39,10 +43,6 @@
         {
             "title": "WILD AND FREE",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "GIVING YOU THE BEST THAT I GOT",
-            "artist": "Curtis Brengle"
         }
     ]
 }
