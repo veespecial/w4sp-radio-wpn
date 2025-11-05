@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WE'RE GONNA MAKE IT",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "Claudette",
+        "artist": "Disk Eyes London"
     },
     "recent": [
+        {
+            "title": "WE'RE GONNA MAKE IT",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "DESTINY",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "I Go Crazy",
             "artist": "David Patt"
-        },
-        {
-            "title": "ONSTREAM",
-            "artist": "Frank Joseph's Group"
         }
     ]
 }
