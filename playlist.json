@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU DON'T KNOW ME",
-        "artist": "Manasus Strings"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "YOU DON'T KNOW ME",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "DELIVER ME FROM MY MIND",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "Fool on the Hill",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "Long Ago",
-            "artist": "Dave Keenan"
         }
     ]
 }
