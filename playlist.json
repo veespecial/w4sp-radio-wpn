@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fly'n",
-        "artist": "Dave Raynor"
+        "title": "BAD REPUTATION",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "Fly'n",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "HERE'S THAT RAINY DAY",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "LIVELY UP YOURSELF",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "TROPIC OF CAPRICORN",
-            "artist": "South Point"
         }
     ]
 }
