@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I GO TO EXTREMES",
-        "artist": "MANSON/MARROW/HALL"
+        "title": "MAGNOLIA",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "I GO TO EXTREMES",
+            "artist": "MANSON/MARROW/HALL"
+        },
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "CLOUDY",
             "artist": "NORTHPOINT"
-        },
-        {
-            "title": "Vienna",
-            "artist": "Manson Music"
         }
     ]
 }
