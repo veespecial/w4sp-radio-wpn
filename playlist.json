@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FEEL LIKE MAKIN' LOVE",
-        "artist": "Nick Manson"
+        "title": "APPALACHIA CALLING",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "FEEL LIKE MAKIN' LOVE",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Yesterday",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
-        },
-        {
-            "title": "CAN WE TALK",
-            "artist": "South Point"
         }
     ]
 }
