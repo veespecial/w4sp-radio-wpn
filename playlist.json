@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STUBBORN KIND OF FELLOW",
-        "artist": "Crescenta Valley Boys"
+        "title": "GIRL WITH A RED CARNATION",
+        "artist": "Acoustic Alchemy"
     },
     "recent": [
+        {
+            "title": "STUBBORN KIND OF FELLOW",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "LIVELY UP YOURSELF",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "SMOOTH OPERATOR",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "Turn Turn Turn",
-            "artist": "John Morton"
         }
     ]
 }
