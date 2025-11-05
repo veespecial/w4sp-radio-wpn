@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T GO BREAKIN MY HEART",
-        "artist": "Devlin's Strings"
+        "title": "QUEEN OF HEARTS",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "DON'T GO BREAKIN MY HEART",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "DREAMBOAT ANNIE",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "How Deep is Your Love",
-            "artist": "Harley Music"
         }
     ]
 }
