@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CHEHALIS",
-        "artist": "Eric Tingstad"
+        "title": "HERO",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "CHEHALIS",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "DON'T LOOK BACK",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "I GO TO EXTREMES",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
