@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Ever Changing Moods",
-        "artist": "Jim Devlin"
+        "title": "TEARS FROM THE SUN",
+        "artist": "PASERO/SUZUKI-HAWAII"
     },
     "recent": [
+        {
+            "title": "My Ever Changing Moods",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "I Go Crazy",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "Harvest for the World",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "DON'T LOOK BACK",
-            "artist": "Harley"
         }
     ]
 }
