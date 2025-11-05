@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LAUGHTER IN THE RAIN",
-        "artist": "Nick Manson"
+        "title": "DON'T WANT (TO BE A FOOL)",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "LAUGHTER IN THE RAIN",
+            "artist": "Nick Manson"
+        },
         {
             "title": "ANOTHER TIME",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "I Only Have Eyes for You",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "LITTLE MORE TIME WITH YOU",
-            "artist": "Andre Mayeux"
         }
     ]
 }
