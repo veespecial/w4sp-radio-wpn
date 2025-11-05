@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOMETIME BRAZIL",
-        "artist": "Andy Suzuki"
+        "title": "SWEET CLAIRE",
+        "artist": "Michael Strickland"
     },
     "recent": [
+        {
+            "title": "SOMETIME BRAZIL",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "Reflection",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
-        },
-        {
-            "title": "Jo Jo",
-            "artist": "Quist"
         }
     ]
 }
