@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHEN SUNNY GETS BLUE",
-        "artist": "BRAD ALLISON"
+        "title": "ONSTREAM",
+        "artist": "Frank Joseph's Group"
     },
     "recent": [
+        {
+            "title": "WHEN SUNNY GETS BLUE",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "NEW KID AROUND",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "WHAT'S NEW",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
