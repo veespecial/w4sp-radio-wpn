@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Earl's Tune",
-        "artist": "Dave Raynor"
+        "title": "TEARS FROM THE SUN",
+        "artist": "PASERO/SUZUKI-HAWAII"
     },
     "recent": [
+        {
+            "title": "Earl's Tune",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "Millennium",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "HEY GIRL",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
