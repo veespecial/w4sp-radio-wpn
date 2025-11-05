@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Go Crazy",
-        "artist": "David Patt"
+        "title": "My Ever Changing Moods",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "I Go Crazy",
+            "artist": "David Patt"
+        },
         {
             "title": "ONSTREAM",
             "artist": "Frank Joseph's Group"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T LOOK BACK",
             "artist": "Harley"
-        },
-        {
-            "title": "DON'T WANT (TO BE A FOOL)",
-            "artist": "LENNY MOORE"
         }
     ]
 }
