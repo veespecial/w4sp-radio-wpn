@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANOTHER TIME",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "LAUGHTER IN THE RAIN",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "ANOTHER TIME",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "CLOUDY",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "LITTLE MORE TIME WITH YOU",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "MAGNOLIA",
-            "artist": "Eric Tingstad"
         }
     ]
 }
