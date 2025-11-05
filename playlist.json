@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUNG ENOUGH TO KNOW",
-        "artist": "Andy Suzuki"
+        "title": "SILVER SPRINGS",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "YOUNG ENOUGH TO KNOW",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "CORRINA CORRINA",
             "artist": "Harley"
-        },
-        {
-            "title": "WE'RE GONNA MAKE IT",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
