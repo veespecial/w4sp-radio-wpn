@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEVER CAN SAY GOODBYE",
-        "artist": "MOORE and BRENGLE"
+        "title": "DONE WITH PONAPARTE",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "NEVER CAN SAY GOODBYE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "DON'T WANT (TO BE A FOOL)",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "SARA SMILE",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
