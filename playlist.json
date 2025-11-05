@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Terpsichore",
-        "artist": "Dave Keenan"
+        "title": "THE WARMTH OF THE SUN",
+        "artist": "MANUSUS/KEEFER"
     },
     "recent": [
+        {
+            "title": "Terpsichore",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "NEVER ENDING SONG OF LOVE",
             "artist": "DUKE OF MORTON"
@@ -39,10 +43,6 @@
         {
             "title": "THAT'S WHAT FRIENDS ARE FOR",
             "artist": "North Point"
-        },
-        {
-            "title": "BODY AND SOUL",
-            "artist": "DAVE DYSART"
         }
     ]
 }
