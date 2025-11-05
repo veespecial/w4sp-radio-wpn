@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WEST AGAIN",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "GIVING YOU THE BEST THAT I GOT",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "WEST AGAIN",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "WELCOME TO MY WORLD",
             "artist": "Kevin Madill-Nashville"
@@ -39,10 +43,6 @@
         {
             "title": "WE'RE GONNA MAKE IT",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "DESTINY",
-            "artist": "Nick Manson"
         }
     ]
 }
