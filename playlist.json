@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BABYLON SISTERS",
-        "artist": "Tom Politzer"
+        "title": "LONELY TOO LONG",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "BABYLON SISTERS",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "Jo Jo",
             "artist": "Quist"
-        },
-        {
-            "title": "DIXIE MOON",
-            "artist": "LENNY MOORE"
         }
     ]
 }
