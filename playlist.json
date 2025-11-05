@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Walk On By",
-        "artist": "Manson Music"
+        "title": "CAMILLA",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "Walk On By",
+            "artist": "Manson Music"
+        },
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
-            "artist": "CAMERON"
         }
     ]
 }
