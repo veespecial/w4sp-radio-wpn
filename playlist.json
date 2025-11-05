@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR ELFI",
-        "artist": "Nick Manson"
+        "title": "IT'S ALL ABOUT YOU",
+        "artist": "FUNTASTIK"
     },
     "recent": [
+        {
+            "title": "FOR ELFI",
+            "artist": "Nick Manson"
+        },
         {
             "title": "ALL I'VE GOT TO DO",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "I SOLD MY HEART TO THE JUNKMAN",
-            "artist": "Jim Devlin"
         }
     ]
 }
