@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW KID AROUND",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "DON'T WANT (TO BE A FOOL)",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "NEW KID AROUND",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "WHAT'S NEW",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "I'm Happy Just to Dance with You",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "BAD REPUTATION",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
