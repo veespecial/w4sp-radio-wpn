@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Pickin Like Lee",
-        "artist": "Michael Ranstrom"
+        "title": "GIVING YOU THE BEST THAT I GOT",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "Pickin Like Lee",
+            "artist": "Michael Ranstrom"
+        },
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "Sweet Seasons",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "FOR ONCE IN MY LIFE",
-            "artist": "Josephs Band"
         }
     ]
 }
