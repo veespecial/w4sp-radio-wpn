@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BECAUSE YOU LOVED ME",
-        "artist": "North Point"
+        "title": "DON'T ASK MY NEIGHBOR",
+        "artist": "STRINGS BY ANDY"
     },
     "recent": [
+        {
+            "title": "BECAUSE YOU LOVED ME",
+            "artist": "North Point"
+        },
         {
             "title": "I Say a Little Prayer",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "WEST AGAIN",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "WELCOME TO MY WORLD",
-            "artist": "Kevin Madill-Nashville"
         }
     ]
 }
