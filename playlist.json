@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUNAWAY",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "RUNAWAY",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "DON'T GO BREAKIN MY HEART",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "DON'T LOOK BACK",
-            "artist": "Harley"
         }
     ]
 }
