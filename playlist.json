@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ONSTREAM",
-        "artist": "Frank Joseph's Group"
+        "title": "I Go Crazy",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "ONSTREAM",
+            "artist": "Frank Joseph's Group"
+        },
         {
             "title": "WHEN SUNNY GETS BLUE",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WANT (TO BE A FOOL)",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "NEW KID AROUND",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
