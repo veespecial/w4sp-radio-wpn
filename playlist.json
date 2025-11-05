@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "(WILL YOU) COME BACK MY LOVE",
-        "artist": "JOHN GOFORTH"
+        "title": "NEW KID AROUND",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "(WILL YOU) COME BACK MY LOVE",
+            "artist": "JOHN GOFORTH"
+        },
         {
             "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "BREAKFAST AT TIFFANY'S",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "THIS MASQUERADE",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
