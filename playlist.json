@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "How Sweet it is",
-        "artist": "Harley Music"
+        "title": "YOUR SECRET LOVE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "How Sweet it is",
+            "artist": "Harley Music"
+        },
         {
             "title": "IT MAKES ME CRAZY",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
-        },
-        {
-            "title": "Earl's Tune",
-            "artist": "Dave Raynor"
         }
     ]
 }
