@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "KRISTIANA",
-        "artist": "Jerry Cortez"
+        "title": "I WILL",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "KRISTIANA",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "Reflection",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "You're the Best Thing",
-            "artist": "DAVE PATT"
         }
     ]
 }
