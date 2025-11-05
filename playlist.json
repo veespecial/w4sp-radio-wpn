@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STARDUST",
-        "artist": "LENNY MOORE"
+        "title": "STUBBORN KIND OF FELLOW",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "STARDUST",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "BECAUSE YOU LOVED ME",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "NEVER ENDING SONG OF LOVE",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "ALIEN",
-            "artist": "Funtastic"
         }
     ]
 }
