@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SACRIFICE",
-        "artist": "MANSON/MARROW/HALL"
+        "title": "NEXT EVENT",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "SACRIFICE",
+            "artist": "MANSON/MARROW/HALL"
+        },
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "I'M IN A PHILLY MOOD",
             "artist": "Mike Jaap"
-        },
-        {
-            "title": "I CAN DREAM ABOUT YOU",
-            "artist": "Curtis Brengle"
         }
     ]
 }
