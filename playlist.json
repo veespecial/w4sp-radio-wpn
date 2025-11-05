@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAVING ALL MY LOVE FOR YOU",
-        "artist": "NORTHPOINT"
+        "title": "I CAN DREAM ABOUT YOU",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "SAVING ALL MY LOVE FOR YOU",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "I'M BEGINNING TO SEE THE LIGHT",
             "artist": "April Barrows"
@@ -39,10 +43,6 @@
         {
             "title": "Love Of My Life",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "I TURN TO YOU",
-            "artist": "Daniel Ho"
         }
     ]
 }
