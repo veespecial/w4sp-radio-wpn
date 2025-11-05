@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLUE BOSSA",
-        "artist": "BRAD ALLISON"
+        "title": "LULLABY OF BIRDLAND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "BLUE BOSSA",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "CRAZY LITTLE THING CALLED LOVE",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "RAIN AND SHINE",
-            "artist": "Jennifer Ivester"
         }
     ]
 }
