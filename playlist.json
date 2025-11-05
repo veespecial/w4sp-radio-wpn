@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SARA SMILE",
-        "artist": "CHAD STONE BAND"
+        "title": "SOUL SHADOWS",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "SARA SMILE",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "I Only Have Eyes for You",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "SWAY",
             "artist": "Harley"
-        },
-        {
-            "title": "THANK YOU",
-            "artist": "Disk Eyes S.F."
         }
     ]
 }
