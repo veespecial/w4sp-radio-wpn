@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Earl's Tune",
-        "artist": "Dave Raynor"
+        "title": "I Only Have Eyes for You",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "Earl's Tune",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "QUIEREME MUCHO",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
