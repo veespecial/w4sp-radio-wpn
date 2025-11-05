@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRAZY LITTLE THING CALLED LOVE",
-        "artist": "Harley Brothers"
+        "title": "Carey",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "CRAZY LITTLE THING CALLED LOVE",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "Sun King",
             "artist": "San Francisco"
-        },
-        {
-            "title": "Tempted",
-            "artist": "Harley Bros."
         }
     ]
 }
