@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Jo Jo",
-        "artist": "Quist"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "Jo Jo",
+            "artist": "Quist"
+        },
         {
             "title": "Walton On Thames",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "Till There Was You",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "TROLLY CAR",
-            "artist": "Jennifer Ivester"
         }
     ]
 }
