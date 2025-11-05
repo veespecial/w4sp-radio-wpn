@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
-        "artist": "Tom Kellock"
+        "title": "YOUNG ENOUGH TO KNOW",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "MORE THAN THIS",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "WE'RE GONNA MAKE IT",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "WINDLESS",
-            "artist": "Michael Strickland"
         }
     ]
 }
