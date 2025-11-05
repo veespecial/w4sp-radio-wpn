@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Terpsichore",
-        "artist": "Dave Keenan"
+        "title": "SHAKE AND BAKE",
+        "artist": "Newhall Collective"
     },
     "recent": [
+        {
+            "title": "Terpsichore",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "EVERY BEAT OF MY HEART",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
