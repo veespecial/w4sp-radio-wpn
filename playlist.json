@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR ELFI",
-        "artist": "Nick Manson"
+        "title": "After All",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "FOR ELFI",
+            "artist": "Nick Manson"
+        },
         {
             "title": "DON'T WANNA LOSE YOU",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "WHENEVER YOU'RE ON MY MIND",
-            "artist": "Clair Marlo"
         }
     ]
 }
