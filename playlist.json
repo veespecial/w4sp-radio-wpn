@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WELCOME TO MY WORLD",
-        "artist": "Kevin Madill-Nashville"
+        "title": "WEST AGAIN",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "WELCOME TO MY WORLD",
+            "artist": "Kevin Madill-Nashville"
+        },
         {
             "title": "I'LL NEVER FALL IN LOVE",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "DESTINY",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "MORE THAN THIS",
-            "artist": "Disk Eyes S.F."
         }
     ]
 }
