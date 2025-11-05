@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "KRISTIANA",
-        "artist": "Jerry Cortez"
+        "title": "Fly'n",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "KRISTIANA",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "Fast Car",
             "artist": "Quistetts"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "How Sweet it is",
-            "artist": "Harley Music"
         }
     ]
 }
