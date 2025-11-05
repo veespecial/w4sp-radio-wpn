@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LULLABY OF BIRDLAND",
-        "artist": "Harley"
+        "title": "THESE DREAMS",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "LULLABY OF BIRDLAND",
+            "artist": "Harley"
+        },
         {
             "title": "BLUE BOSSA",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "SMOOTH OPERATOR",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "CRAZY LITTLE THING CALLED LOVE",
-            "artist": "Harley Brothers"
         }
     ]
 }
