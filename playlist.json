@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T DREAM IT'S OVER",
-        "artist": "Andre Mayeux"
+        "title": "MY FUNNY VALENTINE",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "DON'T DREAM IT'S OVER",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
@@ -39,10 +43,6 @@
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "BAD SNEAKERS",
-            "artist": "LENNY MOORE"
         }
     ]
 }
