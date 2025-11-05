@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I JUST WANNA STOP",
-        "artist": "MANASUS MUSIC"
+        "title": "HOW MUCH I FEEL",
+        "artist": "CAMERON"
     },
     "recent": [
+        {
+            "title": "I JUST WANNA STOP",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "STARDUST",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "CAN I CHANGE MY MIND",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
