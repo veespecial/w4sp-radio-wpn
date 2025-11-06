@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T ASK MY NEIGHBOR",
-        "artist": "STRINGS BY ANDY"
+        "title": "HEARD IT IN A LOVE SONG",
+        "artist": "DUKE OF MORTON"
     },
     "recent": [
+        {
+            "title": "DON'T ASK MY NEIGHBOR",
+            "artist": "STRINGS BY ANDY"
+        },
         {
             "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
             "artist": "CAMERON"
@@ -39,10 +43,6 @@
         {
             "title": "TROPIC OF CAPRICORN",
             "artist": "South Point"
-        },
-        {
-            "title": "Long Ago",
-            "artist": "Dave Keenan"
         }
     ]
 }
