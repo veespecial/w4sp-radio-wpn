@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LONELY TOO LONG",
-        "artist": "South Point"
+        "title": "WHERE IS THE LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "LONELY TOO LONG",
+            "artist": "South Point"
+        },
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN DREAM ABOUT YOU",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "Kiss Me",
-            "artist": "Harley Bros."
         }
     ]
 }
