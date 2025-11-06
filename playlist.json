@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I GO TO EXTREMES",
-        "artist": "MANSON/MARROW/HALL"
+        "title": "TROPIC OF CAPRICORN",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "I GO TO EXTREMES",
+            "artist": "MANSON/MARROW/HALL"
+        },
         {
             "title": "Claudette",
             "artist": "Disk Eyes London"
@@ -39,10 +43,6 @@
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANUSUS/KEEFER"
-        },
-        {
-            "title": "CAN I CHANGE MY MIND",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
