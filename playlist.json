@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Carey",
-        "artist": "Josephs Band"
+        "title": "Paramour",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "Carey",
+            "artist": "Josephs Band"
+        },
         {
             "title": "SOMETIME BRAZIL",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "WEST AGAIN",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "I JUST WANNA STOP",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
