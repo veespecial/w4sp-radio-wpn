@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW YORK STATE OF MIND",
-        "artist": "DERRICK CHASE"
+        "title": "SOMETHING THAT WE DO",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "NEW YORK STATE OF MIND",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "ALL ROADS LEAD TO YOU",
             "artist": "Kevin Madill-Nashville"
@@ -39,10 +43,6 @@
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
-        },
-        {
-            "title": "I WANT TO THANK YOU",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
