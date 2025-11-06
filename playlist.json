@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE FINER THINGS",
-        "artist": "DAVE DYSART"
+        "title": "COME RAIN OR COME SHINE",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "THE FINER THINGS",
+            "artist": "DAVE DYSART"
+        },
         {
             "title": "I WANT TO THANK YOU",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "(WILL YOU) COME BACK MY LOVE",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "Heartbreak Hotel",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
