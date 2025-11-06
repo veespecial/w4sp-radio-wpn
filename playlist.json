@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "OLD OAK KNOLL",
-        "artist": "Nick Manson"
+        "title": "BODY AND SOUL",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "OLD OAK KNOLL",
+            "artist": "Nick Manson"
+        },
         {
             "title": "RUNAWAY",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "IF TOMORROW NEVER COMES",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "WELCOME TO MY WORLD",
-            "artist": "Kevin Madill-Nashville"
         }
     ]
 }
