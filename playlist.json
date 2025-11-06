@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CLOUDY",
-        "artist": "NORTHPOINT"
+        "title": "COME FLY WITH ME",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "CLOUDY",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
@@ -39,10 +43,6 @@
         {
             "title": "HEARD IT IN A LOVE SONG",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "SAN TROPEZ",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
