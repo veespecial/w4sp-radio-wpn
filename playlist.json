@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RAIN AND SHINE",
-        "artist": "Jennifer Ivester"
+        "title": "Terpsichore",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "RAIN AND SHINE",
+            "artist": "Jennifer Ivester"
+        },
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR PRECIOUS LOVE",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "TORN",
-            "artist": "Harley Music"
         }
     ]
 }
