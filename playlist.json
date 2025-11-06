@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOW MUCH I FEEL",
-        "artist": "CAMERON"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "HOW MUCH I FEEL",
+            "artist": "CAMERON"
+        },
         {
             "title": "Wahine",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "TROPIC OF CAPRICORN",
             "artist": "South Point"
-        },
-        {
-            "title": "I GO TO EXTREMES",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
