@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I TURN TO YOU",
-        "artist": "Daniel Ho"
+        "title": "MIRACLES",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "I TURN TO YOU",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Fly'n",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "YOUNG ENOUGH TO KNOW",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
