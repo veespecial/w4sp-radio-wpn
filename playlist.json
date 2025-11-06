@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLUE BOSSA",
-        "artist": "BRAD ALLISON"
+        "title": "I Only Have Eyes for You",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "BLUE BOSSA",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "NORWEGAIN WOOD",
             "artist": "DUKE OF MORTON"
@@ -39,10 +43,6 @@
         {
             "title": "BACK IN THE CHAIN GANG",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "GIVING YOU THE BEST THAT I GOT",
-            "artist": "Curtis Brengle"
         }
     ]
 }
