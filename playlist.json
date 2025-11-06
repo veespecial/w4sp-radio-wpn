@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IT MAKES ME CRAZY",
-        "artist": "Nick Manson"
+        "title": "ANOTHER SAD LOVE SONG",
+        "artist": "Mike Jaap"
     },
     "recent": [
+        {
+            "title": "IT MAKES ME CRAZY",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Where Love Goes",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "RAIN AND SHINE",
             "artist": "Jennifer Ivester"
-        },
-        {
-            "title": "NORWEGAIN WOOD",
-            "artist": "DUKE OF MORTON"
         }
     ]
 }
