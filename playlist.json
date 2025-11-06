@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IT MAKES ME CRAZY",
-        "artist": "Nick Manson"
+        "title": "GIVING YOU THE BEST THAT I GOT",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "IT MAKES ME CRAZY",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Kiss Me",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Claudette",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "STONED SOUL PICNIC",
-            "artist": "Daniel Ho"
         }
     ]
 }
