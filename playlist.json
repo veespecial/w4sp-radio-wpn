@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOW CAN YOU MEND A BROKEN HEART",
-        "artist": "Moro-Eden"
+        "title": "AFTER ALL",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "HOW CAN YOU MEND A BROKEN HEART",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "Fly'n",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN DREAM ABOUT YOU",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "MY FUNNY VALENTINE",
-            "artist": "Manasus Strings"
         }
     ]
 }
