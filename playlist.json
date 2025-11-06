@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL BE OVER YOU",
-        "artist": "Daniel Ho"
+        "title": "DREAMLOVER",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "I'LL BE OVER YOU",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "After All",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "I'M IN A PHILLY MOOD",
-            "artist": "Mike Jaap"
         }
     ]
 }
