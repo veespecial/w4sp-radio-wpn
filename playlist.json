@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIFE IS BUT A DREAM",
-        "artist": "Devlin's Strings"
+        "title": "YOU'RE THE INSPIRATION",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "LIFE IS BUT A DREAM",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "Turn Turn Turn",
             "artist": "John Morton"
-        },
-        {
-            "title": "MAGNOLIA",
-            "artist": "Funtastic"
         }
     ]
 }
