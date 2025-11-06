@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIAMOND DUST",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "BAD REPUTATION",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "DIAMOND DUST",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "I THINK I'LL TELL HIM",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
-        },
-        {
-            "title": "MY FUNNY VALENTINE",
-            "artist": "Manasus Strings"
         }
     ]
 }
