@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'M IN A PHILLY MOOD",
-        "artist": "Mike Jaap"
+        "title": "DIAMOND DUST",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "I'M IN A PHILLY MOOD",
+            "artist": "Mike Jaap"
+        },
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "CORRINA CORRINA",
             "artist": "Harley"
-        },
-        {
-            "title": "SOMETHING THAT WE DO",
-            "artist": "Harley Music"
         }
     ]
 }
