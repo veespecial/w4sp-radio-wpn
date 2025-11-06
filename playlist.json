@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DREAMLOVER",
-        "artist": "It's Lenny Moore"
+        "title": "After the Love Has Gone",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "DREAMLOVER",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "SHAKE AND BAKE",
             "artist": "Newhall Collective"
@@ -39,10 +43,6 @@
         {
             "title": "WHEN SUNNY GETS BLUE",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "YOU DON'T KNOW ME",
-            "artist": "Manasus Strings"
         }
     ]
 }
