@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DROWNING IN YOUR TEARS",
-        "artist": "FUNTASTIC MUSIC"
+        "title": "SUNNY CAME HOME",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "DROWNING IN YOUR TEARS",
+            "artist": "FUNTASTIC MUSIC"
+        },
         {
             "title": "CHAIN LIGHTNING",
             "artist": "Tom Politzer 93"
@@ -39,10 +43,6 @@
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
-        },
-        {
-            "title": "My Ever Changing Moods",
-            "artist": "Jim Devlin"
         }
     ]
 }
