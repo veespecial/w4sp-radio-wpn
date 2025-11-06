@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fool on the Hill",
-        "artist": "Los Devlin Strings"
+        "title": "Ooh Baby Baby",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "Fool on the Hill",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "DESAFINADO",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "Alison",
             "artist": "Quistetts"
-        },
-        {
-            "title": "MAGNOLIA",
-            "artist": "Eric Tingstad"
         }
     ]
 }
