@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ONSTREAM",
-        "artist": "Frank Joseph's Group"
+        "title": "I'LL BE OVER YOU",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "ONSTREAM",
+            "artist": "Frank Joseph's Group"
+        },
         {
             "title": "Jo Jo",
             "artist": "Quist"
@@ -39,10 +43,6 @@
         {
             "title": "SMOOTH OPERATOR",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "Terpsichore",
-            "artist": "Dave Keenan"
         }
     ]
 }
