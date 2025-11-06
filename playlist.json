@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANOTHER TIME",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "BROWN EYED GIRL",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "ANOTHER TIME",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
@@ -39,10 +43,6 @@
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "IT'S ALL ABOUT YOU",
-            "artist": "FUNTASTIK"
         }
     ]
 }
