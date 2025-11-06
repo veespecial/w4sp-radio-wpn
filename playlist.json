@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "KRISTIANA",
-        "artist": "Jerry Cortez"
+        "title": "WELCOME TO MY WORLD",
+        "artist": "Kevin Madill-Nashville"
     },
     "recent": [
+        {
+            "title": "KRISTIANA",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "RAIN AND SHINE",
             "artist": "Jennifer Ivester"
@@ -39,10 +43,6 @@
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "SUNNY CAME HOME",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
