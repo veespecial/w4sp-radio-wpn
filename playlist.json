@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IN WONDER",
-        "artist": "Govi"
+        "title": "GREEN FLOWER STREET",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "IN WONDER",
+            "artist": "Govi"
+        },
         {
             "title": "SAY YOU LOVE ME",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "Where Love Goes",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "You Make Lovin' Fun",
-            "artist": "Harley Bros."
         }
     ]
 }
