@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Footprints",
-        "artist": "Melissa Siegel"
+        "title": "TROLLY CAR",
+        "artist": "Jennifer Ivester"
     },
     "recent": [
+        {
+            "title": "Footprints",
+            "artist": "Melissa Siegel"
+        },
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "DONE WITH PONAPARTE",
-            "artist": "Moro-Eden"
         }
     ]
 }
