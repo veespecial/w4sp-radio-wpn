@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Beyond the Sea",
-        "artist": "Disk Eyes London"
+        "title": "DON'T WANT (TO BE A FOOL)",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Beyond the Sea",
+            "artist": "Disk Eyes London"
+        },
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
@@ -39,10 +43,6 @@
         {
             "title": "Sweet Seasons",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "EARTH ANGERL (WILL YOU BE MINE)",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
