@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Long Ago",
-        "artist": "Dave Keenan"
+        "title": "TROPIC OF CAPRICORN",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "Long Ago",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "HERO",
             "artist": "JOHN GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "CAN I CHANGE MY MIND",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "NEPTUNE",
-            "artist": "Andy Suzuki"
         }
     ]
 }
