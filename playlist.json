@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEARD IT IN A LOVE SONG",
-        "artist": "DUKE OF MORTON"
+        "title": "LOVE WILL CONQUER ALL",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "HEARD IT IN A LOVE SONG",
+            "artist": "DUKE OF MORTON"
+        },
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "Help Me",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Don't Let Me be Lonely Tonight",
-            "artist": "Harley Brothers"
         }
     ]
 }
