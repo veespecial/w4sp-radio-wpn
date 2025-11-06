@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You're the Best Thing",
-        "artist": "DAVE PATT"
+        "title": "NEW KID AROUND",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "You're the Best Thing",
+            "artist": "DAVE PATT"
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "Don't Let Me be Lonely Tonight",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "SARA SMILE",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
