@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR SECRET LOVE",
-        "artist": "Frank Josephs"
+        "title": "THIS MASQUERADE",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "YOUR SECRET LOVE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "LIVELY UP YOURSELF",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "LONELY TOO LONG",
-            "artist": "South Point"
         }
     ]
 }
