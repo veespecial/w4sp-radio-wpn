@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CUCHAMA",
-        "artist": "Govi"
+        "title": "DON'T GO BREAKIN MY HEART",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "CUCHAMA",
+            "artist": "Govi"
+        },
         {
             "title": "Jo Jo",
             "artist": "Quist"
@@ -39,10 +43,6 @@
         {
             "title": "Wait So Long",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "YOU'RE THE INSPIRATION",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
