@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HIGHER AND HIGHER",
-        "artist": "MANASUS MUSIC"
+        "title": "FAIR TOMORROW",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "HIGHER AND HIGHER",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "Earl's Tune",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "SLEEPING CAT DANCE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "STARDUST",
-            "artist": "LENNY MOORE"
         }
     ]
 }
