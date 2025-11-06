@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEY GIRL",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "FOREVER MORE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "HEY GIRL",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "SOMETHING THAT WE DO",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WANT (TO BE A FOOL)",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "Beyond the Sea",
-            "artist": "Disk Eyes London"
         }
     ]
 }
