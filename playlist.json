@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THIS MASQUERADE",
-        "artist": "DERRICK CHASE"
+        "title": "Walton On Thames",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "THIS MASQUERADE",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "Yesterday",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMBOAT ANNIE",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "ROLL TO ME",
-            "artist": "Harley Brothers"
         }
     ]
 }
