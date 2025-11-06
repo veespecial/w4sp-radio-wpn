@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR ONCE IN MY LIFE",
-        "artist": "Josephs Band"
+        "title": "FOOLISH HEART",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "FOR ONCE IN MY LIFE",
+            "artist": "Josephs Band"
+        },
         {
             "title": "WHEN SUNNY GETS BLUE",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "CHEHALIS",
-            "artist": "Eric Tingstad"
         }
     ]
 }
