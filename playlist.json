@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MAGNOLIA",
-        "artist": "Funtastic"
+        "title": "Turn Turn Turn",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "MAGNOLIA",
+            "artist": "Funtastic"
+        },
         {
             "title": "YOUR PRECIOUS LOVE",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "SOME ENCHANTED EVENING",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "Pickin Like Lee",
-            "artist": "Michael Ranstrom"
         }
     ]
 }
