@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "APRIL BLUES",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "You Are My Destiny",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "APRIL BLUES",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "TROLLY CAR",
             "artist": "Jennifer Ivester"
@@ -39,10 +43,6 @@
         {
             "title": "IN WONDER",
             "artist": "Govi"
-        },
-        {
-            "title": "MIDNIGHT TRAIN TO GEORGIA",
-            "artist": "Daniel Ho"
         }
     ]
 }
