@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOME ENCHANTED EVENING",
-        "artist": "Manasus Strings"
+        "title": "SOMETIME BRAZIL",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "SOME ENCHANTED EVENING",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "Pickin Like Lee",
             "artist": "Michael Ranstrom"
@@ -39,10 +43,6 @@
         {
             "title": "GIVING YOU THE BEST THAT I GOT",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "WINDLESS",
-            "artist": "Michael Strickland"
         }
     ]
 }
