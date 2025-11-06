@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'M BEGINNING TO SEE THE LIGHT",
-        "artist": "April Barrows"
+        "title": "Alison",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "I'M BEGINNING TO SEE THE LIGHT",
+            "artist": "April Barrows"
+        },
         {
             "title": "Don't Let Me be Lonely Tonight",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "HOT SAUCE",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "You Are My Destiny",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
