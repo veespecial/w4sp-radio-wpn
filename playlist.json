@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BODY AND SOUL",
-        "artist": "DAVE DYSART"
+        "title": "WHAT DOES IT TAKE",
+        "artist": "JON GOFORTH"
     },
     "recent": [
+        {
+            "title": "BODY AND SOUL",
+            "artist": "DAVE DYSART"
+        },
         {
             "title": "OLD OAK KNOLL",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "IF TOMORROW NEVER COMES",
-            "artist": "Josephs Band"
         }
     ]
 }
