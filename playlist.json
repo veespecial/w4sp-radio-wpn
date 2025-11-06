@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALIEN",
-        "artist": "Funtastic"
+        "title": "DON'T LOOK BACK",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "ALIEN",
+            "artist": "Funtastic"
+        },
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "I Only Have Eyes for You",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "BLUE BOSSA",
-            "artist": "BRAD ALLISON"
         }
     ]
 }
