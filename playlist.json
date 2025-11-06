@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF WE FALL IN LOVE AGAIN",
-        "artist": "Tom Kellock"
+        "title": "Poor Side Of Town",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "IF WE FALL IN LOVE AGAIN",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "I CAN DREAM ABOUT YOU",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "BODY AND SOUL",
             "artist": "DAVE DYSART"
-        },
-        {
-            "title": "OLD OAK KNOLL",
-            "artist": "Nick Manson"
         }
     ]
 }
