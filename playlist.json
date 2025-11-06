@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEVER CAN SAY GOODBYE",
-        "artist": "MOORE and BRENGLE"
+        "title": "SOMEWHERE IN THE WORLD",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "NEVER CAN SAY GOODBYE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "CAN I CHANGE MY MIND",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "NEVER ENDING SONG OF LOVE",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "Until You Come Back To Me",
-            "artist": "Manson Music"
         }
     ]
 }
