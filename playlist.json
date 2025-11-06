@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sun King",
-        "artist": "San Francisco"
+        "title": "HEAVEN",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "Sun King",
+            "artist": "San Francisco"
+        },
         {
             "title": "IN WONDER",
             "artist": "Govi"
@@ -39,10 +43,6 @@
         {
             "title": "APPALACHIA CALLING",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "ALL I'VE GOT TO DO",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
