@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I CAN LOVE YOU LIKE THAT",
-        "artist": "TOMMY/BRIAN"
+        "title": "How Sweet it is",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "I CAN LOVE YOU LIKE THAT",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "DA DA",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "LIVELY UP YOURSELF",
-            "artist": "Tom Politzer"
         }
     ]
 }
