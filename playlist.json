@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LITTLE MORE TIME WITH YOU",
-        "artist": "Andre Mayeux"
+        "title": "Kiss Me",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "LITTLE MORE TIME WITH YOU",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "FAIR TOMORROW",
-            "artist": "Jerry Cortez"
         }
     ]
 }
