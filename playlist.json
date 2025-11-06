@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "END OF THE DAY",
-        "artist": "Manasus Strings"
+        "title": "LAUGHTER IN THE RAIN",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "END OF THE DAY",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "CORRINA CORRINA",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "BROWN EYED GIRL",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
