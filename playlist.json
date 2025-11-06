@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AFTER ALL",
-        "artist": "Nick Manson"
+        "title": "I'm Happy Just to Dance with You",
+        "artist": "Disk Eyes London"
     },
     "recent": [
+        {
+            "title": "AFTER ALL",
+            "artist": "Nick Manson"
+        },
         {
             "title": "HOW CAN YOU MEND A BROKEN HEART",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "I CAN DREAM ABOUT YOU",
-            "artist": "Curtis Brengle"
         }
     ]
 }
