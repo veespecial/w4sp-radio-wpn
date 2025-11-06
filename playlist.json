@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "How Deep is Your Love",
-        "artist": "Harley Music"
+        "title": "YOUR PRECIOUS LOVE",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "How Deep is Your Love",
+            "artist": "Harley Music"
+        },
         {
             "title": "SARA SMILE",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "Until You Come Back To Me",
             "artist": "Manson Music"
-        },
-        {
-            "title": "WE'RE GONNA MAKE IT",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
