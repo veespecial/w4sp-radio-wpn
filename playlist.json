@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL ROADS LEAD TO YOU",
-        "artist": "Kevin Madill-Nashville"
+        "title": "NEW YORK STATE OF MIND",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "ALL ROADS LEAD TO YOU",
+            "artist": "Kevin Madill-Nashville"
+        },
         {
             "title": "Elfi's Tune",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "I WANT TO THANK YOU",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "SMOOTH OPERATOR",
-            "artist": "Josephs Band"
         }
     ]
 }
