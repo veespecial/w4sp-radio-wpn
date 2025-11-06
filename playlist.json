@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Until You Come Back To Me",
-        "artist": "Manson Music"
+        "title": "NEVER ENDING SONG OF LOVE",
+        "artist": "DUKE OF MORTON"
     },
     "recent": [
+        {
+            "title": "Until You Come Back To Me",
+            "artist": "Manson Music"
+        },
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "WILD AND FREE",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "Life In Mono",
-            "artist": "Andy Suzuki"
         }
     ]
 }
