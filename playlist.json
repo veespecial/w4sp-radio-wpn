@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SMOOTH OPERATOR",
-        "artist": "Josephs Band"
+        "title": "I WANT TO THANK YOU",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "SMOOTH OPERATOR",
+            "artist": "Josephs Band"
+        },
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "FOOLISH HEART",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "I Say a Little Prayer",
-            "artist": "Harley Music"
         }
     ]
 }
