@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "APPALACHIA CALLING",
-        "artist": "Eric Tingstad"
+        "title": "EARTH ANGERL (WILL YOU BE MINE)",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "APPALACHIA CALLING",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
             "artist": "JOHN GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "Fool on the Hill",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
