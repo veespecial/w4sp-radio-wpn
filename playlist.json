@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MIDNIGHT TRAIN TO GEORGIA",
-        "artist": "Daniel Ho"
+        "title": "IN WONDER",
+        "artist": "Govi"
     },
     "recent": [
+        {
+            "title": "MIDNIGHT TRAIN TO GEORGIA",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "HEY GIRL",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "BAD SNEAKERS",
-            "artist": "LENNY MOORE"
         }
     ]
 }
