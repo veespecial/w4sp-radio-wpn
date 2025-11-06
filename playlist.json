@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TROPIC OF CAPRICORN",
-        "artist": "South Point"
+        "title": "Don't Let Me be Lonely Tonight",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "TROPIC OF CAPRICORN",
+            "artist": "South Point"
+        },
         {
             "title": "I GO TO EXTREMES",
             "artist": "MANSON/MARROW/HALL"
@@ -39,10 +43,6 @@
         {
             "title": "Jo Jo",
             "artist": "Quist"
-        },
-        {
-            "title": "THE WARMTH OF THE SUN",
-            "artist": "MANUSUS/KEEFER"
         }
     ]
 }
