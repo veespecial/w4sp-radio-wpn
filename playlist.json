@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "After All",
-        "artist": "Dave Raynor"
+        "title": "I'LL BE OVER YOU",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "After All",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "Pickin Like Lee",
             "artist": "Michael Ranstrom"
@@ -39,10 +43,6 @@
         {
             "title": "I'M IN A PHILLY MOOD",
             "artist": "Mike Jaap"
-        },
-        {
-            "title": "SAD SONGS SAY SO MUCH",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
