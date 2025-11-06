@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWAY",
-        "artist": "Harley"
+        "title": "WELCOME TO MY WORLD",
+        "artist": "Kevin Madill-Nashville"
     },
     "recent": [
+        {
+            "title": "SWAY",
+            "artist": "Harley"
+        },
         {
             "title": "AIN'T MISBEHAVIN",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "LITTLE MORE TIME WITH YOU",
-            "artist": "Andre Mayeux"
         }
     ]
 }
