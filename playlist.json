@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOOD LIFE",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Fast Car",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "GOOD LIFE",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "Fool on the Hill",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "One on One",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "I GO TO EXTREMES",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
