@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tempted",
-        "artist": "Harley Bros."
+        "title": "GOIN OUT OF MY HEAD",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "Tempted",
+            "artist": "Harley Bros."
+        },
         {
             "title": "I'M IN A PHILLY MOOD",
             "artist": "Mike Jaap"
@@ -39,10 +43,6 @@
         {
             "title": "Harvest for the World",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "HERO",
-            "artist": "JOHN GOFORTH"
         }
     ]
 }
