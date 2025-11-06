@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WORRY BABY",
-        "artist": "Tom Kellock"
+        "title": "DELIVER ME FROM MY MIND",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "DON'T WORRY BABY",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "JUST THE TWO OF US",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "AFTER ALL",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "HOW CAN YOU MEND A BROKEN HEART",
-            "artist": "Moro-Eden"
         }
     ]
 }
