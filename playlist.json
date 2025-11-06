@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEAVEN",
-        "artist": "North Point"
+        "title": "Elfi's Tune",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "HEAVEN",
+            "artist": "North Point"
+        },
         {
             "title": "Sun King",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
-        },
-        {
-            "title": "APPALACHIA CALLING",
-            "artist": "Eric Tingstad"
         }
     ]
 }
