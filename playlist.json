@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAVING ALL MY LOVE FOR YOU",
-        "artist": "NORTHPOINT"
+        "title": "WHENEVER YOU'RE ON MY MIND",
+        "artist": "Clair Marlo"
     },
     "recent": [
+        {
+            "title": "SAVING ALL MY LOVE FOR YOU",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "Paramour",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
-        },
-        {
-            "title": "HOW DO I LIVE",
-            "artist": "Andre Mayeux"
         }
     ]
 }
