@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LOVE WILL CONQUER ALL",
-        "artist": "Tom Kellock"
+        "title": "Vienna",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "LOVE WILL CONQUER ALL",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "HEARD IT IN A LOVE SONG",
             "artist": "DUKE OF MORTON"
@@ -39,10 +43,6 @@
         {
             "title": "COME RAIN OR COME SHINE",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "Help Me",
-            "artist": "Harley Music"
         }
     ]
 }
