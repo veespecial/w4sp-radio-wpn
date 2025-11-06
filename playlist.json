@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THANK YOU",
-        "artist": "Disk Eyes S.F."
+        "title": "HOW CAN YOU MEND A BROKEN HEART",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "THANK YOU",
+            "artist": "Disk Eyes S.F."
+        },
         {
             "title": "Louise",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "DON'T DREAM IT'S OVER",
-            "artist": "Andre Mayeux"
         }
     ]
 }
