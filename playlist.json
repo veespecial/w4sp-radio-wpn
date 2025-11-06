@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "END OF THE DAY",
-        "artist": "Manasus Strings"
+        "title": "Earl's Tune",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "END OF THE DAY",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T GO BREAKIN MY HEART",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "CUCHAMA",
-            "artist": "Govi"
         }
     ]
 }
