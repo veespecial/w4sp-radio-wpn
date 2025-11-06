@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T GO BREAKIN MY HEART",
-        "artist": "Devlin's Strings"
+        "title": "STARDUST",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "DON'T GO BREAKIN MY HEART",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "CUCHAMA",
             "artist": "Govi"
@@ -39,10 +43,6 @@
         {
             "title": "Day Dreaming",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Wait So Long",
-            "artist": "Dave Raynor"
         }
     ]
 }
