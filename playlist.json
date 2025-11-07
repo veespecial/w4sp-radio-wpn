@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Poor Side Of Town",
-        "artist": "Crescenta Valley Boys"
+        "title": "IN WONDER",
+        "artist": "Govi"
     },
     "recent": [
+        {
+            "title": "Poor Side Of Town",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T DREAM IT'S OVER",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "CHAIN LIGHTNING",
-            "artist": "Tom Politzer 93"
         }
     ]
 }
