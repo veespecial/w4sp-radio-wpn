@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STONED SOUL PICNIC",
-        "artist": "Daniel Ho"
+        "title": "KRISTIANA",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "STONED SOUL PICNIC",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "Harvest for the World",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "AIN'T MISBEHAVIN",
-            "artist": "BRAD ALLISON"
         }
     ]
 }
