@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BODY AND SOUL",
-        "artist": "DAVE DYSART"
+        "title": "APRIL BLUES",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "BODY AND SOUL",
+            "artist": "DAVE DYSART"
+        },
         {
             "title": "NEPTUNE",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "BREAKFAST AT TIFFANY'S",
-            "artist": "Josephs Band"
         }
     ]
 }
