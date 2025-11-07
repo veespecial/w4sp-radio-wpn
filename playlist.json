@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRAZY LITTLE THING CALLED LOVE",
-        "artist": "Harley Brothers"
+        "title": "ONCE AND FUTURE",
+        "artist": "Newhall Collective"
     },
     "recent": [
+        {
+            "title": "CRAZY LITTLE THING CALLED LOVE",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Claudette",
             "artist": "Disk Eyes London"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "FOREVER MORE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
