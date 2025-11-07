@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HAKUNA MATATA",
-        "artist": "Josephs Band"
+        "title": "SOME ENCHANTED EVENING",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "HAKUNA MATATA",
+            "artist": "Josephs Band"
+        },
         {
             "title": "QUIEREME MUCHO",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "KRISTIANA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "STONED SOUL PICNIC",
-            "artist": "Daniel Ho"
         }
     ]
 }
