@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "QUIEREME MUCHO",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "HAKUNA MATATA",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "QUIEREME MUCHO",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "Paramour",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "STONED SOUL PICNIC",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "DINDI",
-            "artist": "LENNY MOORE"
         }
     ]
 }
