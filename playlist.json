@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEPTUNE",
-        "artist": "Andy Suzuki"
+        "title": "BODY AND SOUL",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "NEPTUNE",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "One on One",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "BREAKFAST AT TIFFANY'S",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "YOUR PRECIOUS LOVE",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
