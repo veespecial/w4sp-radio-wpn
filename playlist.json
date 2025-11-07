@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WANT (TO BE A FOOL)",
-        "artist": "LENNY MOORE"
+        "title": "I DON'T WANNA BE ALONE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "DON'T WANT (TO BE A FOOL)",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIC MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Alison",
             "artist": "Quistetts"
-        },
-        {
-            "title": "SILVER SPRINGS",
-            "artist": "Harley Brothers"
         }
     ]
 }
