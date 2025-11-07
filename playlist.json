@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SARA SMILE",
-        "artist": "CHAD STONE BAND"
+        "title": "I WILL",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "SARA SMILE",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "Jo Jo",
             "artist": "Quist"
@@ -39,10 +43,6 @@
         {
             "title": "I GOTTA RUN",
             "artist": "John Morton"
-        },
-        {
-            "title": "Poor Side Of Town",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
