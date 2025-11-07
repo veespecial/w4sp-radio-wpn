@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THAT'S WHAT FRIENDS ARE FOR",
-        "artist": "North Point"
+        "title": "CHAIN LIGHTNING",
+        "artist": "Tom Politzer 93"
     },
     "recent": [
+        {
+            "title": "THAT'S WHAT FRIENDS ARE FOR",
+            "artist": "North Point"
+        },
         {
             "title": "Walton On Thames",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "I Only Have Eyes for You",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "LIFE IS BUT A DREAM",
-            "artist": "Devlin's Strings"
         }
     ]
 }
