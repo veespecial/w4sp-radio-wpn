@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEVER ENDING SONG OF LOVE",
-        "artist": "DUKE OF MORTON"
+        "title": "Millennium",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "NEVER ENDING SONG OF LOVE",
+            "artist": "DUKE OF MORTON"
+        },
         {
             "title": "Ain't Nothing Like the Real Thing",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
-        },
-        {
-            "title": "CHAIN LIGHTNING",
-            "artist": "Tom Politzer 93"
         }
     ]
 }
