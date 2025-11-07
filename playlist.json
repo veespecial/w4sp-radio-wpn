@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ROSE IN THE VINE",
-        "artist": "Harley"
+        "title": "MIDNIGHT TRAIN TO GEORGIA",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "ROSE IN THE VINE",
+            "artist": "Harley"
+        },
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "Claudette",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "ALL I'VE GOT TO DO",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
