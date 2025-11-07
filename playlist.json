@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I SOLD MY HEART TO THE JUNKMAN",
-        "artist": "Jim Devlin"
+        "title": "One on One",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "I SOLD MY HEART TO THE JUNKMAN",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "JUST THE TWO OF US",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "HOW CAN YOU MEND A BROKEN HEART",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "HOW MUCH I FEEL",
-            "artist": "CAMERON"
         }
     ]
 }
