@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "One on One",
-        "artist": "MANASUS MUSIC"
+        "title": "Nobody Does It Better",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "One on One",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "HERE'S THAT RAINY DAY",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "I GO TO EXTREMES",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
