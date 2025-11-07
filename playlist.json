@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEXT EVENT",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "DREAMLOVER",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "NEXT EVENT",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "KRISTIANA",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "WHAT DOES IT TAKE",
             "artist": "JON GOFORTH"
-        },
-        {
-            "title": "STARDUST",
-            "artist": "LENNY MOORE"
         }
     ]
 }
