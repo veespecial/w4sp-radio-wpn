@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Only Have Eyes for You",
-        "artist": "Politzer/Withycombe"
+        "title": "DIAMOND DUST",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "I Only Have Eyes for You",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "TROPIC OF CAPRICORN",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "Shooting Star",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "LIFE IS BUT A DREAM",
-            "artist": "Devlin's Strings"
         }
     ]
 }
