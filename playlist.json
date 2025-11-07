@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WEST AGAIN",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "IT MAKES ME CRAZY",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "WEST AGAIN",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "QUIEREME MUCHO",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "Paramour",
-            "artist": "Dave Keenan"
         }
     ]
 }
