@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Just Like This Train",
-        "artist": "San Francisco"
+        "title": "Jo Jo",
+        "artist": "Quist"
     },
     "recent": [
+        {
+            "title": "Just Like This Train",
+            "artist": "San Francisco"
+        },
         {
             "title": "WINDLESS",
             "artist": "Michael Strickland"
@@ -39,10 +43,6 @@
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
-        },
-        {
-            "title": "ONSTREAM",
-            "artist": "Frank Joseph's Group"
         }
     ]
 }
