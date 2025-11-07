@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOIN OUT OF MY HEAD",
-        "artist": "Nick Manson"
+        "title": "Terpsichore",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "GOIN OUT OF MY HEAD",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Fly'n",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "I DON'T WANNA BE ALONE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "DON'T WANT (TO BE A FOOL)",
-            "artist": "LENNY MOORE"
         }
     ]
 }
