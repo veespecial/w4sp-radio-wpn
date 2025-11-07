@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOME ENCHANTED EVENING",
-        "artist": "Manasus Strings"
+        "title": "TROPIC OF CAPRICORN",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "SOME ENCHANTED EVENING",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "Heaven On A Sunday",
             "artist": "John Morton"
-        },
-        {
-            "title": "KRISTIANA",
-            "artist": "Jerry Cortez"
         }
     ]
 }
