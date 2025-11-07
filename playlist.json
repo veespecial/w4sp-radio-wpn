@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wahine",
-        "artist": "Jerry Cortez"
+        "title": "ANOTHER SAD LOVE SONG",
+        "artist": "Mike Jaap"
     },
     "recent": [
+        {
+            "title": "Wahine",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "SOMETIME BRAZIL",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "HALF A MINUTE",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
