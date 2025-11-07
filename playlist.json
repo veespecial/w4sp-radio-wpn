@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Help Me",
-        "artist": "Harley Music"
+        "title": "FOOLISH HEART",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "Help Me",
+            "artist": "Harley Music"
+        },
         {
             "title": "You Make Lovin' Fun",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "I WANT TO THANK YOU",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "SACRIFICE",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
