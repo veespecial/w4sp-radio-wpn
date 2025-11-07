@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWEET CLAIRE",
-        "artist": "Michael Strickland"
+        "title": "ORDINARY WORLD",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "SWEET CLAIRE",
+            "artist": "Michael Strickland"
+        },
         {
             "title": "ONSTREAM",
             "artist": "Frank Joseph's Group"
@@ -39,10 +43,6 @@
         {
             "title": "Always Yours",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "DINDI",
-            "artist": "LENNY MOORE"
         }
     ]
 }
