@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Kiss Me",
-        "artist": "Harley Bros."
+        "title": "Life In Mono",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "Kiss Me",
+            "artist": "Harley Bros."
+        },
         {
             "title": "YOU ARE EVERYTHING",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
-        },
-        {
-            "title": "Help Me",
-            "artist": "Harley Music"
         }
     ]
 }
