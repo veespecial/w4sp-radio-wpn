@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAD SONGS SAY SO MUCH",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "MIRACLES",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "SAD SONGS SAY SO MUCH",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "BEWILDERED",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "Harvest for the World",
-            "artist": "Harley Brothers"
         }
     ]
 }
