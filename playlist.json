@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PROMISE AIN'T ENOUGH",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "LOVE WILL CONQUER ALL",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "PROMISE AIN'T ENOUGH",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
-        },
-        {
-            "title": "WINDLESS",
-            "artist": "Michael Strickland"
         }
     ]
 }
