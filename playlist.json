@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IT MAKES ME CRAZY",
-        "artist": "Nick Manson"
+        "title": "ONSTREAM",
+        "artist": "Frank Joseph's Group"
     },
     "recent": [
+        {
+            "title": "IT MAKES ME CRAZY",
+            "artist": "Nick Manson"
+        },
         {
             "title": "WEST AGAIN",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "QUIEREME MUCHO",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
