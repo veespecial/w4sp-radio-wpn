@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "EVERY BEAT OF MY HEART",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "HIGHER AND HIGHER",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "EVERY BEAT OF MY HEART",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "GIRL WITH A RED CARNATION",
             "artist": "Acoustic Alchemy"
@@ -39,10 +43,6 @@
         {
             "title": "LIVELY UP YOURSELF",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "DON'T GO BREAKIN MY HEART",
-            "artist": "Devlin's Strings"
         }
     ]
 }
