@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR ONCE IN OUR LIVES",
-        "artist": "Andre Mayeux"
+        "title": "BAD SNEAKERS",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "FOR ONCE IN OUR LIVES",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "RUNAWAY",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "SLEEPING CAT DANCE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "ALL I'VE GOT TO DO",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
