@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BEWILDERED",
-        "artist": "MANSON STRINGS"
+        "title": "I Go Crazy",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "BEWILDERED",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "WORLD I KNOW",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "THANK YOU",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "Changes",
-            "artist": "Ray Kelley"
         }
     ]
 }
