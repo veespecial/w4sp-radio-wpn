@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ain't Nothing Like the Real Thing",
-        "artist": "MANASUS MUSIC"
+        "title": "THANK YOU",
+        "artist": "Disk Eyes S.F."
     },
     "recent": [
+        {
+            "title": "Ain't Nothing Like the Real Thing",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "SLEEPING CAT DANCE",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "IN WONDER",
-            "artist": "Govi"
         }
     ]
 }
