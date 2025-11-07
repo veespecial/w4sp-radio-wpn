@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Always Yours",
-        "artist": "Dave Raynor"
+        "title": "THE WARMTH OF THE SUN",
+        "artist": "MANUSUS/KEEFER"
     },
     "recent": [
+        {
+            "title": "Always Yours",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
-        },
-        {
-            "title": "Jo Jo",
-            "artist": "Quist"
         }
     ]
 }
