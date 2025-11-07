@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BEWILDERED",
-        "artist": "MANSON STRINGS"
+        "title": "SAD SONGS SAY SO MUCH",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "BEWILDERED",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Harvest for the World",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "THE WARMTH OF THE SUN",
-            "artist": "MANUSUS/KEEFER"
         }
     ]
 }
