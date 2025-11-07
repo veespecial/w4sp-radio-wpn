@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Samsonite Waltz",
-        "artist": "Dave Keenan"
+        "title": "I WILL",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "Samsonite Waltz",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "Don't Let Me be Lonely Tonight",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "APPALACHIA CALLING",
-            "artist": "Eric Tingstad"
         }
     ]
 }
