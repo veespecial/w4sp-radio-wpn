@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You are the Sunshine of My Life",
-        "artist": "Harley Music"
+        "title": "GOOD LIFE",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "You are the Sunshine of My Life",
+            "artist": "Harley Music"
+        },
         {
             "title": "I WANT TO THANK YOU",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WANT (TO BE A FOOL)",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "I'M IN A PHILLY MOOD",
-            "artist": "Mike Jaap"
         }
     ]
 }
