@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wait So Long",
-        "artist": "Dave Raynor"
+        "title": "JUST THE TWO OF US",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "Wait So Long",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "HEAVEN",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "WILD AND FREE",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
