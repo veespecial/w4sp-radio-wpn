@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BAD REPUTATION",
-        "artist": "CHAD STONE BAND"
+        "title": "Long Ago",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "BAD REPUTATION",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
@@ -39,10 +43,6 @@
         {
             "title": "Turn Turn Turn",
             "artist": "John Morton"
-        },
-        {
-            "title": "FOOLISH HEART",
-            "artist": "Curtis Brengle"
         }
     ]
 }
