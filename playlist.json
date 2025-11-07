@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "One on One",
-        "artist": "MANASUS MUSIC"
+        "title": "NEPTUNE",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "One on One",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR PRECIOUS LOVE",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "HOW CAN YOU MEND A BROKEN HEART",
-            "artist": "Moro-Eden"
         }
     ]
 }
