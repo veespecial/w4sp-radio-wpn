@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FEEL LIKE MAKIN' LOVE",
-        "artist": "Nick Manson"
+        "title": "I'LL NEVER FALL IN LOVE",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "FEEL LIKE MAKIN' LOVE",
+            "artist": "Nick Manson"
+        },
         {
             "title": "IT'S ALL ABOUT YOU",
             "artist": "FUNTASTIK"
@@ -39,10 +43,6 @@
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "SWEET CLAIRE",
-            "artist": "Michael Strickland"
         }
     ]
 }
