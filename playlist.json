@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HALF A MINUTE",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "WILD AND FREE",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "HALF A MINUTE",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "DELIVER ME FROM MY MIND",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "WE'RE GONNA MAKE IT",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
