@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Nobody Does It Better",
-        "artist": "Tom Politzer"
+        "title": "TIL I HEAR IT FROM YOU",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "Nobody Does It Better",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "One on One",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "How Sweet it is",
             "artist": "Harley Music"
-        },
-        {
-            "title": "HERE'S THAT RAINY DAY",
-            "artist": "Nick Manson"
         }
     ]
 }
