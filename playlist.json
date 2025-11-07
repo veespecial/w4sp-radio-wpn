@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CUCHAMA",
-        "artist": "Govi"
+        "title": "LIVELY UP YOURSELF",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "CUCHAMA",
+            "artist": "Govi"
+        },
         {
             "title": "DON'T WANNA LOSE YOU",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "HERO",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "You Are My Destiny",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
