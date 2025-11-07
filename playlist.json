@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Alison",
-        "artist": "Quistetts"
+        "title": "Samsonite Waltz",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "Alison",
+            "artist": "Quistetts"
+        },
         {
             "title": "SILVER SPRINGS",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "Vienna",
             "artist": "Manson Music"
-        },
-        {
-            "title": "GIMME LITTLE SIGN",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
