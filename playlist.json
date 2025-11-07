@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NORWEGAIN WOOD",
-        "artist": "DUKE OF MORTON"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "NORWEGAIN WOOD",
+            "artist": "DUKE OF MORTON"
+        },
         {
             "title": "Walton On Thames",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "After All",
-            "artist": "Dave Raynor"
         }
     ]
 }
