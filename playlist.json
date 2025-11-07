@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DELIVER ME FROM MY MIND",
-        "artist": "Andy Suzuki"
+        "title": "LIFE IS BUT A DREAM",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "DELIVER ME FROM MY MIND",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "WE'RE GONNA MAKE IT",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "THAT'S WHAT FRIENDS ARE FOR",
             "artist": "North Point"
-        },
-        {
-            "title": "Elfi's Tune",
-            "artist": "Dave Raynor"
         }
     ]
 }
