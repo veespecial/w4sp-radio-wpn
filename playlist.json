@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIMME LITTLE SIGN",
-        "artist": "STANDING PATT MUSIC"
+        "title": "Vienna",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "GIMME LITTLE SIGN",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "MIRACLES",
             "artist": "North Point"
-        },
-        {
-            "title": "I'm Happy Just to Dance with You",
-            "artist": "Disk Eyes London"
         }
     ]
 }
