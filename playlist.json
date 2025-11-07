@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NORWEGAIN WOOD",
-        "artist": "DUKE OF MORTON"
+        "title": "YOU ARE EVERYTHING",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "NORWEGAIN WOOD",
+            "artist": "DUKE OF MORTON"
+        },
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "HOW DO I LIVE",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "Alison",
-            "artist": "Quistetts"
         }
     ]
 }
