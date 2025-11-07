@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR PRECIOUS LOVE",
-        "artist": "TOMMY/BRIAN"
+        "title": "WORLD I KNOW",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "YOUR PRECIOUS LOVE",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "Pickin Like Lee",
             "artist": "Michael Ranstrom"
@@ -39,10 +43,6 @@
         {
             "title": "BLUE BOSSA",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "THE WARMTH OF THE SUN",
-            "artist": "MANUSUS/KEEFER"
         }
     ]
 }
