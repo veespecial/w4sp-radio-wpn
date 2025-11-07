@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Beyond the Sea",
-        "artist": "Disk Eyes London"
+        "title": "LITTLE MORE TIME WITH YOU",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "Beyond the Sea",
+            "artist": "Disk Eyes London"
+        },
         {
             "title": "DESAFINADO",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "TIL I HEAR IT FROM YOU",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "Ooh Baby Baby",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
