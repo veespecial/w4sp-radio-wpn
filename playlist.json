@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Shooting Star",
-        "artist": "Dave Raynor"
+        "title": "IF WE FALL IN LOVE AGAIN",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "Shooting Star",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "I'M BEGINNING TO SEE THE LIGHT",
             "artist": "April Barrows"
@@ -39,10 +43,6 @@
         {
             "title": "THAT'S WHAT FRIENDS ARE FOR",
             "artist": "North Point"
-        },
-        {
-            "title": "Walton On Thames",
-            "artist": "Jerry Cortez"
         }
     ]
 }
