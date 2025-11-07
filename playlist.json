@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TIL I HEAR IT FROM YOU",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "SWAY",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "TIL I HEAR IT FROM YOU",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "How Sweet it is",
-            "artist": "Harley Music"
         }
     ]
 }
