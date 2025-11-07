@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WANT (TO BE A FOOL)",
-        "artist": "LENNY MOORE"
+        "title": "TEARS FROM THE SUN",
+        "artist": "PASERO/SUZUKI-HAWAII"
     },
     "recent": [
+        {
+            "title": "DON'T WANT (TO BE A FOOL)",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "I'M IN A PHILLY MOOD",
             "artist": "Mike Jaap"
@@ -39,10 +43,6 @@
         {
             "title": "ROSE IN THE VINE",
             "artist": "Harley"
-        },
-        {
-            "title": "WHENEVER YOU'RE ON MY MIND",
-            "artist": "Clair Marlo"
         }
     ]
 }
