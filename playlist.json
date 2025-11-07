@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DA DA",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "THIS MASQUERADE",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "DA DA",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "I'LL NEVER FALL IN LOVE",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "BEWILDERED",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
