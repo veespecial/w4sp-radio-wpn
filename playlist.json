@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Don't Let Me be Lonely Tonight",
-        "artist": "Harley Brothers"
+        "title": "Samsonite Waltz",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "Don't Let Me be Lonely Tonight",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "POETRY MAN",
             "artist": "CAMERON"
@@ -39,10 +43,6 @@
         {
             "title": "APPALACHIA CALLING",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "Sun King",
-            "artist": "San Francisco"
         }
     ]
 }
