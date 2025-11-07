@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIFE IS BUT A DREAM",
-        "artist": "Devlin's Strings"
+        "title": "I Only Have Eyes for You",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "LIFE IS BUT A DREAM",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "GIVING YOU THE BEST THAT I GOT",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "Wait So Long",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "Footprints",
-            "artist": "Melissa Siegel"
         }
     ]
 }
