@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR ONCE IN MY LIFE",
-        "artist": "Josephs Band"
+        "title": "GIMME LITTLE SIGN",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "FOR ONCE IN MY LIFE",
+            "artist": "Josephs Band"
+        },
         {
             "title": "BACK STABBERS",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "THE STRANGER",
             "artist": "North Point"
-        },
-        {
-            "title": "GOOD LIFE",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
