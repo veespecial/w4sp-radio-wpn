@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HERO",
-        "artist": "JOHN GOFORTH"
+        "title": "SOME ENCHANTED EVENING",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "HERO",
+            "artist": "JOHN GOFORTH"
+        },
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
-        },
-        {
-            "title": "CAN WE TALK",
-            "artist": "South Point"
         }
     ]
 }
