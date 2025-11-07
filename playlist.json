@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT DOES IT TAKE",
-        "artist": "JON GOFORTH"
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "WHAT DOES IT TAKE",
+            "artist": "JON GOFORTH"
+        },
         {
             "title": "Claudette",
             "artist": "Disk Eyes London"
@@ -39,10 +43,6 @@
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
-        },
-        {
-            "title": "EARTH ANGERL (WILL YOU BE MINE)",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
