@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WANT TO THANK YOU",
-        "artist": "MANASUS MUSIC"
+        "title": "You are the Sunshine of My Life",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "I WANT TO THANK YOU",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "DON'T GO BREAKIN MY HEART",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "I'M IN A PHILLY MOOD",
             "artist": "Mike Jaap"
-        },
-        {
-            "title": "RAIN AND SHINE",
-            "artist": "Jennifer Ivester"
         }
     ]
 }
