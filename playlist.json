@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wahine",
-        "artist": "Jerry Cortez"
+        "title": "STUBBORN KIND OF FELLOW",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "Wahine",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "WE'RE GONNA MAKE IT",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "Fast Car",
-            "artist": "Quistetts"
         }
     ]
 }
