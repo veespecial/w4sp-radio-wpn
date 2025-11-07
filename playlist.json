@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLUE BOSSA",
-        "artist": "BRAD ALLISON"
+        "title": "CAN WE TALK",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "BLUE BOSSA",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "DON'T WORRY BABY",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "WE'RE GONNA MAKE IT",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "EARTH ANGERL (WILL YOU BE MINE)",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
