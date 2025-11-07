@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HAKUNA MATATA",
-        "artist": "Josephs Band"
+        "title": "NORWEGAIN WOOD",
+        "artist": "DUKE OF MORTON"
     },
     "recent": [
+        {
+            "title": "HAKUNA MATATA",
+            "artist": "Josephs Band"
+        },
         {
             "title": "Harvest for the World",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "Alison",
             "artist": "Quistetts"
-        },
-        {
-            "title": "STONED SOUL PICNIC",
-            "artist": "Daniel Ho"
         }
     ]
 }
