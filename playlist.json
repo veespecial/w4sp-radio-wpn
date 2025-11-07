@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'M BEGINNING TO SEE THE LIGHT",
-        "artist": "April Barrows"
+        "title": "CUCHAMA",
+        "artist": "Govi"
     },
     "recent": [
+        {
+            "title": "I'M BEGINNING TO SEE THE LIGHT",
+            "artist": "April Barrows"
+        },
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "ROSE IN THE VINE",
-            "artist": "Harley"
         }
     ]
 }
