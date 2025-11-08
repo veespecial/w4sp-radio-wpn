@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWEET CLAIRE",
-        "artist": "Michael Strickland"
+        "title": "Heartbreak Hotel",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "SWEET CLAIRE",
+            "artist": "Michael Strickland"
+        },
         {
             "title": "WEST AGAIN",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "BEWILDERED",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "ONCE AND FUTURE",
-            "artist": "Newhall Collective"
         }
     ]
 }
