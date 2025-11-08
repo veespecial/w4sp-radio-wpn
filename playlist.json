@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Only Have Eyes for You",
-        "artist": "Politzer/Withycombe"
+        "title": "WEST AGAIN",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "I Only Have Eyes for You",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "SWAY",
             "artist": "Harley"
-        },
-        {
-            "title": "RUBY BABY",
-            "artist": "Funtastic"
         }
     ]
 }
