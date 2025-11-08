@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR SECRET LOVE",
-        "artist": "Frank Josephs"
+        "title": "I WANT TO THANK YOU",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "YOUR SECRET LOVE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "HOW MUCH I FEEL",
             "artist": "CAMERON"
@@ -39,10 +43,6 @@
         {
             "title": "Jo Jo",
             "artist": "Quist"
-        },
-        {
-            "title": "ALL I'VE GOT TO DO",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
