@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FAIR TOMORROW",
-        "artist": "Jerry Cortez"
+        "title": "BACK IN THE CHAIN GANG",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "FAIR TOMORROW",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "RUNAWAY",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "YOU DON'T KNOW ME",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "I'M IN A PHILLY MOOD",
-            "artist": "Mike Jaap"
         }
     ]
 }
