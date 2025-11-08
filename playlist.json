@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MAGNOLIA",
-        "artist": "Funtastic"
+        "title": "GOIN OUT OF MY HEAD",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "MAGNOLIA",
+            "artist": "Funtastic"
+        },
         {
             "title": "Claudette",
             "artist": "Disk Eyes London"
@@ -39,10 +43,6 @@
         {
             "title": "How Sweet it is",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Matter Of Time",
-            "artist": "Jerry Cortez"
         }
     ]
 }
