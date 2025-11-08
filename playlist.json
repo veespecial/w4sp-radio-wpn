@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fly'n",
-        "artist": "Dave Raynor"
+        "title": "Fool on the Hill",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "Fly'n",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "THESE DREAMS",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "BAD SNEAKERS",
-            "artist": "LENNY MOORE"
         }
     ]
 }
