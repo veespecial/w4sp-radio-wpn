@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIVELY UP YOURSELF",
-        "artist": "Tom Politzer"
+        "title": "SAVING ALL MY LOVE FOR YOU",
+        "artist": "NORTHPOINT"
     },
     "recent": [
+        {
+            "title": "LIVELY UP YOURSELF",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "FOR ONCE IN MY LIFE",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "Changes",
-            "artist": "Ray Kelley"
         }
     ]
 }
