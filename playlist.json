@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wait So Long",
-        "artist": "Dave Raynor"
+        "title": "SAD SONGS SAY SO MUCH",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "Wait So Long",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "ALL I WANNA DO",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "I THINK I'LL TELL HIM",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "IN WONDER",
-            "artist": "Govi"
         }
     ]
 }
