@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LOVE WILL CONQUER ALL",
-        "artist": "Tom Kellock"
+        "title": "FOR ONCE IN OUR LIVES",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "LOVE WILL CONQUER ALL",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "IN A DAYDREAM",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR PRECIOUS LOVE",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "You Are My Destiny",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
