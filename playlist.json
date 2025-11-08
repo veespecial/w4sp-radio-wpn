@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Claudette",
-        "artist": "Disk Eyes London"
+        "title": "DREAMLOVER",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "Claudette",
+            "artist": "Disk Eyes London"
+        },
         {
             "title": "BACK IN THE CHAIN GANG",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "POETRY MAN",
             "artist": "CAMERON"
-        },
-        {
-            "title": "(WILL YOU) COME BACK MY LOVE",
-            "artist": "JOHN GOFORTH"
         }
     ]
 }
