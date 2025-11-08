@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ORDINARY WORLD",
-        "artist": "Devlin's Strings"
+        "title": "HOW CAN YOU MEND A BROKEN HEART",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "ORDINARY WORLD",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "WEST AGAIN",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "MAGNOLIA",
-            "artist": "Funtastic"
         }
     ]
 }
