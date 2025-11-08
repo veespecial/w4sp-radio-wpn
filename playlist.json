@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANOTHER SAD LOVE SONG",
-        "artist": "Mike Jaap"
+        "title": "HOW DO I LIVE",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "ANOTHER SAD LOVE SONG",
+            "artist": "Mike Jaap"
+        },
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "I'M BEGINNING TO SEE THE LIGHT",
-            "artist": "April Barrows"
         }
     ]
 }
