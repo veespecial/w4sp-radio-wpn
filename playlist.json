@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SLEEPING CAT DANCE",
-        "artist": "Nick Manson"
+        "title": "DON'T DREAM IT'S OVER",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "SLEEPING CAT DANCE",
+            "artist": "Nick Manson"
+        },
         {
             "title": "I Only Have Eyes for You",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "Carey",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "I DON'T WANNA BE ALONE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
