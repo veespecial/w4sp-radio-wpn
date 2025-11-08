@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SMOOTH OPERATOR",
-        "artist": "Josephs Band"
+        "title": "Paramour",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "SMOOTH OPERATOR",
+            "artist": "Josephs Band"
+        },
         {
             "title": "How Sweet it is",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "FOR ONCE IN OUR LIVES",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "LOVE WILL CONQUER ALL",
-            "artist": "Tom Kellock"
         }
     ]
 }
