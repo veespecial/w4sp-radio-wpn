@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANOTHER SAD LOVE SONG",
-        "artist": "Mike Jaap"
+        "title": "You're the Best Thing",
+        "artist": "DAVE PATT"
     },
     "recent": [
+        {
+            "title": "ANOTHER SAD LOVE SONG",
+            "artist": "Mike Jaap"
+        },
         {
             "title": "Carey",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "SOUL SHADOWS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
