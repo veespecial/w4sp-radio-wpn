@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TROLLY CAR",
-        "artist": "Jennifer Ivester"
+        "title": "I DON'T WANNA BE ALONE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "TROLLY CAR",
+            "artist": "Jennifer Ivester"
+        },
         {
             "title": "EVERY BEAT OF MY HEART",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "THANK YOU",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "WHAT DOES IT TAKE",
-            "artist": "JON GOFORTH"
         }
     ]
 }
