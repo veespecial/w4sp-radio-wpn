@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE WARMTH OF THE SUN",
-        "artist": "MANUSUS/KEEFER"
+        "title": "DON'T WANNA LOSE YOU",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "THE WARMTH OF THE SUN",
+            "artist": "MANUSUS/KEEFER"
+        },
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "Heartbreak Hotel",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "Louise",
-            "artist": "Dave Raynor"
         }
     ]
 }
