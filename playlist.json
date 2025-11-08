@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR SECRET LOVE",
-        "artist": "Frank Josephs"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "YOUR SECRET LOVE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "IT'S ALL ABOUT YOU",
             "artist": "FUNTASTIK"
@@ -39,10 +43,6 @@
         {
             "title": "FAIR TOMORROW",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "I JUST WANNA STOP",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
