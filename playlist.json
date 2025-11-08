@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL I WANNA DO",
-        "artist": "Harley"
+        "title": "Wait So Long",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "ALL I WANNA DO",
+            "artist": "Harley"
+        },
         {
             "title": "Love Of My Life",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "IN WONDER",
             "artist": "Govi"
-        },
-        {
-            "title": "ROLL TO ME",
-            "artist": "Harley Brothers"
         }
     ]
 }
