@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WANT (TO BE A FOOL)",
-        "artist": "LENNY MOORE"
+        "title": "Pickin Like Lee",
+        "artist": "Michael Ranstrom"
     },
     "recent": [
+        {
+            "title": "DON'T WANT (TO BE A FOOL)",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "DON'T WANNA LOSE YOU",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMBOAT ANNIE",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "SOMETIME BRAZIL",
-            "artist": "Andy Suzuki"
         }
     ]
 }
