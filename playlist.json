@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'M BEGINNING TO SEE THE LIGHT",
-        "artist": "April Barrows"
+        "title": "MORE THAN THIS",
+        "artist": "Disk Eyes S.F."
     },
     "recent": [
+        {
+            "title": "I'M BEGINNING TO SEE THE LIGHT",
+            "artist": "April Barrows"
+        },
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
@@ -39,10 +43,6 @@
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "Sweet Seasons",
-            "artist": "Harley Bros."
         }
     ]
 }
