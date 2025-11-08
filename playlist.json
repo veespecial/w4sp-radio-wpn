@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fast Car",
-        "artist": "Quistetts"
+        "title": "Paramour",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "Fast Car",
+            "artist": "Quistetts"
+        },
         {
             "title": "ALIEN",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "I CAN DREAM ABOUT YOU",
-            "artist": "Curtis Brengle"
         }
     ]
 }
