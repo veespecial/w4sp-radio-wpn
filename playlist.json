@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Millennium",
-        "artist": "Harley Brothers"
+        "title": "Walton On Thames",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "Millennium",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
@@ -39,10 +43,6 @@
         {
             "title": "LIVELY UP YOURSELF",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
