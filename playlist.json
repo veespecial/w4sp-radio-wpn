@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRAZY LITTLE THING CALLED LOVE",
-        "artist": "Harley Brothers"
+        "title": "I'LL BE OVER YOU",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "CRAZY LITTLE THING CALLED LOVE",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "DON'T WANT (TO BE A FOOL)",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "FOR ONCE IN MY LIFE",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "AFTER ALL",
-            "artist": "Nick Manson"
         }
     ]
 }
