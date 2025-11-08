@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CUCHAMA",
-        "artist": "Govi"
+        "title": "Earl's Tune",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "CUCHAMA",
+            "artist": "Govi"
+        },
         {
             "title": "POETRY MAN",
             "artist": "CAMERON"
@@ -39,10 +43,6 @@
         {
             "title": "DESTINY",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "SAN TROPEZ",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
