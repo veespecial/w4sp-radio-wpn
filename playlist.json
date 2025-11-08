@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SUMMER WIND",
-        "artist": "Harley"
+        "title": "I Only Have Eyes for You",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "SUMMER WIND",
+            "artist": "Harley"
+        },
         {
             "title": "How Deep is Your Love",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "AIN'T MISBEHAVIN",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "Poor Side Of Town",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
