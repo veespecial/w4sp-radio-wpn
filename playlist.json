@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WELCOME TO MY WORLD",
-        "artist": "Kevin Madill-Nashville"
+        "title": "LONELY TOO LONG",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "WELCOME TO MY WORLD",
+            "artist": "Kevin Madill-Nashville"
+        },
         {
             "title": "COME RAIN OR COME SHINE",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "SLEEPING CAT DANCE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "I Only Have Eyes for You",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
