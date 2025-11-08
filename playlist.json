@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT DOES IT TAKE",
-        "artist": "JON GOFORTH"
+        "title": "THANK YOU",
+        "artist": "Disk Eyes S.F."
     },
     "recent": [
+        {
+            "title": "WHAT DOES IT TAKE",
+            "artist": "JON GOFORTH"
+        },
         {
             "title": "BREAKFAST AT TIFFANY'S",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "NEVER ENDING SONG OF LOVE",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "Reflection",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
