@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ONCE AND FUTURE",
-        "artist": "Newhall Collective"
+        "title": "Millennium",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "ONCE AND FUTURE",
+            "artist": "Newhall Collective"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
-        },
-        {
-            "title": "ONSTREAM",
-            "artist": "Frank Joseph's Group"
         }
     ]
 }
