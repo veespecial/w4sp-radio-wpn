@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIRL WITH A RED CARNATION",
-        "artist": "Acoustic Alchemy"
+        "title": "I CAN DREAM ABOUT YOU",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "GIRL WITH A RED CARNATION",
+            "artist": "Acoustic Alchemy"
+        },
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
-        },
-        {
-            "title": "LIFE IS BUT A DREAM",
-            "artist": "Devlin's Strings"
         }
     ]
 }
