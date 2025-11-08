@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIXIE MOON",
-        "artist": "LENNY MOORE"
+        "title": "MIDNIGHT TRAIN TO GEORGIA",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "DIXIE MOON",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "THAT'S WHAT FRIENDS ARE FOR",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "SLEEPING CAT DANCE",
-            "artist": "Nick Manson"
         }
     ]
 }
