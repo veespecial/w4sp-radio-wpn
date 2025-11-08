@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAN I CHANGE MY MIND",
-        "artist": "Politzer/Withycombe"
+        "title": "I Say a Little Prayer",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "CAN I CHANGE MY MIND",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "Elfi's Tune",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "GOIN OUT OF MY HEAD",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "MAGNOLIA",
-            "artist": "Funtastic"
         }
     ]
 }
