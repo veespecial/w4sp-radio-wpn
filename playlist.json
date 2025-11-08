@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOUL SHADOWS",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "Samsonite Waltz",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "SOUL SHADOWS",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
-        },
-        {
-            "title": "TROPIC OF CAPRICORN",
-            "artist": "South Point"
         }
     ]
 }
