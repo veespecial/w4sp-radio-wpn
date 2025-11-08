@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STUBBORN KIND OF FELLOW",
-        "artist": "Crescenta Valley Boys"
+        "title": "Ain't Nothing Like the Real Thing",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "STUBBORN KIND OF FELLOW",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "Harvest for the World",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "You Make Lovin' Fun",
-            "artist": "Harley Bros."
         }
     ]
 }
