@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Go Crazy",
-        "artist": "David Patt"
+        "title": "Sweet Seasons",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "I Go Crazy",
+            "artist": "David Patt"
+        },
         {
             "title": "DREAMBOAT ANNIE",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "GIRL WITH A RED CARNATION",
             "artist": "Acoustic Alchemy"
-        },
-        {
-            "title": "Beyond the Sea",
-            "artist": "Disk Eyes London"
         }
     ]
 }
