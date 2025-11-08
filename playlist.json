@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I THINK I'LL TELL HIM",
-        "artist": "Andy Suzuki"
+        "title": "DON'T WANT (TO BE A FOOL)",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "I THINK I'LL TELL HIM",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIC MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Changes",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "YOU'RE THE INSPIRATION",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
