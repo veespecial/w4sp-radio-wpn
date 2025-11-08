@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT'S GOIN ON",
-        "artist": "Josephs Band"
+        "title": "DIAMOND DUST",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "WHAT'S GOIN ON",
+            "artist": "Josephs Band"
+        },
         {
             "title": "NEXT EVENT",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "HOW DO I LIVE",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "ANOTHER SAD LOVE SONG",
-            "artist": "Mike Jaap"
         }
     ]
 }
