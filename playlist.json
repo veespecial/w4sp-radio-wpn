@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOIN OUT OF MY HEAD",
-        "artist": "Nick Manson"
+        "title": "YOU ARE EVERYTHING",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "GOIN OUT OF MY HEAD",
+            "artist": "Nick Manson"
+        },
         {
             "title": "MAGNOLIA",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "SMOOTH OPERATOR",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "How Sweet it is",
-            "artist": "Harley Music"
         }
     ]
 }
