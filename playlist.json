@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I DON'T WANNA BE ALONE",
-        "artist": "MOORE and BRENGLE"
+        "title": "Carey",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "I DON'T WANNA BE ALONE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "AIN'T MISBEHAVIN",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "GREEN FLOWER STREET",
-            "artist": "Funtastic"
         }
     ]
 }
