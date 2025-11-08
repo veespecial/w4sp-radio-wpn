@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SLEEPING CAT DANCE",
-        "artist": "Nick Manson"
+        "title": "ORDINARY WORLD",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "SLEEPING CAT DANCE",
+            "artist": "Nick Manson"
+        },
         {
             "title": "NORWEGAIN WOOD",
             "artist": "DUKE OF MORTON"
@@ -39,10 +43,6 @@
         {
             "title": "SUNNY CAME HOME",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "SAY YOU LOVE ME",
-            "artist": "Josephs Band"
         }
     ]
 }
