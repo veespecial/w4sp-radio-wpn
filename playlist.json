@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sweet Seasons",
-        "artist": "Harley Bros."
+        "title": "I JUST WANNA STOP",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "Sweet Seasons",
+            "artist": "Harley Bros."
+        },
         {
             "title": "DON'T DREAM IT'S OVER",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
-        },
-        {
-            "title": "ANOTHER SAD LOVE SONG",
-            "artist": "Mike Jaap"
         }
     ]
 }
