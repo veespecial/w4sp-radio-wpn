@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWAY",
-        "artist": "Harley"
+        "title": "I SOLD MY HEART TO THE JUNKMAN",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "SWAY",
+            "artist": "Harley"
+        },
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "Tears In Heaven",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "JULIA",
-            "artist": "North Point"
         }
     ]
 }
