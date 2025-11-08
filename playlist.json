@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIXIE MOON",
-        "artist": "LENNY MOORE"
+        "title": "YOUNG ENOUGH TO KNOW",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "DIXIE MOON",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
             "artist": "JOHN GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "CAN WE TALK",
             "artist": "South Point"
-        },
-        {
-            "title": "TIL I HEAR IT FROM YOU",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
