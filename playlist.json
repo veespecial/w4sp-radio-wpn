@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fool on the Hill",
-        "artist": "Los Devlin Strings"
+        "title": "GAUCHO",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "Fool on the Hill",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "Fly'n",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "TORN",
             "artist": "Harley Music"
-        },
-        {
-            "title": "HIGHER AND HIGHER",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
