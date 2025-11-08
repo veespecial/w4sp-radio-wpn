@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE FINER THINGS",
-        "artist": "DAVE DYSART"
+        "title": "I'M BEGINNING TO SEE THE LIGHT",
+        "artist": "April Barrows"
     },
     "recent": [
+        {
+            "title": "THE FINER THINGS",
+            "artist": "DAVE DYSART"
+        },
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "Sweet Seasons",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "DON'T DREAM IT'S OVER",
-            "artist": "Andre Mayeux"
         }
     ]
 }
