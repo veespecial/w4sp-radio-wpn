@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOME ENCHANTED EVENING",
-        "artist": "Manasus Strings"
+        "title": "HOT SAUCE",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "SOME ENCHANTED EVENING",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "Fast Car",
             "artist": "Quistetts"
-        },
-        {
-            "title": "ALIEN",
-            "artist": "Funtastic"
         }
     ]
 }
