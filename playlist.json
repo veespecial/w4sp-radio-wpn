@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DELIVER ME FROM MY MIND",
-        "artist": "Andy Suzuki"
+        "title": "Kiss Me",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "DELIVER ME FROM MY MIND",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "Pickin Like Lee",
             "artist": "Michael Ranstrom"
-        },
-        {
-            "title": "DON'T WANT (TO BE A FOOL)",
-            "artist": "LENNY MOORE"
         }
     ]
 }
