@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALIEN",
-        "artist": "Funtastic"
+        "title": "CAN WE TALK",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "ALIEN",
+            "artist": "Funtastic"
+        },
         {
             "title": "Carey",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "WEST AGAIN",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "I Only Have Eyes for You",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
