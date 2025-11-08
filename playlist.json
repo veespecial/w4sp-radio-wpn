@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STUBBORN KIND OF FELLOW",
-        "artist": "Crescenta Valley Boys"
+        "title": "DREAMLOVER",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "STUBBORN KIND OF FELLOW",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "Fast Car",
             "artist": "Quistetts"
@@ -39,10 +43,6 @@
         {
             "title": "Wait So Long",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "ALL I WANNA DO",
-            "artist": "Harley"
         }
     ]
 }
