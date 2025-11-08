@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WANNA LOSE YOU",
-        "artist": "Curtis Brengle"
+        "title": "DON'T WANT (TO BE A FOOL)",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "DON'T WANNA LOSE YOU",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANUSUS/KEEFER"
@@ -39,10 +43,6 @@
         {
             "title": "SOMETIME BRAZIL",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "Heartbreak Hotel",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
