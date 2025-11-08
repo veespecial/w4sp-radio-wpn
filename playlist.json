@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "APRIL BLUES",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "DON'T GO BREAKIN MY HEART",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "APRIL BLUES",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "HERO",
             "artist": "JOHN GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
-        },
-        {
-            "title": "HALF A MINUTE",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
