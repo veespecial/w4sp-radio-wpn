@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOW DO I LIVE",
-        "artist": "Andre Mayeux"
+        "title": "PROMISE AIN'T ENOUGH",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "HOW DO I LIVE",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "IN A DAYDREAM",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "BACK IN THE CHAIN GANG",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "FAIR TOMORROW",
-            "artist": "Jerry Cortez"
         }
     ]
 }
