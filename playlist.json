@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOT SAUCE",
-        "artist": "Eric Tingstad"
+        "title": "BREAKFAST AT TIFFANY'S",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "HOT SAUCE",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
@@ -39,10 +43,6 @@
         {
             "title": "I'm Happy Just to Dance with You",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "NEVER CAN SAY GOODBYE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
