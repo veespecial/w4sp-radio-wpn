@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Elfi's Tune",
-        "artist": "Dave Raynor"
+        "title": "WEST AGAIN",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "Elfi's Tune",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "SOME ENCHANTED EVENING",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "SAD SONGS SAY SO MUCH",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
