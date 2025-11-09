@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BAD REPUTATION",
-        "artist": "CHAD STONE BAND"
+        "title": "BEWILDERED",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "BAD REPUTATION",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "SOMETIME BRAZIL",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "DIAMOND DUST",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
