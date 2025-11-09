@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WANT TO THANK YOU",
-        "artist": "MANASUS MUSIC"
+        "title": "YOUR PRECIOUS LOVE",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "I WANT TO THANK YOU",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "JUST ONE WORD",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "MAGNOLIA",
             "artist": "Funtastic"
-        },
-        {
-            "title": "SOMETHING THAT WE DO",
-            "artist": "Harley Music"
         }
     ]
 }
