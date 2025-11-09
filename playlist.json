@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JUST ONE WORD",
-        "artist": "Harley Bros."
+        "title": "I WANT TO THANK YOU",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "JUST ONE WORD",
+            "artist": "Harley Bros."
+        },
         {
             "title": "DA DA",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "SOMETHING THAT WE DO",
             "artist": "Harley Music"
-        },
-        {
-            "title": "BACK IN THE CHAIN GANG",
-            "artist": "Harley Brothers"
         }
     ]
 }
