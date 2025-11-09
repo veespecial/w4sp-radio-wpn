@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Harvest for the World",
-        "artist": "Harley Brothers"
+        "title": "THE WARMTH OF THE SUN",
+        "artist": "MANUSUS/KEEFER"
     },
     "recent": [
+        {
+            "title": "Harvest for the World",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Reflection",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "HERO",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "IT'S ALL ABOUT YOU",
-            "artist": "FUNTASTIK"
         }
     ]
 }
