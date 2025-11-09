@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHERE IS THE LOVE",
-        "artist": "Tom Kellock"
+        "title": "SWAY",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "WHERE IS THE LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "Make it With You",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "WELCOME TO MY WORLD",
             "artist": "Kevin Madill-Nashville"
-        },
-        {
-            "title": "BACK IN THE CHAIN GANG",
-            "artist": "Harley Brothers"
         }
     ]
 }
