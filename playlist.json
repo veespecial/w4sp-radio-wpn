@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT'S NEW",
-        "artist": "MANSON STRINGS"
+        "title": "TIL I HEAR IT FROM YOU",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "WHAT'S NEW",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "WHAT DOES IT TAKE",
             "artist": "JON GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "DESAFINADO",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "IN WONDER",
-            "artist": "Govi"
         }
     ]
 }
