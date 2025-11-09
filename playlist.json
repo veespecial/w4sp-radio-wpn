@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIVELY UP YOURSELF",
-        "artist": "Tom Politzer"
+        "title": "DA DA",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "LIVELY UP YOURSELF",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "MERCY MERCY ME",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "WE'RE GONNA MAKE IT",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
