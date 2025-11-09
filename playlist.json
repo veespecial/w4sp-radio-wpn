@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I THINK I'LL TELL HIM",
-        "artist": "Andy Suzuki"
+        "title": "SUMMER WIND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "I THINK I'LL TELL HIM",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
@@ -39,10 +43,6 @@
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "Until You Come Back To Me",
-            "artist": "Manson Music"
         }
     ]
 }
