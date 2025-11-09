@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL I'VE GOT TO DO",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "Fast Car",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "ALL I'VE GOT TO DO",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "BACK STABBERS",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T LOOK BACK",
             "artist": "Harley"
-        },
-        {
-            "title": "BREAKFAST AT TIFFANY'S",
-            "artist": "Josephs Band"
         }
     ]
 }
