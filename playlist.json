@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FAIR TOMORROW",
-        "artist": "Jerry Cortez"
+        "title": "ORDINARY WORLD",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "FAIR TOMORROW",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "I GO TO EXTREMES",
             "artist": "MANSON/MARROW/HALL"
@@ -39,10 +43,6 @@
         {
             "title": "Harvest for the World",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Reflection",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
