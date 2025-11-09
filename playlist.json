@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IT MAKES ME CRAZY",
-        "artist": "Nick Manson"
+        "title": "LITTLE MORE TIME WITH YOU",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "IT MAKES ME CRAZY",
+            "artist": "Nick Manson"
+        },
         {
             "title": "ONSTREAM",
             "artist": "Frank Joseph's Group"
@@ -39,10 +43,6 @@
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "RUBY BABY",
-            "artist": "Funtastic"
         }
     ]
 }
