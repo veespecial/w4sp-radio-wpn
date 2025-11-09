@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOOLISH HEART",
-        "artist": "Curtis Brengle"
+        "title": "I Go Crazy",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "FOOLISH HEART",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
