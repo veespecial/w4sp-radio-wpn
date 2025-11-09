@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME RAIN OR COME SHINE",
-        "artist": "It's Lenny Moore"
+        "title": "HEARD IT IN A LOVE SONG",
+        "artist": "DUKE OF MORTON"
     },
     "recent": [
+        {
+            "title": "COME RAIN OR COME SHINE",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "GOIN OUT OF MY HEAD",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "YOUNG ENOUGH TO KNOW",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "BECAUSE YOU LOVED ME",
-            "artist": "North Point"
         }
     ]
 }
