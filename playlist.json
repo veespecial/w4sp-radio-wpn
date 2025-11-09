@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I CAN DREAM ABOUT YOU",
-        "artist": "Curtis Brengle"
+        "title": "Love Of My Life",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "I CAN DREAM ABOUT YOU",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "GOT TO GIVE IT UP",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "I GOTTA RUN",
             "artist": "John Morton"
-        },
-        {
-            "title": "WELCOME TO MY WORLD",
-            "artist": "Kevin Madill-Nashville"
         }
     ]
 }
