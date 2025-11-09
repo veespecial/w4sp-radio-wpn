@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "APRIL BLUES",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "CUCHAMA",
+        "artist": "Govi"
     },
     "recent": [
+        {
+            "title": "APRIL BLUES",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "JUST THE TWO OF US",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "Sweet Seasons",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Changes",
-            "artist": "Ray Kelley"
         }
     ]
 }
