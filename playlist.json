@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Say a Little Prayer",
-        "artist": "Harley Music"
+        "title": "THANK YOU",
+        "artist": "Disk Eyes S.F."
     },
     "recent": [
+        {
+            "title": "I Say a Little Prayer",
+            "artist": "Harley Music"
+        },
         {
             "title": "DON'T WORRY BABY",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "Vienna",
-            "artist": "Manson Music"
         }
     ]
 }
