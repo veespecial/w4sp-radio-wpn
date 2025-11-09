@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANOTHER TIME",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "LIFE IS BUT A DREAM",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "ANOTHER TIME",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "ALL ROADS LEAD TO YOU",
             "artist": "Kevin Madill-Nashville"
@@ -39,10 +43,6 @@
         {
             "title": "FOOLISH HEART",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "SAVING ALL MY LOVE FOR YOU",
-            "artist": "NORTHPOINT"
         }
     ]
 }
