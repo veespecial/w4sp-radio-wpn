@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Are My Destiny",
-        "artist": "Los Devlin Strings"
+        "title": "ONCE AND FUTURE",
+        "artist": "Newhall Collective"
     },
     "recent": [
+        {
+            "title": "You Are My Destiny",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "Claudette",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "YOUR PRECIOUS LOVE",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
