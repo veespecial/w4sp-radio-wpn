@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIXIE MOON",
-        "artist": "LENNY MOORE"
+        "title": "Vienna",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "DIXIE MOON",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "END OF THE DAY",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "BLUE BOSSA",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "Sun King",
-            "artist": "San Francisco"
         }
     ]
 }
