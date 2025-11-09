@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOME ENCHANTED EVENING",
-        "artist": "Manasus Strings"
+        "title": "SUNNY CAME HOME",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "SOME ENCHANTED EVENING",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "Make it With You",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "I'm Happy Just to Dance with You",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "SUMMER WIND",
-            "artist": "Harley"
         }
     ]
 }
