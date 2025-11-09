@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUBY BABY",
-        "artist": "Funtastic"
+        "title": "Love Of My Life",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "RUBY BABY",
+            "artist": "Funtastic"
+        },
         {
             "title": "Till There Was You",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "LULLABY OF BIRDLAND",
             "artist": "Harley"
-        },
-        {
-            "title": "GOT TO GIVE IT UP",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
