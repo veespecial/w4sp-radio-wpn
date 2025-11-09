@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU ARE EVERYTHING",
-        "artist": "STANDING PATT MUSIC"
+        "title": "ALL I'VE GOT TO DO",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "YOU ARE EVERYTHING",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIC MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "How Deep is Your Love",
-            "artist": "Harley Music"
         }
     ]
 }
