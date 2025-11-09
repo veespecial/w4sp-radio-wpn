@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWEET CLAIRE",
-        "artist": "Michael Strickland"
+        "title": "OLD OAK KNOLL",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "SWEET CLAIRE",
+            "artist": "Michael Strickland"
+        },
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T DREAM IT'S OVER",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "Heartbreak Hotel",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
