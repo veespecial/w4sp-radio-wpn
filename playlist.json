@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TROLLY CAR",
-        "artist": "Jennifer Ivester"
+        "title": "IF TOMORROW NEVER COMES",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "TROLLY CAR",
+            "artist": "Jennifer Ivester"
+        },
         {
             "title": "KRISTIANA",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "SAD SONGS SAY SO MUCH",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
