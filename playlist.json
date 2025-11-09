@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DESTINY",
-        "artist": "Nick Manson"
+        "title": "CAN WE TALK",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "DESTINY",
+            "artist": "Nick Manson"
+        },
         {
             "title": "HOW CAN YOU MEND A BROKEN HEART",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "Help Me",
             "artist": "Harley Music"
-        },
-        {
-            "title": "CORRINA CORRINA",
-            "artist": "Harley"
         }
     ]
 }
