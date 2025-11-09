@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Matter Of Time",
-        "artist": "Jerry Cortez"
+        "title": "SAVING ALL MY LOVE FOR YOU",
+        "artist": "NORTHPOINT"
     },
     "recent": [
+        {
+            "title": "Matter Of Time",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "STARDUST",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
-        },
-        {
-            "title": "Terpsichore",
-            "artist": "Dave Keenan"
         }
     ]
 }
