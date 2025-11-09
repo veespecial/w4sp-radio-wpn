@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOME ENCHANTED EVENING",
-        "artist": "Manasus Strings"
+        "title": "WHEN SUNNY GETS BLUE",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "SOME ENCHANTED EVENING",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "GOIN OUT OF MY HEAD",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
-            "artist": "JOHN GOFORTH"
         }
     ]
 }
