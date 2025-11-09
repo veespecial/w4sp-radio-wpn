@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BACK IN THE CHAIN GANG",
-        "artist": "Harley Brothers"
+        "title": "SOMETHING THAT WE DO",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "BACK IN THE CHAIN GANG",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "KRISTIANA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "Reflection",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
