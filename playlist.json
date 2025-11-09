@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOUL SHADOWS",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "Elfi's Tune",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "SOUL SHADOWS",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "CORRINA CORRINA",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "LIVELY UP YOURSELF",
-            "artist": "Tom Politzer"
         }
     ]
 }
