@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fast Car",
-        "artist": "Quistetts"
+        "title": "HOW MUCH I FEEL",
+        "artist": "CAMERON"
     },
     "recent": [
+        {
+            "title": "Fast Car",
+            "artist": "Quistetts"
+        },
         {
             "title": "Help Me",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "MY FUNNY VALENTINE",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "SMOOTH OPERATOR",
-            "artist": "Josephs Band"
         }
     ]
 }
