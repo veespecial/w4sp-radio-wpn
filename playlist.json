@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I DON'T WANNA BE ALONE",
-        "artist": "MOORE and BRENGLE"
+        "title": "WINDLESS",
+        "artist": "Michael Strickland"
     },
     "recent": [
+        {
+            "title": "I DON'T WANNA BE ALONE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "DON'T GO BREAKIN MY HEART",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "ANOTHER SAD LOVE SONG",
             "artist": "Mike Jaap"
-        },
-        {
-            "title": "TEARS FROM THE SUN",
-            "artist": "PASERO/SUZUKI-HAWAII"
         }
     ]
 }
