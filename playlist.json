@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAN I CHANGE MY MIND",
-        "artist": "Politzer/Withycombe"
+        "title": "QUEEN OF HEARTS",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "CAN I CHANGE MY MIND",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "Ain't Nothing Like the Real Thing",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Pickin Like Lee",
             "artist": "Michael Ranstrom"
-        },
-        {
-            "title": "BROWN EYED GIRL",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
