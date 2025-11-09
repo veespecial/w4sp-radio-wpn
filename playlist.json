@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Long Ago",
-        "artist": "Dave Keenan"
+        "title": "PROMISE AIN'T ENOUGH",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "Long Ago",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "ALL ROADS LEAD TO YOU",
             "artist": "Kevin Madill-Nashville"
@@ -39,10 +43,6 @@
         {
             "title": "JULIA",
             "artist": "North Point"
-        },
-        {
-            "title": "ALL I WANNA DO",
-            "artist": "Harley"
         }
     ]
 }
