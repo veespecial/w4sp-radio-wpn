@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LULLABY OF BIRDLAND",
-        "artist": "Harley"
+        "title": "TORN",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "LULLABY OF BIRDLAND",
+            "artist": "Harley"
+        },
         {
             "title": "GOT TO GIVE IT UP",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
-        },
-        {
-            "title": "Wait So Long",
-            "artist": "Dave Raynor"
         }
     ]
 }
