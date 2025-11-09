@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW KID AROUND",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "IT MAKES ME CRAZY",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "NEW KID AROUND",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "HERO",
             "artist": "JOHN GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "GIRL WITH A RED CARNATION",
             "artist": "Acoustic Alchemy"
-        },
-        {
-            "title": "YOU DON'T KNOW ME",
-            "artist": "Manasus Strings"
         }
     ]
 }
