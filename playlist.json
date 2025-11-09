@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BABYLON SISTERS",
-        "artist": "Tom Politzer"
+        "title": "Sweet Seasons",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "BABYLON SISTERS",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "Fast Car",
             "artist": "Quistetts"
@@ -39,10 +43,6 @@
         {
             "title": "Walton On Thames",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "Turn Turn Turn",
-            "artist": "John Morton"
         }
     ]
 }
