@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Until You Come Back To Me",
-        "artist": "Manson Music"
+        "title": "NEW YORK STATE OF MIND",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "Until You Come Back To Me",
+            "artist": "Manson Music"
+        },
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "I TURN TO YOU",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "Footprints",
-            "artist": "Melissa Siegel"
         }
     ]
 }
