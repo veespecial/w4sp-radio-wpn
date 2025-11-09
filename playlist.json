@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Black Cow",
-        "artist": "Andy Suzuki"
+        "title": "Tempted",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Black Cow",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "HEARD IT IN A LOVE SONG",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "COME RAIN OR COME SHINE",
-            "artist": "It's Lenny Moore"
         }
     ]
 }
