@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
-        "artist": "Tom Kellock"
+        "title": "SAD SONGS SAY SO MUCH",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "Earl's Tune",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "Changes",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "CUCHAMA",
-            "artist": "Govi"
         }
     ]
 }
