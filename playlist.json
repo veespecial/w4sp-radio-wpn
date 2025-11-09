@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "How Deep is Your Love",
-        "artist": "Harley Music"
+        "title": "Black Cow",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "How Deep is Your Love",
+            "artist": "Harley Music"
+        },
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "CUCHAMA",
             "artist": "Govi"
-        },
-        {
-            "title": "APRIL BLUES",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
