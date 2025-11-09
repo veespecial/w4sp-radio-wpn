@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAD SONGS SAY SO MUCH",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "SOME ENCHANTED EVENING",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "SAD SONGS SAY SO MUCH",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "DA DA",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
