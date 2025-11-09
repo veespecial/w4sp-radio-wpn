@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Pickin Like Lee",
-        "artist": "Michael Ranstrom"
+        "title": "TEARS FROM THE SUN",
+        "artist": "PASERO/SUZUKI-HAWAII"
     },
     "recent": [
+        {
+            "title": "Pickin Like Lee",
+            "artist": "Michael Ranstrom"
+        },
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "Nobody Does It Better",
-            "artist": "Tom Politzer"
         }
     ]
 }
