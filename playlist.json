@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WE'RE GONNA MAKE IT",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "MERCY MERCY ME",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "WE'RE GONNA MAKE IT",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "CUCHAMA",
             "artist": "Govi"
@@ -39,10 +43,6 @@
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "DON'T WANT (TO BE A FOOL)",
-            "artist": "LENNY MOORE"
         }
     ]
 }
