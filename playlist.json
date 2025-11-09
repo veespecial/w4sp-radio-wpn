@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Changes",
-        "artist": "Ray Kelley"
+        "title": "Sweet Seasons",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Changes",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "I Say a Little Prayer",
             "artist": "Harley Music"
-        },
-        {
-            "title": "TIL I HEAR IT FROM YOU",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
