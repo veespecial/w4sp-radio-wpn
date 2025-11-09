@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME RAIN OR COME SHINE",
-        "artist": "It's Lenny Moore"
+        "title": "Footprints",
+        "artist": "Melissa Siegel"
     },
     "recent": [
+        {
+            "title": "COME RAIN OR COME SHINE",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "Ain't Nothing Like the Real Thing",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "Day Dreaming",
-            "artist": "Harley Bros."
         }
     ]
 }
