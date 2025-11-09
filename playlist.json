@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Don't Let Me be Lonely Tonight",
-        "artist": "Harley Brothers"
+        "title": "WHAT DOES IT TAKE",
+        "artist": "JON GOFORTH"
     },
     "recent": [
+        {
+            "title": "Don't Let Me be Lonely Tonight",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "DELIVER ME FROM MY MIND",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "NEXT EVENT",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
