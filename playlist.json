@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SUNNY CAME HOME",
-        "artist": "MOORE and BRENGLE"
+        "title": "IN WONDER",
+        "artist": "Govi"
     },
     "recent": [
+        {
+            "title": "SUNNY CAME HOME",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "SOME ENCHANTED EVENING",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Kiss Me",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "I'm Happy Just to Dance with You",
-            "artist": "Disk Eyes London"
         }
     ]
 }
