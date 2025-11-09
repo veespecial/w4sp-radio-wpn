@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Millennium",
-        "artist": "Harley Brothers"
+        "title": "Beyond the Sea",
+        "artist": "Disk Eyes London"
     },
     "recent": [
+        {
+            "title": "Millennium",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Elfi's Tune",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "JUST THE TWO OF US",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
