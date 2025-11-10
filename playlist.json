@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Paramour",
-        "artist": "Dave Keenan"
+        "title": "DONE WITH PONAPARTE",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "Paramour",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "TORN",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "CHEHALIS",
-            "artist": "Eric Tingstad"
         }
     ]
 }
