@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BECAUSE YOU LOVED ME",
-        "artist": "North Point"
+        "title": "AFTER ALL",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "BECAUSE YOU LOVED ME",
+            "artist": "North Point"
+        },
         {
             "title": "Help Me",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "Life In Mono",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "LIFE IS BUT A DREAM",
-            "artist": "Devlin's Strings"
         }
     ]
 }
