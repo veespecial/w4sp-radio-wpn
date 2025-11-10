@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LULLABY OF BIRDLAND",
-        "artist": "Harley"
+        "title": "Long Ago",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "LULLABY OF BIRDLAND",
+            "artist": "Harley"
+        },
         {
             "title": "Vienna",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "BAD REPUTATION",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "QUEEN OF HEARTS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
