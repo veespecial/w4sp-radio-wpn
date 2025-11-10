@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Shooting Star",
-        "artist": "Dave Raynor"
+        "title": "CAN I CHANGE MY MIND",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "Shooting Star",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "Wahine",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "CUCHAMA",
             "artist": "Govi"
-        },
-        {
-            "title": "SOMETIME BRAZIL",
-            "artist": "Andy Suzuki"
         }
     ]
 }
