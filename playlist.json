@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIVELY UP YOURSELF",
-        "artist": "Tom Politzer"
+        "title": "YOU ARE EVERYTHING",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "LIVELY UP YOURSELF",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "Paramour",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
