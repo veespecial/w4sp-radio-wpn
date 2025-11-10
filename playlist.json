@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Favorite Mistake",
-        "artist": "Frank Josephs"
+        "title": "MIRACLES",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "My Favorite Mistake",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "JUST ONE WORD",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "IN WONDER",
             "artist": "Govi"
-        },
-        {
-            "title": "DON'T GO BREAKIN MY HEART",
-            "artist": "Devlin's Strings"
         }
     ]
 }
