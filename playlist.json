@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Life In Mono",
-        "artist": "Andy Suzuki"
+        "title": "I'LL NEVER FALL IN LOVE",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "Life In Mono",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "BACK IN THE CHAIN GANG",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "I Only Have Eyes for You",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "APPALACHIA CALLING",
-            "artist": "Eric Tingstad"
         }
     ]
 }
