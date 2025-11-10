@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THAT'S WHAT FRIENDS ARE FOR",
-        "artist": "North Point"
+        "title": "I GO TO EXTREMES",
+        "artist": "MANSON/MARROW/HALL"
     },
     "recent": [
+        {
+            "title": "THAT'S WHAT FRIENDS ARE FOR",
+            "artist": "North Point"
+        },
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "LITTLE MORE TIME WITH YOU",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "Sun King",
-            "artist": "San Francisco"
         }
     ]
 }
