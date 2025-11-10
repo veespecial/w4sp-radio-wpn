@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WANNA LOSE YOU",
-        "artist": "Curtis Brengle"
+        "title": "Fast Car",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "DON'T WANNA LOSE YOU",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "FAIR TOMORROW",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
-        },
-        {
-            "title": "Pickin Like Lee",
-            "artist": "Michael Ranstrom"
         }
     ]
 }
