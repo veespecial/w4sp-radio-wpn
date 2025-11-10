@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You're the Best Thing",
-        "artist": "DAVE PATT"
+        "title": "NEPTUNE",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "You're the Best Thing",
+            "artist": "DAVE PATT"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "I'M IN A PHILLY MOOD",
             "artist": "Mike Jaap"
-        },
-        {
-            "title": "STARDUST",
-            "artist": "LENNY MOORE"
         }
     ]
 }
