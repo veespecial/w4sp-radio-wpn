@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LAUGHTER IN THE RAIN",
-        "artist": "Nick Manson"
+        "title": "HOW CAN YOU MEND A BROKEN HEART",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "LAUGHTER IN THE RAIN",
+            "artist": "Nick Manson"
+        },
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "THIS MASQUERADE",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
