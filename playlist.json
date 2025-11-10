@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DONE WITH PONAPARTE",
-        "artist": "Moro-Eden"
+        "title": "BACK IN THE CHAIN GANG",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "DONE WITH PONAPARTE",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "I WANT TO THANK YOU",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "Every Kinda People",
-            "artist": "Harley Bros."
         }
     ]
 }
