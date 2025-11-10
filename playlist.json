@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DREAMBOAT ANNIE",
-        "artist": "CHAD STONE BAND"
+        "title": "TORN",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "DREAMBOAT ANNIE",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "I'M BEGINNING TO SEE THE LIGHT",
             "artist": "April Barrows"
@@ -39,10 +43,6 @@
         {
             "title": "STONED SOUL PICNIC",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "WHERE IS THE LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
