@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I SOLD MY HEART TO THE JUNKMAN",
-        "artist": "Jim Devlin"
+        "title": "MIRACLES",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "I SOLD MY HEART TO THE JUNKMAN",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "I Say a Little Prayer",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "Wahine",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "WHAT'S GOIN ON",
-            "artist": "Josephs Band"
         }
     ]
 }
