@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEVER CAN SAY GOODBYE",
-        "artist": "MOORE and BRENGLE"
+        "title": "CLOUDY",
+        "artist": "NORTHPOINT"
     },
     "recent": [
+        {
+            "title": "NEVER CAN SAY GOODBYE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "ALL ROADS LEAD TO YOU",
             "artist": "Kevin Madill-Nashville"
@@ -39,10 +43,6 @@
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "TEARS FROM THE SUN",
-            "artist": "PASERO/SUZUKI-HAWAII"
         }
     ]
 }
