@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BABYLON SISTERS",
-        "artist": "Tom Politzer"
+        "title": "EVERY BEAT OF MY HEART",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "BABYLON SISTERS",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "IT'S ALL ABOUT YOU",
             "artist": "FUNTASTIK"
-        },
-        {
-            "title": "CAN WE TALK",
-            "artist": "South Point"
         }
     ]
 }
