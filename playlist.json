@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "EARTH ANGERL (WILL YOU BE MINE)",
-        "artist": "MANSON STRINGS"
+        "title": "Wahine",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "EARTH ANGERL (WILL YOU BE MINE)",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "Carey",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "MY FUNNY VALENTINE",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "HOT SAUCE",
-            "artist": "Eric Tingstad"
         }
     ]
 }
