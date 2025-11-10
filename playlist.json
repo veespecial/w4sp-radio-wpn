@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wait So Long",
-        "artist": "Dave Raynor"
+        "title": "ALL I WANNA DO",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "Wait So Long",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "AFTER ALL",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "EVERY BEAT OF MY HEART",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
