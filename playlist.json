@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DELIVER ME FROM MY MIND",
-        "artist": "Andy Suzuki"
+        "title": "WINDLESS",
+        "artist": "Michael Strickland"
     },
     "recent": [
+        {
+            "title": "DELIVER ME FROM MY MIND",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "DA DA",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "ALL I'VE GOT TO DO",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "DIXIE MOON",
-            "artist": "LENNY MOORE"
         }
     ]
 }
