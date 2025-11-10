@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CLOUDY",
-        "artist": "NORTHPOINT"
+        "title": "DA DA",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "CLOUDY",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "WORLD I KNOW",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "LAUGHTER IN THE RAIN",
-            "artist": "Nick Manson"
         }
     ]
 }
