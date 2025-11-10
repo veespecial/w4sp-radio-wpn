@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL NEVER FALL IN LOVE",
-        "artist": "Andre Mayeux"
+        "title": "Samsonite Waltz",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "I'LL NEVER FALL IN LOVE",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "Life In Mono",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "MY FUNNY VALENTINE",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "I Only Have Eyes for You",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
