@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Heaven On A Sunday",
-        "artist": "John Morton"
+        "title": "GAUCHO",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "Heaven On A Sunday",
+            "artist": "John Morton"
+        },
         {
             "title": "Wait So Long",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "MERCY MERCY ME",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "TO LOVE YOU MORE",
-            "artist": "Frank Josephs"
         }
     ]
 }
