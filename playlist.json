@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STONED SOUL PICNIC",
-        "artist": "Daniel Ho"
+        "title": "GREEN FLOWER STREET",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "STONED SOUL PICNIC",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "SILVER SPRINGS",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "BECAUSE YOU LOVED ME",
             "artist": "North Point"
-        },
-        {
-            "title": "Help Me",
-            "artist": "Harley Music"
         }
     ]
 }
