@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Matter Of Time",
-        "artist": "Jerry Cortez"
+        "title": "WHAT'S GOIN ON",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "Matter Of Time",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "Changes",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "HALF A MINUTE",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
