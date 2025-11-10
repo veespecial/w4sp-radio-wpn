@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME RAIN OR COME SHINE",
-        "artist": "It's Lenny Moore"
+        "title": "CAN WE TALK",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "COME RAIN OR COME SHINE",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "Until You Come Back To Me",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "Make it With You",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "BEWILDERED",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
