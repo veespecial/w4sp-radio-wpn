@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GAUCHO",
-        "artist": "North Point"
+        "title": "SOMEWHERE IN THE WORLD",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "GAUCHO",
+            "artist": "North Point"
+        },
         {
             "title": "Heaven On A Sunday",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "BACK STABBERS",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "MERCY MERCY ME",
-            "artist": "Tom Kellock"
         }
     ]
 }
