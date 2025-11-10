@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
-        "artist": "Disk Eyes S.F."
+        "title": "SAVING ALL MY LOVE FOR YOU",
+        "artist": "NORTHPOINT"
     },
     "recent": [
+        {
+            "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
+            "artist": "Disk Eyes S.F."
+        },
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANUSUS/KEEFER"
@@ -39,10 +43,6 @@
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "MIDNIGHT TRAIN TO GEORGIA",
-            "artist": "Daniel Ho"
         }
     ]
 }
