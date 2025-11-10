@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THESE DREAMS",
-        "artist": "Curtis Brengle"
+        "title": "GIRL WITH A RED CARNATION",
+        "artist": "Acoustic Alchemy"
     },
     "recent": [
+        {
+            "title": "THESE DREAMS",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "DINDI",
-            "artist": "LENNY MOORE"
         }
     ]
 }
