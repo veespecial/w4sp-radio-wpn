@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T GO BREAKIN MY HEART",
-        "artist": "Devlin's Strings"
+        "title": "IN WONDER",
+        "artist": "Govi"
     },
     "recent": [
+        {
+            "title": "DON'T GO BREAKIN MY HEART",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "Turn Turn Turn",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
-        },
-        {
-            "title": "SACRIFICE",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
