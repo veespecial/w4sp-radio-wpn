@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TORN",
-        "artist": "Harley Music"
+        "title": "Paramour",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "TORN",
+            "artist": "Harley Music"
+        },
         {
             "title": "DREAMBOAT ANNIE",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "STONED SOUL PICNIC",
-            "artist": "Daniel Ho"
         }
     ]
 }
