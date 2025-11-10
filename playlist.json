@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WILL",
-        "artist": "Josephs Band"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "I WILL",
+            "artist": "Josephs Band"
+        },
         {
             "title": "KRISTIANA",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "Paramour",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "TORN",
-            "artist": "Harley Music"
         }
     ]
 }
