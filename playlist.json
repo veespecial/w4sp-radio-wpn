@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT'S GOIN ON",
-        "artist": "Josephs Band"
+        "title": "LOVE WILL CONQUER ALL",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "WHAT'S GOIN ON",
+            "artist": "Josephs Band"
+        },
         {
             "title": "Matter Of Time",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "WHEN SUNNY GETS BLUE",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "Changes",
-            "artist": "Ray Kelley"
         }
     ]
 }
