@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR SECRET LOVE",
-        "artist": "Frank Josephs"
+        "title": "CORRINA CORRINA",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "YOUR SECRET LOVE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "DA DA",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "TROPIC OF CAPRICORN",
             "artist": "South Point"
-        },
-        {
-            "title": "CRAZY LITTLE THING CALLED LOVE",
-            "artist": "Harley Brothers"
         }
     ]
 }
