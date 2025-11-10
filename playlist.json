@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WEST AGAIN",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "HAKUNA MATATA",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "WEST AGAIN",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "Don't Let Me be Lonely Tonight",
-            "artist": "Harley Brothers"
         }
     ]
 }
