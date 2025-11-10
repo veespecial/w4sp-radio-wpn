@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Day Dreaming",
-        "artist": "Harley Bros."
+        "title": "JUST THE TWO OF US",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "Day Dreaming",
+            "artist": "Harley Bros."
+        },
         {
             "title": "HEY GIRL",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "HOW CAN YOU MEND A BROKEN HEART",
-            "artist": "Moro-Eden"
         }
     ]
 }
