@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "After the Love Has Gone",
-        "artist": "Harley Music"
+        "title": "Elfi's Tune",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "After the Love Has Gone",
+            "artist": "Harley Music"
+        },
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "THE FINER THINGS",
-            "artist": "DAVE DYSART"
         }
     ]
 }
