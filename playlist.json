@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'm Happy Just to Dance with You",
-        "artist": "Disk Eyes London"
+        "title": "Always Yours",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "I'm Happy Just to Dance with You",
+            "artist": "Disk Eyes London"
+        },
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "HOW MUCH I FEEL",
             "artist": "CAMERON"
-        },
-        {
-            "title": "I GOTTA RUN",
-            "artist": "John Morton"
         }
     ]
 }
