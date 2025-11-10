@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DROWNING IN YOUR TEARS",
-        "artist": "FUNTASTIC MUSIC"
+        "title": "WELCOME TO MY WORLD",
+        "artist": "Kevin Madill-Nashville"
     },
     "recent": [
+        {
+            "title": "DROWNING IN YOUR TEARS",
+            "artist": "FUNTASTIC MUSIC"
+        },
         {
             "title": "GIVING YOU THE BEST THAT I GOT",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "SUNNY CAME HOME",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "Terpsichore",
-            "artist": "Dave Keenan"
         }
     ]
 }
