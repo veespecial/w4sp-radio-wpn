@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BACK IN THE CHAIN GANG",
-        "artist": "Harley Brothers"
+        "title": "Life In Mono",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "BACK IN THE CHAIN GANG",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "APPALACHIA CALLING",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "WELCOME TO MY WORLD",
-            "artist": "Kevin Madill-Nashville"
         }
     ]
 }
