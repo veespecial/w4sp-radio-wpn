@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOMETIME BRAZIL",
-        "artist": "Andy Suzuki"
+        "title": "SACRIFICE",
+        "artist": "MANSON/MARROW/HALL"
     },
     "recent": [
+        {
+            "title": "SOMETIME BRAZIL",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "BACK IN THE CHAIN GANG",
-            "artist": "Harley Brothers"
         }
     ]
 }
