@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Don't Let Me be Lonely Tonight",
-        "artist": "Harley Brothers"
+        "title": "YOU'RE THE INSPIRATION",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "Don't Let Me be Lonely Tonight",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
@@ -39,10 +43,6 @@
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
-        },
-        {
-            "title": "You are the Sunshine of My Life",
-            "artist": "Harley Music"
         }
     ]
 }
