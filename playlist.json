@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Yesterday",
-        "artist": "Josephs Band"
+        "title": "Footprints",
+        "artist": "Melissa Siegel"
     },
     "recent": [
+        {
+            "title": "Yesterday",
+            "artist": "Josephs Band"
+        },
         {
             "title": "CAN WE TALK",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "THESE DREAMS",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "QUEEN OF HEARTS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
