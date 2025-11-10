@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Louise",
-        "artist": "Dave Raynor"
+        "title": "SHAKE AND BAKE",
+        "artist": "Newhall Collective"
     },
     "recent": [
+        {
+            "title": "Louise",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "GOT TO GIVE IT UP",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "CAN I CHANGE MY MIND",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "FEEL LIKE MAKIN' LOVE",
-            "artist": "Nick Manson"
         }
     ]
 }
