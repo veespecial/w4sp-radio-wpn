@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ONSTREAM",
-        "artist": "Frank Joseph's Group"
+        "title": "YOUNG ENOUGH TO KNOW",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "ONSTREAM",
+            "artist": "Frank Joseph's Group"
+        },
         {
             "title": "EVERY BEAT OF MY HEART",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "GOT TO GIVE IT UP",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "JO JO",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
