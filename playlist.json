@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JUST ONE WORD",
-        "artist": "Harley Bros."
+        "title": "DON'T WANT (TO BE A FOOL)",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "JUST ONE WORD",
+            "artist": "Harley Bros."
+        },
         {
             "title": "Alison",
             "artist": "Quistetts"
@@ -39,10 +43,6 @@
         {
             "title": "IT MAKES ME CRAZY",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "Long Ago",
-            "artist": "Dave Keenan"
         }
     ]
 }
