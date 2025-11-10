@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CORRINA CORRINA",
-        "artist": "Harley"
+        "title": "BROWN EYED GIRL",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "CORRINA CORRINA",
+            "artist": "Harley"
+        },
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "I Go Crazy",
             "artist": "David Patt"
-        },
-        {
-            "title": "TROPIC OF CAPRICORN",
-            "artist": "South Point"
         }
     ]
 }
