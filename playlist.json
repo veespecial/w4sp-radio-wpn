@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Poor Side Of Town",
-        "artist": "Crescenta Valley Boys"
+        "title": "I WANT TO THANK YOU",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "Poor Side Of Town",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "MY FUNNY VALENTINE",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "JUST ONE WORD",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Alison",
-            "artist": "Quistetts"
         }
     ]
 }
