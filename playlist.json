@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STUBBORN KIND OF FELLOW",
-        "artist": "Crescenta Valley Boys"
+        "title": "YOUR SECRET LOVE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "STUBBORN KIND OF FELLOW",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "WHEN SUNNY GETS BLUE",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "JUST THE TWO OF US",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "LULLABY OF BIRDLAND",
-            "artist": "Harley"
         }
     ]
 }
