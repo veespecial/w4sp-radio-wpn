@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WINDLESS",
-        "artist": "Michael Strickland"
+        "title": "HEARD IT IN A LOVE SONG",
+        "artist": "DUKE OF MORTON"
     },
     "recent": [
+        {
+            "title": "WINDLESS",
+            "artist": "Michael Strickland"
+        },
         {
             "title": "DELIVER ME FROM MY MIND",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "CUCHAMA",
             "artist": "Govi"
-        },
-        {
-            "title": "ALL I'VE GOT TO DO",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
