@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WEST AGAIN",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "I'M BEGINNING TO SEE THE LIGHT",
+        "artist": "April Barrows"
     },
     "recent": [
+        {
+            "title": "WEST AGAIN",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "MY FUNNY VALENTINE",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Beyond the Sea",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "Walton On Thames",
-            "artist": "Jerry Cortez"
         }
     ]
 }
