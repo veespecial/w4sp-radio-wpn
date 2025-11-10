@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tears In Heaven",
-        "artist": "Crescenta Valley Boys"
+        "title": "NORWEGAIN WOOD",
+        "artist": "DUKE OF MORTON"
     },
     "recent": [
+        {
+            "title": "Tears In Heaven",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "How Sweet it is",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "Shooting Star",
-            "artist": "Dave Raynor"
         }
     ]
 }
