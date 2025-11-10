@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JULIA",
-        "artist": "North Point"
+        "title": "You're the Best Thing",
+        "artist": "DAVE PATT"
     },
     "recent": [
+        {
+            "title": "JULIA",
+            "artist": "North Point"
+        },
         {
             "title": "I Go Crazy",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "MAGNOLIA",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "APRIL BLUES",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
