@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WORLD I KNOW",
-        "artist": "Harley Brothers"
+        "title": "DIXIE MOON",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "WORLD I KNOW",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "LOVE WILL CONQUER ALL",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "WHAT'S GOIN ON",
-            "artist": "Josephs Band"
         }
     ]
 }
