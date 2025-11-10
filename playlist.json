@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Changes",
-        "artist": "Ray Kelley"
+        "title": "WHEN SUNNY GETS BLUE",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "Changes",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "GOOD LIFE",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "YOU ARE EVERYTHING",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
