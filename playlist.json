@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAY YOU LOVE ME",
-        "artist": "Josephs Band"
+        "title": "Paramour",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "SAY YOU LOVE ME",
+            "artist": "Josephs Band"
+        },
         {
             "title": "BLUE BOSSA",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "CAN WE TALK",
             "artist": "South Point"
-        },
-        {
-            "title": "Reflection",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
