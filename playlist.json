@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Life In Mono",
-        "artist": "Andy Suzuki"
+        "title": "I Go Crazy",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "Life In Mono",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "APPALACHIA CALLING",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "BLUE BOSSA",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "SAD SONGS SAY SO MUCH",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
