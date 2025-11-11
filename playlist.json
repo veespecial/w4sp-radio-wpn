@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IT'S ALL ABOUT YOU",
-        "artist": "FUNTASTIK"
+        "title": "CAN I CHANGE MY MIND",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "IT'S ALL ABOUT YOU",
+            "artist": "FUNTASTIK"
+        },
         {
             "title": "OLD OAK KNOLL",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "Millennium",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "HAKUNA MATATA",
-            "artist": "Josephs Band"
         }
     ]
 }
