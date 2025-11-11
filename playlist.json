@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IN A DAYDREAM",
-        "artist": "Crescenta Valley Boys"
+        "title": "TROLLY CAR",
+        "artist": "Jennifer Ivester"
     },
     "recent": [
+        {
+            "title": "IN A DAYDREAM",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "Kiss Me",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "APPALACHIA CALLING",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
-            "artist": "CAMERON"
         }
     ]
 }
