@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I CAN LOVE YOU LIKE THAT",
-        "artist": "TOMMY/BRIAN"
+        "title": "Heaven On A Sunday",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "I CAN LOVE YOU LIKE THAT",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
             "artist": "JOHN GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "EVERY BEAT OF MY HEART",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "NEVER ENDING SONG OF LOVE",
-            "artist": "DUKE OF MORTON"
         }
     ]
 }
