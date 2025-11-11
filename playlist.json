@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Shooting Star",
-        "artist": "Dave Raynor"
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "Shooting Star",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "THESE DREAMS",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "MAGNOLIA",
-            "artist": "Eric Tingstad"
         }
     ]
 }
