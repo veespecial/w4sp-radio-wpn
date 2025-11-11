@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MORE THAN THIS",
-        "artist": "Disk Eyes S.F."
+        "title": "BACK IN THE CHAIN GANG",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "MORE THAN THIS",
+            "artist": "Disk Eyes S.F."
+        },
         {
             "title": "Always Yours",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "BABYLON SISTERS",
-            "artist": "Tom Politzer"
         }
     ]
 }
