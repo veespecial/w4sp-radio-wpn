@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TIL I HEAR IT FROM YOU",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "Jo Jo",
+        "artist": "Quist"
     },
     "recent": [
+        {
+            "title": "TIL I HEAR IT FROM YOU",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
-            "artist": "JOHN GOFORTH"
         }
     ]
 }
