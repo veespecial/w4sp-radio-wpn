@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You're the Best Thing",
-        "artist": "DAVE PATT"
+        "title": "GIMME LITTLE SIGN",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "You're the Best Thing",
+            "artist": "DAVE PATT"
+        },
         {
             "title": "NEXT EVENT",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "Pickin Like Lee",
             "artist": "Michael Ranstrom"
-        },
-        {
-            "title": "Wait So Long",
-            "artist": "Dave Raynor"
         }
     ]
 }
