@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOT TO GIVE IT UP",
-        "artist": "STANDING PATT MUSIC"
+        "title": "Nobody Does It Better",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "GOT TO GIVE IT UP",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "Make it With You",
-            "artist": "Daniel Ho"
         }
     ]
 }
