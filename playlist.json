@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DESAFINADO",
-        "artist": "BRAD ALLISON"
+        "title": "Sun King",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "DESAFINADO",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "Tempted",
-            "artist": "Harley Bros."
         }
     ]
 }
