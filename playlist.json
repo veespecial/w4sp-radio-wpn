@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT DOES IT TAKE",
-        "artist": "JON GOFORTH"
+        "title": "IF WE FALL IN LOVE AGAIN",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "WHAT DOES IT TAKE",
+            "artist": "JON GOFORTH"
+        },
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "Elfi's Tune",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "GOOD LIFE",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
