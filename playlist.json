@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RAIN AND SHINE",
-        "artist": "Jennifer Ivester"
+        "title": "THAT'S WHAT FRIENDS ARE FOR",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "RAIN AND SHINE",
+            "artist": "Jennifer Ivester"
+        },
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "NEPTUNE",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "Claudette",
-            "artist": "Disk Eyes London"
         }
     ]
 }
