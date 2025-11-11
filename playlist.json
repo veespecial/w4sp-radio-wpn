@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOMETHING THAT WE DO",
-        "artist": "Harley Music"
+        "title": "APRIL BLUES",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "SOMETHING THAT WE DO",
+            "artist": "Harley Music"
+        },
         {
             "title": "DON'T GO BREAKIN MY HEART",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Fast Car",
             "artist": "Quistetts"
-        },
-        {
-            "title": "Heartbreak Hotel",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
