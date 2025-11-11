@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUBY BABY",
-        "artist": "Funtastic"
+        "title": "THANK YOU",
+        "artist": "Disk Eyes S.F."
     },
     "recent": [
+        {
+            "title": "RUBY BABY",
+            "artist": "Funtastic"
+        },
         {
             "title": "FOOLISH HEART",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "YOU DON'T KNOW ME",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "You Make Lovin' Fun",
-            "artist": "Harley Bros."
         }
     ]
 }
