@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WORLD I KNOW",
-        "artist": "Harley Brothers"
+        "title": "MERCY MERCY ME",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "WORLD I KNOW",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "Ain't Nothing Like the Real Thing",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "GAUCHO",
-            "artist": "North Point"
         }
     ]
 }
