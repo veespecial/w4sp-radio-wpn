@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
-        "artist": "Disk Eyes S.F."
+        "title": "Earl's Tune",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
+            "artist": "Disk Eyes S.F."
+        },
         {
             "title": "WELCOME TO MY WORLD",
             "artist": "Kevin Madill-Nashville"
@@ -39,10 +43,6 @@
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "DON'T ASK MY NEIGHBOR",
-            "artist": "STRINGS BY ANDY"
         }
     ]
 }
