@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF TOMORROW NEVER COMES",
-        "artist": "Josephs Band"
+        "title": "CUCHAMA",
+        "artist": "Govi"
     },
     "recent": [
+        {
+            "title": "IF TOMORROW NEVER COMES",
+            "artist": "Josephs Band"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "MORE THAN THIS",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "QUIEREME MUCHO",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
