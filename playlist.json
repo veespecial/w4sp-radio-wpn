@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MAGNOLIA",
-        "artist": "Eric Tingstad"
+        "title": "HALF A MINUTE",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "MAGNOLIA",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "SILVER SPRINGS",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "CORRINA CORRINA",
             "artist": "Harley"
-        },
-        {
-            "title": "MIDNIGHT TRAIN TO GEORGIA",
-            "artist": "Daniel Ho"
         }
     ]
 }
