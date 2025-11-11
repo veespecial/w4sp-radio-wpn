@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIRL WITH A RED CARNATION",
-        "artist": "Acoustic Alchemy"
+        "title": "Tears In Heaven",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "GIRL WITH A RED CARNATION",
+            "artist": "Acoustic Alchemy"
+        },
         {
             "title": "SOME ENCHANTED EVENING",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "HOW CAN YOU MEND A BROKEN HEART",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "BECAUSE YOU LOVED ME",
-            "artist": "North Point"
         }
     ]
 }
