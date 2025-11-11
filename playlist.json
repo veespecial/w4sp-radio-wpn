@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Elfi's Tune",
-        "artist": "Dave Raynor"
+        "title": "Wahine",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "Elfi's Tune",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "GOOD LIFE",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "(WILL YOU) COME BACK MY LOVE",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "IF TOMORROW NEVER COMES",
-            "artist": "Josephs Band"
         }
     ]
 }
