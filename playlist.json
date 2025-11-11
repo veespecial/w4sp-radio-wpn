@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHEN SUNNY GETS BLUE",
-        "artist": "BRAD ALLISON"
+        "title": "DIAMOND DUST",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "WHEN SUNNY GETS BLUE",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "Heaven On A Sunday",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "IN WONDER",
             "artist": "Govi"
-        },
-        {
-            "title": "WHAT DOES IT TAKE",
-            "artist": "JON GOFORTH"
         }
     ]
 }
