@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DROWNING IN YOUR TEARS",
-        "artist": "FUNTASTIC MUSIC"
+        "title": "WHENEVER YOU'RE ON MY MIND",
+        "artist": "Clair Marlo"
     },
     "recent": [
+        {
+            "title": "DROWNING IN YOUR TEARS",
+            "artist": "FUNTASTIC MUSIC"
+        },
         {
             "title": "WHAT'S NEW",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "WORLD I KNOW",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "SOMETIME BRAZIL",
-            "artist": "Andy Suzuki"
         }
     ]
 }
