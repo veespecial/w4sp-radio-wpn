@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Claudette",
-        "artist": "Disk Eyes London"
+        "title": "Harvest for the World",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Claudette",
+            "artist": "Disk Eyes London"
+        },
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "TROLLY CAR",
             "artist": "Jennifer Ivester"
-        },
-        {
-            "title": "RUBY BABY",
-            "artist": "Funtastic"
         }
     ]
 }
