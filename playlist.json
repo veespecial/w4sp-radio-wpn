@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AIN'T MISBEHAVIN",
-        "artist": "BRAD ALLISON"
+        "title": "BABYLON SISTERS",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "AIN'T MISBEHAVIN",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WANT (TO BE A FOOL)",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "CAN I CHANGE MY MIND",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
