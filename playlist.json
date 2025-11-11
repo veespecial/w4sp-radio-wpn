@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE WARMTH OF THE SUN",
-        "artist": "MANUSUS/KEEFER"
+        "title": "TO LOVE YOU MORE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "THE WARMTH OF THE SUN",
+            "artist": "MANUSUS/KEEFER"
+        },
         {
             "title": "JUST THE TWO OF US",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "IT MAKES ME CRAZY",
-            "artist": "Nick Manson"
         }
     ]
 }
