@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Pickin Like Lee",
-        "artist": "Michael Ranstrom"
+        "title": "Louise",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "Pickin Like Lee",
+            "artist": "Michael Ranstrom"
+        },
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "AIN'T MISBEHAVIN",
-            "artist": "BRAD ALLISON"
         }
     ]
 }
