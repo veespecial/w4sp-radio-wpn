@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAN WE TALK",
-        "artist": "South Point"
+        "title": "WHEN SUNNY GETS BLUE",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "CAN WE TALK",
+            "artist": "South Point"
+        },
         {
             "title": "THAT'S WHAT FRIENDS ARE FOR",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
-        },
-        {
-            "title": "Heaven On A Sunday",
-            "artist": "John Morton"
         }
     ]
 }
