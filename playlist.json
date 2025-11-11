@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME RAIN OR COME SHINE",
-        "artist": "It's Lenny Moore"
+        "title": "CHAIN LIGHTNING",
+        "artist": "Tom Politzer 93"
     },
     "recent": [
+        {
+            "title": "COME RAIN OR COME SHINE",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "YOU DON'T KNOW ME",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "WHAT DOES IT TAKE",
-            "artist": "JON GOFORTH"
         }
     ]
 }
