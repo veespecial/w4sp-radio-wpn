@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Life In Mono",
-        "artist": "Andy Suzuki"
+        "title": "STONED SOUL PICNIC",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "Life In Mono",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "CHAIN LIGHTNING",
             "artist": "Tom Politzer 93"
@@ -39,10 +43,6 @@
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "DREAMBOAT ANNIE",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
