@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CUCHAMA",
-        "artist": "Govi"
+        "title": "Reflection",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "CUCHAMA",
+            "artist": "Govi"
+        },
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "I DON'T WANNA BE ALONE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "HERE'S THAT RAINY DAY",
-            "artist": "Nick Manson"
         }
     ]
 }
