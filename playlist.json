@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR'E NO GOOD",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "GOT TO GIVE IT UP",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "YOUR'E NO GOOD",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "I WANT TO THANK YOU",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Make it With You",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "I'm Happy Just to Dance with You",
-            "artist": "Disk Eyes London"
         }
     ]
 }
