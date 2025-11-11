@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WANT (TO BE A FOOL)",
-        "artist": "LENNY MOORE"
+        "title": "I'LL BE OVER YOU",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "DON'T WANT (TO BE A FOOL)",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "CAN I CHANGE MY MIND",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "SAY YOU LOVE ME",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "DON'T WORRY BABY",
-            "artist": "Tom Kellock"
         }
     ]
 }
