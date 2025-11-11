@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Just Like This Train",
-        "artist": "San Francisco"
+        "title": "ALIEN",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "Just Like This Train",
+            "artist": "San Francisco"
+        },
         {
             "title": "MERCY MERCY ME",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "QUIEREME MUCHO",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "STARDUST",
-            "artist": "LENNY MOORE"
         }
     ]
 }
