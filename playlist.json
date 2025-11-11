@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NORWEGAIN WOOD",
-        "artist": "DUKE OF MORTON"
+        "title": "Harvest for the World",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "NORWEGAIN WOOD",
+            "artist": "DUKE OF MORTON"
+        },
         {
             "title": "I'LL BE OVER YOU",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "TIL I HEAR IT FROM YOU",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "APRIL BLUES",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
