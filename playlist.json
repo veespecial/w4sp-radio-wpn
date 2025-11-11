@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LITTLE MORE TIME WITH YOU",
-        "artist": "Andre Mayeux"
+        "title": "SACRIFICE",
+        "artist": "MANSON/MARROW/HALL"
     },
     "recent": [
+        {
+            "title": "LITTLE MORE TIME WITH YOU",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "MORE THAN THIS",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIC MUSIC"
-        },
-        {
-            "title": "DONE WITH PONAPARTE",
-            "artist": "Moro-Eden"
         }
     ]
 }
