@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T DREAM IT'S OVER",
-        "artist": "Andre Mayeux"
+        "title": "COME FLY WITH ME",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "DON'T DREAM IT'S OVER",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "Until You Come Back To Me",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "HEARD IT IN A LOVE SONG",
-            "artist": "DUKE OF MORTON"
         }
     ]
 }
