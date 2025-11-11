@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Matter Of Time",
-        "artist": "Jerry Cortez"
+        "title": "DON'T WANNA LOSE YOU",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "Matter Of Time",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "Life In Mono",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "APPALACHIA CALLING",
-            "artist": "Eric Tingstad"
         }
     ]
 }
