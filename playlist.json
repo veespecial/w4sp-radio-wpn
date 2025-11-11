@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tempted",
-        "artist": "Harley Bros."
+        "title": "My Favorite Mistake",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "Tempted",
+            "artist": "Harley Bros."
+        },
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "Claudette",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "BAD SNEAKERS",
-            "artist": "LENNY MOORE"
         }
     ]
 }
