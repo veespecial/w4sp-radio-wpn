@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MERCY MERCY ME",
-        "artist": "Tom Kellock"
+        "title": "Just Like This Train",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "MERCY MERCY ME",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "CHAIN LIGHTNING",
             "artist": "Tom Politzer 93"
@@ -39,10 +43,6 @@
         {
             "title": "STARDUST",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "I WANT TO THANK YOU",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
