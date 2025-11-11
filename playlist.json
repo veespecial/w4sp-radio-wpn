@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THAT'S WHAT FRIENDS ARE FOR",
-        "artist": "North Point"
+        "title": "CAN WE TALK",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "THAT'S WHAT FRIENDS ARE FOR",
+            "artist": "North Point"
+        },
         {
             "title": "RAIN AND SHINE",
             "artist": "Jennifer Ivester"
@@ -39,10 +43,6 @@
         {
             "title": "Heaven On A Sunday",
             "artist": "John Morton"
-        },
-        {
-            "title": "NEPTUNE",
-            "artist": "Andy Suzuki"
         }
     ]
 }
