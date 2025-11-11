@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ONCE AND FUTURE",
-        "artist": "Newhall Collective"
+        "title": "Reflection",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "ONCE AND FUTURE",
+            "artist": "Newhall Collective"
+        },
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "LIVELY UP YOURSELF",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "How Sweet it is",
-            "artist": "Harley Music"
         }
     ]
 }
