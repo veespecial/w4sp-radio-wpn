@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
-        "artist": "JOHN GOFORTH"
+        "title": "I CAN LOVE YOU LIKE THAT",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
+            "artist": "JOHN GOFORTH"
+        },
         {
             "title": "ALIEN",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "NEVER ENDING SONG OF LOVE",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "I TURN TO YOU",
-            "artist": "Daniel Ho"
         }
     ]
 }
