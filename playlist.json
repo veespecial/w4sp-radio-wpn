@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MERCY MERCY ME",
-        "artist": "Tom Kellock"
+        "title": "JUST THE TWO OF US",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "MERCY MERCY ME",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "WORLD I KNOW",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "TORN",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Ain't Nothing Like the Real Thing",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
