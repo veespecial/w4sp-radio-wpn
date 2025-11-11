@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WILD AND FREE",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "BEWILDERED",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "WILD AND FREE",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "SUNNY CAME HOME",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "RAIN AND SHINE",
             "artist": "Jennifer Ivester"
-        },
-        {
-            "title": "SAD SONGS SAY SO MUCH",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
