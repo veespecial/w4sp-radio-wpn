@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLUE BOSSA",
-        "artist": "BRAD ALLISON"
+        "title": "SAY YOU LOVE ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "BLUE BOSSA",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "Reflection",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "CUCHAMA",
-            "artist": "Govi"
         }
     ]
 }
