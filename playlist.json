@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "EVERY BEAT OF MY HEART",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "WHAT DOES IT TAKE",
+        "artist": "JON GOFORTH"
     },
     "recent": [
+        {
+            "title": "EVERY BEAT OF MY HEART",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "NEVER ENDING SONG OF LOVE",
             "artist": "DUKE OF MORTON"
@@ -39,10 +43,6 @@
         {
             "title": "GOT TO GIVE IT UP",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "SAVING ALL MY LOVE FOR YOU",
-            "artist": "NORTHPOINT"
         }
     ]
 }
