@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOOD LIFE",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Elfi's Tune",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "GOOD LIFE",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "IF TOMORROW NEVER COMES",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "WHENEVER YOU'RE ON MY MIND",
-            "artist": "Clair Marlo"
         }
     ]
 }
