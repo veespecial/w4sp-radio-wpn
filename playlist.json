@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AFTER ALL",
-        "artist": "Nick Manson"
+        "title": "BROWN EYED GIRL",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "AFTER ALL",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Yesterday",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "ALL I'VE GOT TO DO",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "Fool on the Hill",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
