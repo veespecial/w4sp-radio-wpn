@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SMOOTH OPERATOR",
-        "artist": "Josephs Band"
+        "title": "TEARS FROM THE SUN",
+        "artist": "PASERO/SUZUKI-HAWAII"
     },
     "recent": [
+        {
+            "title": "SMOOTH OPERATOR",
+            "artist": "Josephs Band"
+        },
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "ALIEN",
             "artist": "Funtastic"
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
