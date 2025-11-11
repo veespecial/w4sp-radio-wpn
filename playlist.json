@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEARD IT IN A LOVE SONG",
-        "artist": "DUKE OF MORTON"
+        "title": "GOIN OUT OF MY HEAD",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "HEARD IT IN A LOVE SONG",
+            "artist": "DUKE OF MORTON"
+        },
         {
             "title": "KRISTIANA",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "STONED SOUL PICNIC",
-            "artist": "Daniel Ho"
         }
     ]
 }
