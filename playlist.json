@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WANT TO THANK YOU",
-        "artist": "MANASUS MUSIC"
+        "title": "YOUR'E NO GOOD",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "I WANT TO THANK YOU",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "HEY GIRL",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "I'm Happy Just to Dance with You",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "I GOTTA RUN",
-            "artist": "John Morton"
         }
     ]
 }
