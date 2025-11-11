@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BROWN EYED GIRL",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "My Ever Changing Moods",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "BROWN EYED GIRL",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "AFTER ALL",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "Walk On By",
             "artist": "Manson Music"
-        },
-        {
-            "title": "ALL I'VE GOT TO DO",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
