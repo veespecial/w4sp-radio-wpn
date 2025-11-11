@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T ASK MY NEIGHBOR",
-        "artist": "STRINGS BY ANDY"
+        "title": "CHEHALIS",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "DON'T ASK MY NEIGHBOR",
+            "artist": "STRINGS BY ANDY"
+        },
         {
             "title": "APRIL BLUES",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T DREAM IT'S OVER",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "Until You Come Back To Me",
-            "artist": "Manson Music"
         }
     ]
 }
