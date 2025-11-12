@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
-        "artist": "CAMERON"
+        "title": "SILVER SPRINGS",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
+            "artist": "CAMERON"
+        },
         {
             "title": "Always Yours",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "WHEN SUNNY GETS BLUE",
-            "artist": "BRAD ALLISON"
         }
     ]
 }
