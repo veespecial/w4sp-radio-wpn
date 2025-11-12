@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'M BEGINNING TO SEE THE LIGHT",
-        "artist": "April Barrows"
+        "title": "TEARS FROM THE SUN",
+        "artist": "PASERO/SUZUKI-HAWAII"
     },
     "recent": [
+        {
+            "title": "I'M BEGINNING TO SEE THE LIGHT",
+            "artist": "April Barrows"
+        },
         {
             "title": "Turn Turn Turn",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "Kiss Me",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "BODY AND SOUL",
-            "artist": "DAVE DYSART"
         }
     ]
 }
