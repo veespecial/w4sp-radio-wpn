@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "After the Love Has Gone",
-        "artist": "Harley Music"
+        "title": "You Are My Destiny",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "After the Love Has Gone",
+            "artist": "Harley Music"
+        },
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "QUEEN OF HEARTS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "Fly'n",
-            "artist": "Dave Raynor"
         }
     ]
 }
