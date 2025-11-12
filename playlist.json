@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IT'S ALL ABOUT YOU",
-        "artist": "FUNTASTIK"
+        "title": "CAN I CHANGE MY MIND",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "IT'S ALL ABOUT YOU",
+            "artist": "FUNTASTIK"
+        },
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "IF WE FALL IN LOVE AGAIN",
-            "artist": "Tom Kellock"
         }
     ]
 }
