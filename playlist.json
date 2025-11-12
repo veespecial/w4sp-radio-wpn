@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TEARS FROM THE SUN",
-        "artist": "PASERO/SUZUKI-HAWAII"
+        "title": "I GOTTA RUN",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "TEARS FROM THE SUN",
+            "artist": "PASERO/SUZUKI-HAWAII"
+        },
         {
             "title": "WINDLESS",
             "artist": "Michael Strickland"
@@ -39,10 +43,6 @@
         {
             "title": "SWAY",
             "artist": "Harley"
-        },
-        {
-            "title": "I WILL",
-            "artist": "Josephs Band"
         }
     ]
 }
