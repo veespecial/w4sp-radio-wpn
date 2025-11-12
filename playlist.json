@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ROLL TO ME",
-        "artist": "Harley Brothers"
+        "title": "Kiss Me",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "ROLL TO ME",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "BODY AND SOUL",
             "artist": "DAVE DYSART"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WANNA LOSE YOU",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "DONE WITH PONAPARTE",
-            "artist": "Moro-Eden"
         }
     ]
 }
