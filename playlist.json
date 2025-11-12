@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "POETRY MAN",
-        "artist": "CAMERON"
+        "title": "ROSE IN THE VINE",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "POETRY MAN",
+            "artist": "CAMERON"
+        },
         {
             "title": "FOR ONCE IN MY LIFE",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "Until You Come Back To Me",
             "artist": "Manson Music"
-        },
-        {
-            "title": "Fool on the Hill",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
