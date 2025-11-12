@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Vienna",
-        "artist": "Manson Music"
+        "title": "PROMISE AIN'T ENOUGH",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "Vienna",
+            "artist": "Manson Music"
+        },
         {
             "title": "APPALACHIA CALLING",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "SOUL SHADOWS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
