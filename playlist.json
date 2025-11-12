@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAN I CHANGE MY MIND",
-        "artist": "Politzer/Withycombe"
+        "title": "LAUGHTER IN THE RAIN",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "CAN I CHANGE MY MIND",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "STARDUST",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "Vienna",
-            "artist": "Manson Music"
         }
     ]
 }
