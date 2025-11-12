@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BACK IN THE CHAIN GANG",
-        "artist": "Harley Brothers"
+        "title": "I WILL",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "BACK IN THE CHAIN GANG",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Changes",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "I JUST WANNA STOP",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
