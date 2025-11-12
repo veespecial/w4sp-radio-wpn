@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHEN SUNNY GETS BLUE",
-        "artist": "BRAD ALLISON"
+        "title": "SUMMER WIND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "WHEN SUNNY GETS BLUE",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "I Say a Little Prayer",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "BEWILDERED",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
