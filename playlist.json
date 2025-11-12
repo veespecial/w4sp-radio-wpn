@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Favorite Mistake",
-        "artist": "Frank Josephs"
+        "title": "MERCY MERCY ME",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "My Favorite Mistake",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "Tempted",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "BAD REPUTATION",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "KRISTIANA",
-            "artist": "Jerry Cortez"
         }
     ]
 }
