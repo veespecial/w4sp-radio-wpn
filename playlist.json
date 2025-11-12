@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TROLLY CAR",
-        "artist": "Jennifer Ivester"
+        "title": "LIVELY UP YOURSELF",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "TROLLY CAR",
+            "artist": "Jennifer Ivester"
+        },
         {
             "title": "IT'S ALL ABOUT YOU",
             "artist": "FUNTASTIK"
@@ -39,10 +43,6 @@
         {
             "title": "BROWN EYED GIRL",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "GIVING YOU THE BEST THAT I GOT",
-            "artist": "Curtis Brengle"
         }
     ]
 }
