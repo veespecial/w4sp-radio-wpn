@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WANT (TO BE A FOOL)",
-        "artist": "LENNY MOORE"
+        "title": "Long Ago",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "DON'T WANT (TO BE A FOOL)",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "WE'RE GONNA MAKE IT",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "I THINK I'LL TELL HIM",
-            "artist": "Andy Suzuki"
         }
     ]
 }
