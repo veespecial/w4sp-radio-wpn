@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ONCE AND FUTURE",
-        "artist": "Newhall Collective"
+        "title": "HEAVEN",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "ONCE AND FUTURE",
+            "artist": "Newhall Collective"
+        },
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "DESTINY",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "After All",
-            "artist": "Dave Raynor"
         }
     ]
 }
