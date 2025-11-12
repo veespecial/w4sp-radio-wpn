@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "EARTH ANGERL (WILL YOU BE MINE)",
-        "artist": "MANSON STRINGS"
+        "title": "APPALACHIA CALLING",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "EARTH ANGERL (WILL YOU BE MINE)",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "IF TOMORROW NEVER COMES",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "THAT'S WHAT FRIENDS ARE FOR",
-            "artist": "North Point"
         }
     ]
 }
