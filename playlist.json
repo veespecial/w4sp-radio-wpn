@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAN TROPEZ",
-        "artist": "FRISCO PILEDRIVERS"
+        "title": "After the Love Has Gone",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "SAN TROPEZ",
+            "artist": "FRISCO PILEDRIVERS"
+        },
         {
             "title": "RUNAWAY",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "HEARD IT IN A LOVE SONG",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "ALL ROADS LEAD TO YOU",
-            "artist": "Kevin Madill-Nashville"
         }
     ]
 }
