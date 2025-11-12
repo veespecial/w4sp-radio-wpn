@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Footprints",
-        "artist": "Melissa Siegel"
+        "title": "After the Love Has Gone",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Footprints",
+            "artist": "Melissa Siegel"
+        },
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "Fly'n",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "Claudette",
-            "artist": "Disk Eyes London"
         }
     ]
 }
