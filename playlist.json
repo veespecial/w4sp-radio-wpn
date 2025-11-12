@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Claudette",
-        "artist": "Disk Eyes London"
+        "title": "Fly'n",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "Claudette",
+            "artist": "Disk Eyes London"
+        },
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "NEPTUNE",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "Make it With You",
-            "artist": "Daniel Ho"
         }
     ]
 }
