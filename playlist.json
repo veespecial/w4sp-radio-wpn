@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEARD IT IN A LOVE SONG",
-        "artist": "DUKE OF MORTON"
+        "title": "JUST THE TWO OF US",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "HEARD IT IN A LOVE SONG",
+            "artist": "DUKE OF MORTON"
+        },
         {
             "title": "THANK YOU",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "FAIR TOMORROW",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "BACK IN THE CHAIN GANG",
-            "artist": "Harley Brothers"
         }
     ]
 }
