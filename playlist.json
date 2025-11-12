@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BAD REPUTATION",
-        "artist": "CHAD STONE BAND"
+        "title": "Love Of My Life",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "BAD REPUTATION",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "KRISTIANA",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "Changes",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "THE STRANGER",
-            "artist": "North Point"
         }
     ]
 }
