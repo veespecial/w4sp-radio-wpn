@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ONSTREAM",
-        "artist": "Frank Joseph's Group"
+        "title": "SOME ENCHANTED EVENING",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "ONSTREAM",
+            "artist": "Frank Joseph's Group"
+        },
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "Matter Of Time",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "HOW MUCH I FEEL",
-            "artist": "CAMERON"
         }
     ]
 }
