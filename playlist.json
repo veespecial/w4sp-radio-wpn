@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEXT EVENT",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Walk On By",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "NEXT EVENT",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "BREAKFAST AT TIFFANY'S",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "SILVER SPRINGS",
-            "artist": "Harley Brothers"
         }
     ]
 }
