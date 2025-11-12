@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOT TO GIVE IT UP",
-        "artist": "STANDING PATT MUSIC"
+        "title": "THE WARMTH OF THE SUN",
+        "artist": "MANUSUS/KEEFER"
     },
     "recent": [
+        {
+            "title": "GOT TO GIVE IT UP",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "APPALACHIA CALLING",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "You're the Best Thing",
-            "artist": "DAVE PATT"
         }
     ]
 }
