@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HAKUNA MATATA",
-        "artist": "Josephs Band"
+        "title": "Harvest for the World",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "HAKUNA MATATA",
+            "artist": "Josephs Band"
+        },
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
@@ -39,10 +43,6 @@
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "Day Dreaming",
-            "artist": "Harley Bros."
         }
     ]
 }
