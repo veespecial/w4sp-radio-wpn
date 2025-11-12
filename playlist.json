@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR ELFI",
-        "artist": "Nick Manson"
+        "title": "IT'S ALL ABOUT YOU",
+        "artist": "FUNTASTIK"
     },
     "recent": [
+        {
+            "title": "FOR ELFI",
+            "artist": "Nick Manson"
+        },
         {
             "title": "WILD AND FREE",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "THIS MASQUERADE",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "SOME ENCHANTED EVENING",
-            "artist": "Manasus Strings"
         }
     ]
 }
