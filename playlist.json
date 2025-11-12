@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Ever Changing Moods",
-        "artist": "Jim Devlin"
+        "title": "Poor Side Of Town",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "My Ever Changing Moods",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "GOT TO GIVE IT UP",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Sun King",
             "artist": "San Francisco"
-        },
-        {
-            "title": "BAD SNEAKERS",
-            "artist": "LENNY MOORE"
         }
     ]
 }
