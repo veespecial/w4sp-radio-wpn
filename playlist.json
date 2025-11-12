@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LONELY TOO LONG",
-        "artist": "South Point"
+        "title": "HERO",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "LONELY TOO LONG",
+            "artist": "South Point"
+        },
         {
             "title": "STUBBORN KIND OF FELLOW",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "LIVELY UP YOURSELF",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "TROLLY CAR",
-            "artist": "Jennifer Ivester"
         }
     ]
 }
