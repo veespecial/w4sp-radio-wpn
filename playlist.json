@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOW CAN YOU MEND A BROKEN HEART",
-        "artist": "Moro-Eden"
+        "title": "You're the Best Thing",
+        "artist": "DAVE PATT"
     },
     "recent": [
+        {
+            "title": "HOW CAN YOU MEND A BROKEN HEART",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "Fast Car",
             "artist": "Quistetts"
@@ -39,10 +43,6 @@
         {
             "title": "HEY GIRL",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
-            "artist": "Disk Eyes S.F."
         }
     ]
 }
