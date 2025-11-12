@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Alison",
-        "artist": "Quistetts"
+        "title": "DREAMLOVER",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "Alison",
+            "artist": "Quistetts"
+        },
         {
             "title": "Walton On Thames",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "ALL I'VE GOT TO DO",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "DREAMBOAT ANNIE",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
