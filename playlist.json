@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "QUEEN OF HEARTS",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "QUIEREME MUCHO",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "QUEEN OF HEARTS",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "FUNTASTIC MUSIC"
-        },
-        {
-            "title": "SWEET CLAIRE",
-            "artist": "Michael Strickland"
         }
     ]
 }
