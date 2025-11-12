@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIRL WITH A RED CARNATION",
-        "artist": "Acoustic Alchemy"
+        "title": "YOU DON'T KNOW ME",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "GIRL WITH A RED CARNATION",
+            "artist": "Acoustic Alchemy"
+        },
         {
             "title": "I Go Crazy",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "Walk On By",
             "artist": "Manson Music"
-        },
-        {
-            "title": "Samsonite Waltz",
-            "artist": "Dave Keenan"
         }
     ]
 }
