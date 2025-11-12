@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BABYLON SISTERS",
-        "artist": "Tom Politzer"
+        "title": "YOUR SECRET LOVE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "BABYLON SISTERS",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "DA DA",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "Heaven On A Sunday",
-            "artist": "John Morton"
         }
     ]
 }
