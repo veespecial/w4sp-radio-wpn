@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIMME LITTLE SIGN",
-        "artist": "STANDING PATT MUSIC"
+        "title": "ONCE AND FUTURE",
+        "artist": "Newhall Collective"
     },
     "recent": [
+        {
+            "title": "GIMME LITTLE SIGN",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "I GOTTA RUN",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "After All",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "FOOLISH HEART",
-            "artist": "Curtis Brengle"
         }
     ]
 }
