@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DONE WITH PONAPARTE",
-        "artist": "Moro-Eden"
+        "title": "(WILL YOU) COME BACK MY LOVE",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "DONE WITH PONAPARTE",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
@@ -39,10 +43,6 @@
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "THE FINER THINGS",
-            "artist": "DAVE DYSART"
         }
     ]
 }
