@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Elfi's Tune",
-        "artist": "Dave Raynor"
+        "title": "WILD AND FREE",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "Elfi's Tune",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "Alison",
             "artist": "Quistetts"
@@ -39,10 +43,6 @@
         {
             "title": "ONSTREAM",
             "artist": "Frank Joseph's Group"
-        },
-        {
-            "title": "Poor Side Of Town",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
