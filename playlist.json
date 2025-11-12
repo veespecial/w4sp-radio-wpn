@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tears In Heaven",
-        "artist": "Crescenta Valley Boys"
+        "title": "Till There Was You",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "Tears In Heaven",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "I Only Have Eyes for You",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "BROWN EYED GIRL",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
