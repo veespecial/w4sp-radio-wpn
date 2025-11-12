@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Beyond the Sea",
-        "artist": "Disk Eyes London"
+        "title": "DELIVER ME FROM MY MIND",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "Beyond the Sea",
+            "artist": "Disk Eyes London"
+        },
         {
             "title": "Long Ago",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "LIVELY UP YOURSELF",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "HIGHER AND HIGHER",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
