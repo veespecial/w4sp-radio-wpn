@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MIDNIGHT TRAIN TO GEORGIA",
-        "artist": "Daniel Ho"
+        "title": "WHERE IS THE LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "MIDNIGHT TRAIN TO GEORGIA",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "ANOTHER SAD LOVE SONG",
             "artist": "Mike Jaap"
@@ -39,10 +43,6 @@
         {
             "title": "SOMETHING THAT WE DO",
             "artist": "Harley Music"
-        },
-        {
-            "title": "I DON'T WANNA BE ALONE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
