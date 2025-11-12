@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
-        "artist": "Disk Eyes S.F."
+        "title": "HEY GIRL",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
+            "artist": "Disk Eyes S.F."
+        },
         {
             "title": "HEAVEN",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "IT MAKES ME CRAZY",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "I'm Happy Just to Dance with You",
-            "artist": "Disk Eyes London"
         }
     ]
 }
