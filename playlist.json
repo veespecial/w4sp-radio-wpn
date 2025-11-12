@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Terpsichore",
-        "artist": "Dave Keenan"
+        "title": "I Say a Little Prayer",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Terpsichore",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "HEY GIRL",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "GIRL WITH A RED CARNATION",
             "artist": "Acoustic Alchemy"
-        },
-        {
-            "title": "TROPIC OF CAPRICORN",
-            "artist": "South Point"
         }
     ]
 }
