@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BACK IN THE CHAIN GANG",
-        "artist": "Harley Brothers"
+        "title": "FAIR TOMORROW",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "BACK IN THE CHAIN GANG",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "DON'T WORRY BABY",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
-        },
-        {
-            "title": "I GOTTA RUN",
-            "artist": "John Morton"
         }
     ]
 }
