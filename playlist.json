@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THAT'S WHAT FRIENDS ARE FOR",
-        "artist": "North Point"
+        "title": "IF TOMORROW NEVER COMES",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "THAT'S WHAT FRIENDS ARE FOR",
+            "artist": "North Point"
+        },
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANUSUS/KEEFER"
@@ -39,10 +43,6 @@
         {
             "title": "YOU DON'T KNOW ME",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "GIRL WITH A RED CARNATION",
-            "artist": "Acoustic Alchemy"
         }
     ]
 }
