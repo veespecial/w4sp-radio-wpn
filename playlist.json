@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SHAKE AND BAKE",
-        "artist": "Newhall Collective"
+        "title": "GIMME LITTLE SIGN",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "SHAKE AND BAKE",
+            "artist": "Newhall Collective"
+        },
         {
             "title": "AFTER ALL",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
-        },
-        {
-            "title": "I'M BEGINNING TO SEE THE LIGHT",
-            "artist": "April Barrows"
         }
     ]
 }
