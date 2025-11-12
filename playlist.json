@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAD SONGS SAY SO MUCH",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "HEAVEN",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "SAD SONGS SAY SO MUCH",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "BREAKFAST AT TIFFANY'S",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "JUST ONE WORD",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Love Of My Life",
-            "artist": "Andre Mayeux"
         }
     ]
 }
