@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR ONCE IN OUR LIVES",
-        "artist": "Andre Mayeux"
+        "title": "CLOUDY",
+        "artist": "NORTHPOINT"
     },
     "recent": [
+        {
+            "title": "FOR ONCE IN OUR LIVES",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "THESE DREAMS",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "WELCOME TO MY WORLD",
-            "artist": "Kevin Madill-Nashville"
         }
     ]
 }
