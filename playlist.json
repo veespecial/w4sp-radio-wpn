@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DELIVER ME FROM MY MIND",
-        "artist": "Andy Suzuki"
+        "title": "CHERYL'S GIFT",
+        "artist": "Douglas Barnett"
     },
     "recent": [
+        {
+            "title": "DELIVER ME FROM MY MIND",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "LIFE IS BUT A DREAM",
-            "artist": "Devlin's Strings"
         }
     ]
 }
