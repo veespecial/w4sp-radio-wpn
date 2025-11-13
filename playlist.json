@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JUST ONE WORD",
-        "artist": "Harley Bros."
+        "title": "SACRIFICE",
+        "artist": "MANSON/MARROW/HALL"
     },
     "recent": [
+        {
+            "title": "JUST ONE WORD",
+            "artist": "Harley Bros."
+        },
         {
             "title": "ALIEN",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "Yesterday",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "I DON'T WANNA BE ALONE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
