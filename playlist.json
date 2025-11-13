@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT'S GOIN ON",
-        "artist": "Josephs Band"
+        "title": "You are the Sunshine of My Life",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "WHAT'S GOIN ON",
+            "artist": "Josephs Band"
+        },
         {
             "title": "Wahine",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "HERO",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "ONCE AND FUTURE",
-            "artist": "Newhall Collective"
         }
     ]
 }
