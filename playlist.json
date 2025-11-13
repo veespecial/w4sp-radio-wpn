@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WILD AND FREE",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "I THINK I'LL TELL HIM",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "WILD AND FREE",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "ALIEN",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "SAD SONGS SAY SO MUCH",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "Fly'n",
-            "artist": "Dave Raynor"
         }
     ]
 }
