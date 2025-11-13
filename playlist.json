@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DONE WITH PONAPARTE",
-        "artist": "Moro-Eden"
+        "title": "HALF A MINUTE",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "DONE WITH PONAPARTE",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "Help Me",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "Changes",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "SAN TROPEZ",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
