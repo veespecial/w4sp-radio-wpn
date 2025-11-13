@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Jo Jo",
-        "artist": "Quist"
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "Jo Jo",
+            "artist": "Quist"
+        },
         {
             "title": "MORE THAN THIS",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "Ain't Nothing Like the Real Thing",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "LONELY TOO LONG",
-            "artist": "South Point"
         }
     ]
 }
