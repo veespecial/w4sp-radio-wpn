@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL NEVER FALL IN LOVE",
-        "artist": "Andre Mayeux"
+        "title": "THIS MASQUERADE",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "I'LL NEVER FALL IN LOVE",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "ONSTREAM",
             "artist": "Frank Joseph's Group"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "BAD SNEAKERS",
-            "artist": "LENNY MOORE"
         }
     ]
 }
