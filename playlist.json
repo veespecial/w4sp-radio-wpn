@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Are My Destiny",
-        "artist": "Los Devlin Strings"
+        "title": "ONSTREAM",
+        "artist": "Frank Joseph's Group"
     },
     "recent": [
+        {
+            "title": "You Are My Destiny",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "Till There Was You",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "APPALACHIA CALLING",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "CLOUDY",
-            "artist": "NORTHPOINT"
         }
     ]
 }
