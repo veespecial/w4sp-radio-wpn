@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THANK YOU",
-        "artist": "Disk Eyes S.F."
+        "title": "HALE KAMAOLE",
+        "artist": "Jennifer Ivester"
     },
     "recent": [
+        {
+            "title": "THANK YOU",
+            "artist": "Disk Eyes S.F."
+        },
         {
             "title": "Make it With You",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "Beyond the Sea",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "Heartbreak Hotel",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
