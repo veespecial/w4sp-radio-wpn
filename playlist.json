@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BAD REPUTATION",
-        "artist": "CHAD STONE BAND"
+        "title": "ONCE AND FUTURE",
+        "artist": "Newhall Collective"
     },
     "recent": [
+        {
+            "title": "BAD REPUTATION",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "Sweet Seasons",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "ANOTHER SAD LOVE SONG",
-            "artist": "Mike Jaap"
         }
     ]
 }
