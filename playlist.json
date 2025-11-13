@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Poor Side Of Town",
-        "artist": "Crescenta Valley Boys"
+        "title": "CORRINA CORRINA",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "Poor Side Of Town",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "CHAIN LIGHTNING",
             "artist": "Tom Politzer 93"
@@ -39,10 +43,6 @@
         {
             "title": "CAMILLA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "LONELY TOO LONG",
-            "artist": "South Point"
         }
     ]
 }
