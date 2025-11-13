@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CHAIN LIGHTNING",
-        "artist": "Tom Politzer 93"
+        "title": "Poor Side Of Town",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "CHAIN LIGHTNING",
+            "artist": "Tom Politzer 93"
+        },
         {
             "title": "Alison",
             "artist": "Quistetts"
@@ -39,10 +43,6 @@
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
-        },
-        {
-            "title": "DAYS AGO",
-            "artist": "Andy Suzuki"
         }
     ]
 }
