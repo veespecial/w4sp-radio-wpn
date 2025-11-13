@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BABYLON SISTERS",
-        "artist": "Tom Politzer"
+        "title": "DESIRE'S FIRES",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "BABYLON SISTERS",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "DON'T WANT (TO BE A FOOL)",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "FOOLISH HEART",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "FOREVER MORE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
