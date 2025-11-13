@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANOTHER SAD LOVE SONG",
-        "artist": "Mike Jaap"
+        "title": "CUCHAMA",
+        "artist": "Govi"
     },
     "recent": [
+        {
+            "title": "ANOTHER SAD LOVE SONG",
+            "artist": "Mike Jaap"
+        },
         {
             "title": "THE STRANGER",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "NEW BEGINNING",
             "artist": "RICK SCHMUNK"
-        },
-        {
-            "title": "NEVER CAN SAY GOODBYE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
