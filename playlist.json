@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BEACON",
-        "artist": "RICK SCHMUNK"
+        "title": "Fast Car",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "BEACON",
+            "artist": "RICK SCHMUNK"
+        },
         {
             "title": "DAYLIGHT",
             "artist": "Jennifer Ivester"
@@ -39,10 +43,6 @@
         {
             "title": "AMY",
             "artist": "Douglas Barnett"
-        },
-        {
-            "title": "HEARD IT IN A LOVE SONG",
-            "artist": "DUKE OF MORTON"
         }
     ]
 }
