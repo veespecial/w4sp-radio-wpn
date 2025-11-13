@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUNAWAY",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "SAY YOU LOVE ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "RUNAWAY",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "RAIN AND SHINE",
             "artist": "Jennifer Ivester"
-        },
-        {
-            "title": "For Elfi",
-            "artist": "Nick Manson"
         }
     ]
 }
