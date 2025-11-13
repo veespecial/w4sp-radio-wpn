@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAVING ALL MY LOVE FOR YOU",
-        "artist": "NORTHPOINT"
+        "title": "DAYLIGHT",
+        "artist": "Jennifer Ivester"
     },
     "recent": [
+        {
+            "title": "SAVING ALL MY LOVE FOR YOU",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "WE'RE GONNA MAKE IT",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "BAD REPUTATION",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
-            "artist": "CAMERON"
         }
     ]
 }
