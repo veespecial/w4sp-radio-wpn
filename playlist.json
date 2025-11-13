@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TROPIC OF CAPRICORN",
-        "artist": "South Point"
+        "title": "DONE WITH PONAPARTE",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "TROPIC OF CAPRICORN",
+            "artist": "South Point"
+        },
         {
             "title": "I DON'T WANNA BE ALONE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "TIL I HEAR IT FROM YOU",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "After All",
-            "artist": "Dave Raynor"
         }
     ]
 }
