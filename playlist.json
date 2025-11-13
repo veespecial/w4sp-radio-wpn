@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "OLD OAK KNOLL",
-        "artist": "Nick Manson"
+        "title": "GIRL WITH A RED CARNATION",
+        "artist": "Acoustic Alchemy"
     },
     "recent": [
+        {
+            "title": "OLD OAK KNOLL",
+            "artist": "Nick Manson"
+        },
         {
             "title": "IN WONDER",
             "artist": "Govi"
@@ -39,10 +43,6 @@
         {
             "title": "WHEN SUNNY GETS BLUE",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "IF WE FALL IN LOVE AGAIN",
-            "artist": "Tom Kellock"
         }
     ]
 }
