@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF TOMORROW NEVER COMES",
-        "artist": "Josephs Band"
+        "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "IF TOMORROW NEVER COMES",
+            "artist": "Josephs Band"
+        },
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "ALL ROADS LEAD TO YOU",
             "artist": "Kevin Madill-Nashville"
-        },
-        {
-            "title": "ONCE AND FUTURE",
-            "artist": "Newhall Collective"
         }
     ]
 }
