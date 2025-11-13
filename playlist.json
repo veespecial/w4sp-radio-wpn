@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Black Cow",
-        "artist": "Andy Suzuki"
+        "title": "Shooting Star",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "Black Cow",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
@@ -39,10 +43,6 @@
         {
             "title": "OLD OAK KNOLL",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "DREAMBOAT ANNIE",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
