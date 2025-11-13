@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT DOES IT TAKE",
-        "artist": "JON GOFORTH"
+        "title": "SWEET LITTLE THANG",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "WHAT DOES IT TAKE",
+            "artist": "JON GOFORTH"
+        },
         {
             "title": "DON'T DREAM IT'S OVER",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "IF TOMORROW NEVER COMES",
-            "artist": "Josephs Band"
         }
     ]
 }
