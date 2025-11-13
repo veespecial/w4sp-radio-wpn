@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "For Elfi",
-        "artist": "Nick Manson"
+        "title": "RAIN AND SHINE",
+        "artist": "Jennifer Ivester"
     },
     "recent": [
+        {
+            "title": "For Elfi",
+            "artist": "Nick Manson"
+        },
         {
             "title": "HEY GIRL",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "FOR ONCE IN MY LIFE",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "CORRINA CORRINA",
-            "artist": "Harley"
         }
     ]
 }
