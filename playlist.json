@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Heartbreak Hotel",
-        "artist": "Crescenta Valley Boys"
+        "title": "AIN'T MISBEHAVIN",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "Heartbreak Hotel",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "For Elfi",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "Fool on the Hill",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "SOME ENCHANTED EVENING",
-            "artist": "Manasus Strings"
         }
     ]
 }
