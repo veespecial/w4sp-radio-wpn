@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ORDINARY WORLD",
-        "artist": "Devlin's Strings"
+        "title": "GIVING YOU THE BEST THAT I GOT",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "ORDINARY WORLD",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "WELCOME TO MY WORLD",
             "artist": "Kevin Madill-Nashville"
@@ -39,10 +43,6 @@
         {
             "title": "ANOTHER SAD LOVE SONG",
             "artist": "Mike Jaap"
-        },
-        {
-            "title": "THE STRANGER",
-            "artist": "North Point"
         }
     ]
 }
