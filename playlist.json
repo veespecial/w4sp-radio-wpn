@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIXIE MOON",
-        "artist": "LENNY MOORE"
+        "title": "WHERE LOVE GOES",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "DIXIE MOON",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "Pickin Like Lee",
             "artist": "Michael Ranstrom"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WORRY BABY",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "IT'S ALL ABOUT YOU",
-            "artist": "FUNTASTIK"
         }
     ]
 }
