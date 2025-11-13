@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "QUIEREME MUCHO",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "QUIEREME MUCHO",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANUSUS/KEEFER"
@@ -39,10 +43,6 @@
         {
             "title": "I Say a Little Prayer",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Poor Side Of Town",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
