@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEART LESS ONE",
-        "artist": "Brian Withycombe"
+        "title": "Heaven On A Sunday",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "HEART LESS ONE",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "DESAFINADO",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "DESIRE'S FIRES",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "BABYLON SISTERS",
-            "artist": "Tom Politzer"
         }
     ]
 }
