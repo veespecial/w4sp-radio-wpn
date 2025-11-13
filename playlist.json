@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOT TO GIVE IT UP",
-        "artist": "STANDING PATT MUSIC"
+        "title": "BABYLON SISTERS",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "GOT TO GIVE IT UP",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "BY THE TIME YOU FORGET",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "EVERY BEAT OF MY HEART",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
