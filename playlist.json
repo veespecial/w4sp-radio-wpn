@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Heaven On A Sunday",
-        "artist": "John Morton"
+        "title": "RUBY BABY",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "Heaven On A Sunday",
+            "artist": "John Morton"
+        },
         {
             "title": "HEART LESS ONE",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "DESIRE'S FIRES",
-            "artist": "Nick Manson"
         }
     ]
 }
