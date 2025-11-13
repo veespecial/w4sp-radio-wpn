@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fast Car",
-        "artist": "Quistetts"
+        "title": "I'm Happy Just to Dance with You",
+        "artist": "Disk Eyes London"
     },
     "recent": [
+        {
+            "title": "Fast Car",
+            "artist": "Quistetts"
+        },
         {
             "title": "BEACON",
             "artist": "RICK SCHMUNK"
@@ -39,10 +43,6 @@
         {
             "title": "After the Love Has Gone",
             "artist": "Harley Music"
-        },
-        {
-            "title": "AMY",
-            "artist": "Douglas Barnett"
         }
     ]
 }
