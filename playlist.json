@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUNG ENOUGH TO KNOW",
-        "artist": "Andy Suzuki"
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "YOUNG ENOUGH TO KNOW",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "CUCHAMA",
             "artist": "Govi"
@@ -39,10 +43,6 @@
         {
             "title": "Kiss Me",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "SWEET CLAIRE",
-            "artist": "Michael Strickland"
         }
     ]
 }
