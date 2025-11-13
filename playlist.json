@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JUST THE TWO OF US",
-        "artist": "CHAD STONE BAND"
+        "title": "WEST AGAIN",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "JUST THE TWO OF US",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "WE'RE GONNA MAKE IT",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "Until You Come Back To Me",
             "artist": "Manson Music"
-        },
-        {
-            "title": "SOMEWHERE IN THE WORLD",
-            "artist": "David Patt"
         }
     ]
 }
