@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TEARS FROM THE SUN",
-        "artist": "PASERO/SUZUKI-HAWAII"
+        "title": "WHAT'S NEW",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "TEARS FROM THE SUN",
+            "artist": "PASERO/SUZUKI-HAWAII"
+        },
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "Terpsichore",
-            "artist": "Dave Keenan"
         }
     ]
 }
