@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Alison",
-        "artist": "Quistetts"
+        "title": "STONED SOUL PICNIC",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "Alison",
+            "artist": "Quistetts"
+        },
         {
             "title": "CAN WE TALK",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "GOT TO GIVE IT UP",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "Reflection",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
