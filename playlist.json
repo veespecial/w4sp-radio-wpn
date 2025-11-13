@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TIL I HEAR IT FROM YOU",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "COME RAIN OR COME SHINE",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "TIL I HEAR IT FROM YOU",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "COME FLY WITH ME",
             "artist": "Harley"
-        },
-        {
-            "title": "How Sweet it is",
-            "artist": "Harley Music"
         }
     ]
 }
