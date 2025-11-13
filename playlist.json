@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Jo Jo",
-        "artist": "Quist"
+        "title": "I SOLD MY HEART TO THE JUNKMAN",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "Jo Jo",
+            "artist": "Quist"
+        },
         {
             "title": "Until You Come Back To Me",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "Shooting Star",
             "artist": "Dave Raynor"
-        },
-        {
-            "title": "SWAY",
-            "artist": "Harley"
         }
     ]
 }
