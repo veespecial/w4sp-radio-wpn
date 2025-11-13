@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL ROADS LEAD TO YOU",
-        "artist": "Kevin Madill-Nashville"
+        "title": "Till There Was You",
+        "artist": "Dave Raynor"
     },
     "recent": [
+        {
+            "title": "ALL ROADS LEAD TO YOU",
+            "artist": "Kevin Madill-Nashville"
+        },
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
@@ -39,10 +43,6 @@
         {
             "title": "Carey",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "TEARS FROM THE SUN",
-            "artist": "PASERO/SUZUKI-HAWAII"
         }
     ]
 }
