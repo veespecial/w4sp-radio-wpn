@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEAVEN",
-        "artist": "North Point"
+        "title": "DON'T WANT (TO BE A FOOL)",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "HEAVEN",
+            "artist": "North Point"
+        },
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T LOOK BACK",
             "artist": "Harley"
-        },
-        {
-            "title": "NORWEGAIN WOOD",
-            "artist": "DUKE OF MORTON"
         }
     ]
 }
