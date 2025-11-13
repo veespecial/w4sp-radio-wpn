@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You are the Sunshine of My Life",
-        "artist": "Harley Music"
+        "title": "DON'T ASK MY NEIGHBOR",
+        "artist": "STRINGS BY ANDY"
     },
     "recent": [
+        {
+            "title": "You are the Sunshine of My Life",
+            "artist": "Harley Music"
+        },
         {
             "title": "WHAT'S GOIN ON",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "Love Of My Life",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "HERO",
-            "artist": "JOHN GOFORTH"
         }
     ]
 }
