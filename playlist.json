@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIAMOND DUST",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
+        "artist": "Disk Eyes S.F."
     },
     "recent": [
+        {
+            "title": "DIAMOND DUST",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "Sweet Seasons",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "END OF THE DAY",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "WHAT'S NEW",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
