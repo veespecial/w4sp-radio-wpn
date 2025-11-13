@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIAMOND DUST",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "STARDUST",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "DIAMOND DUST",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "SUNNY CAME HOME",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "JUST ONE WORD",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "ALIEN",
-            "artist": "Funtastic"
         }
     ]
 }
