@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUBY BABY",
-        "artist": "Funtastic"
+        "title": "AFTER ALL",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "RUBY BABY",
+            "artist": "Funtastic"
+        },
         {
             "title": "Sun King",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "One on One",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "SAY YOU LOVE ME",
-            "artist": "Josephs Band"
         }
     ]
 }
