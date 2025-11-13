@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AMY",
-        "artist": "Douglas Barnett"
+        "title": "Samsonite Waltz",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "AMY",
+            "artist": "Douglas Barnett"
+        },
         {
             "title": "APPALACHIA CALLING",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "THANK YOU",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "Make it With You",
-            "artist": "Daniel Ho"
         }
     ]
 }
