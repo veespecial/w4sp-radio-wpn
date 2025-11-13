@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAN WE TALK",
-        "artist": "South Point"
+        "title": "Alison",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "CAN WE TALK",
+            "artist": "South Point"
+        },
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "Reflection",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "DON'T ASK MY NEIGHBOR",
-            "artist": "STRINGS BY ANDY"
         }
     ]
 }
