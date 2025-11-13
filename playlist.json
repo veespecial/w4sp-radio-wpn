@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Until You Come Back To Me",
-        "artist": "Manson Music"
+        "title": "Jo Jo",
+        "artist": "Quist"
     },
     "recent": [
+        {
+            "title": "Until You Come Back To Me",
+            "artist": "Manson Music"
+        },
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "SWAY",
             "artist": "Harley"
-        },
-        {
-            "title": "Claudette",
-            "artist": "Disk Eyes London"
         }
     ]
 }
