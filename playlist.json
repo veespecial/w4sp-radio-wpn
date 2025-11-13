@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOW MUCH I FEEL",
-        "artist": "CAMERON"
+        "title": "Sun King",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "HOW MUCH I FEEL",
+            "artist": "CAMERON"
+        },
         {
             "title": "ANGELA",
             "artist": "Douglas Barnett"
@@ -39,10 +43,6 @@
         {
             "title": "RUNAWAY",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "ORDINARY WORLD",
-            "artist": "Devlin's Strings"
         }
     ]
 }
