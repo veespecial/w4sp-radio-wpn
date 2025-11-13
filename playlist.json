@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME FLY WITH ME",
-        "artist": "Harley"
+        "title": "Walk On By",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "COME FLY WITH ME",
+            "artist": "Harley"
+        },
         {
             "title": "How Sweet it is",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "Matter Of Time",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "CRAZY LITTLE THING CALLED LOVE",
-            "artist": "Harley Brothers"
         }
     ]
 }
