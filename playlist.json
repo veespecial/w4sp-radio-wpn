@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FEEL LIKE MAKIN' LOVE",
-        "artist": "Nick Manson"
+        "title": "DON'T DREAM IT'S OVER",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "FEEL LIKE MAKIN' LOVE",
+            "artist": "Nick Manson"
+        },
         {
             "title": "AIN'T MISBEHAVIN",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR PRECIOUS LOVE",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "SWAY",
-            "artist": "Harley"
         }
     ]
 }
