@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "KRISTIANA",
-        "artist": "Jerry Cortez"
+        "title": "I'M BEGINNING TO SEE THE LIGHT",
+        "artist": "April Barrows"
     },
     "recent": [
+        {
+            "title": "KRISTIANA",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "You are the Sunshine of My Life",
             "artist": "Harley Music"
-        },
-        {
-            "title": "SOMETIME BRAZIL",
-            "artist": "Andy Suzuki"
         }
     ]
 }
