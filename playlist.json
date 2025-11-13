@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT'S NEW",
-        "artist": "MANSON STRINGS"
+        "title": "ANGELA",
+        "artist": "Douglas Barnett"
     },
     "recent": [
+        {
+            "title": "WHAT'S NEW",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
@@ -39,10 +43,6 @@
         {
             "title": "Harvest for the World",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "CHEHALIS",
-            "artist": "Eric Tingstad"
         }
     ]
 }
