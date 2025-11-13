@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWEET TALK THE BOSSA",
-        "artist": "RICK SCHMUNK"
+        "title": "DON'T GO BREAKIN MY HEART",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "SWEET TALK THE BOSSA",
+            "artist": "RICK SCHMUNK"
+        },
         {
             "title": "CRAZY LITTLE THING CALLED LOVE",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "Harvest for the World",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "SAN TROPEZ",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
