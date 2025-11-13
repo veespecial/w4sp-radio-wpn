@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL I'VE GOT TO DO",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "BODY AND SOUL",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "ALL I'VE GOT TO DO",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
@@ -39,10 +43,6 @@
         {
             "title": "FOR ONCE IN MY LIFE",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "WEST AGAIN",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
