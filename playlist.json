@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LULLABY OF BIRDLAND",
-        "artist": "Harley"
+        "title": "NEXT EVENT",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "LULLABY OF BIRDLAND",
+            "artist": "Harley"
+        },
         {
             "title": "Kiss Me",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "BEWILDERED",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "SOMETIME BRAZIL",
-            "artist": "Andy Suzuki"
         }
     ]
 }
