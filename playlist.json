@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWEET LITTLE THANG",
-        "artist": "Brian Withycombe"
+        "title": "STAY (I MISSED YOU)",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "SWEET LITTLE THANG",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "FOR ONCE IN OUR LIVES",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "WILD AND FREE",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "WINDLESS",
-            "artist": "Michael Strickland"
         }
     ]
 }
