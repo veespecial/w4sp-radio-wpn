@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IN WONDER",
-        "artist": "Govi"
+        "title": "JUST THE TWO OF US",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "IN WONDER",
+            "artist": "Govi"
+        },
         {
             "title": "Changes",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "I DON'T WANNA BE ALONE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "DON'T LOOK BACK",
-            "artist": "Harley"
         }
     ]
 }
