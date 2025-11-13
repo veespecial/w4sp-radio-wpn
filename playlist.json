@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Changes",
-        "artist": "Ray Kelley"
+        "title": "TROLLY CAR",
+        "artist": "Jennifer Ivester"
     },
     "recent": [
+        {
+            "title": "Changes",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "NEVER ENDING SONG OF LOVE",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "I CAN LOVE YOU LIKE THAT",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
