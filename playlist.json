@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Vienna",
-        "artist": "Manson Music"
+        "title": "LIVELY UP YOURSELF",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "Vienna",
+            "artist": "Manson Music"
+        },
         {
             "title": "NEVER ENDING SONG OF LOVE",
             "artist": "DUKE OF MORTON"
@@ -39,10 +43,6 @@
         {
             "title": "STARDUST",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "DIAMOND DUST",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
