@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF WE FALL IN LOVE AGAIN",
-        "artist": "Tom Kellock"
+        "title": "GIVING YOU THE BEST THAT I GOT",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "IF WE FALL IN LOVE AGAIN",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "Vienna",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "BEACON",
             "artist": "RICK SCHMUNK"
-        },
-        {
-            "title": "DAYLIGHT",
-            "artist": "Jennifer Ivester"
         }
     ]
 }
