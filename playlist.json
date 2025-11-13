@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Only Have Eyes for You",
-        "artist": "Politzer/Withycombe"
+        "title": "ORDINARY WORLD",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "I Only Have Eyes for You",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "HEY GIRL",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "BLUE BOSSA",
-            "artist": "BRAD ALLISON"
         }
     ]
 }
