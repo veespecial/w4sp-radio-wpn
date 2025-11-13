@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU DON'T KNOW ME",
-        "artist": "Manasus Strings"
+        "title": "You're the Best Thing",
+        "artist": "DAVE PATT"
     },
     "recent": [
+        {
+            "title": "YOU DON'T KNOW ME",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "FOOLISH HEART",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "JUST THE TWO OF US",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "WE'RE GONNA MAKE IT",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
