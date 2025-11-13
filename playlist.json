@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOOLISH HEART",
-        "artist": "Curtis Brengle"
+        "title": "YOU DON'T KNOW ME",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "FOOLISH HEART",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "WE'RE GONNA MAKE IT",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "I'M BEGINNING TO SEE THE LIGHT",
-            "artist": "April Barrows"
         }
     ]
 }
