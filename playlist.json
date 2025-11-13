@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "After All",
-        "artist": "Dave Raynor"
+        "title": "TIL I HEAR IT FROM YOU",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "After All",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "GIRL WITH A RED CARNATION",
             "artist": "Acoustic Alchemy"
@@ -39,10 +43,6 @@
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "GOT TO GIVE IT UP",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
