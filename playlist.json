@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAMILLA",
-        "artist": "Jerry Cortez"
+        "title": "APRIL BLUES",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "CAMILLA",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "I'LL NEVER FALL IN LOVE",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "ONSTREAM",
-            "artist": "Frank Joseph's Group"
         }
     ]
 }
