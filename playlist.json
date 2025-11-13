@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "One on One",
-        "artist": "MANASUS MUSIC"
+        "title": "DROWNING IN YOUR TEARS",
+        "artist": "FUNTASTIC MUSIC"
     },
     "recent": [
+        {
+            "title": "One on One",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "SAY YOU LOVE ME",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "Don't Let Me be Lonely Tonight",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Heaven On A Sunday",
-            "artist": "John Morton"
         }
     ]
 }
