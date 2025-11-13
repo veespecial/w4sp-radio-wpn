@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I SOLD MY HEART TO THE JUNKMAN",
-        "artist": "Jim Devlin"
+        "title": "HOW MUCH I FEEL",
+        "artist": "CAMERON"
     },
     "recent": [
+        {
+            "title": "I SOLD MY HEART TO THE JUNKMAN",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "Jo Jo",
             "artist": "Quist"
@@ -39,10 +43,6 @@
         {
             "title": "BROWN EYED GIRL",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "Shooting Star",
-            "artist": "Dave Raynor"
         }
     ]
 }
