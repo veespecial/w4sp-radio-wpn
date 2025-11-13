@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WEST AGAIN",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "YOU ARE EVERYTHING",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "WEST AGAIN",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANUSUS/KEEFER"
@@ -39,10 +43,6 @@
         {
             "title": "SOME ENCHANTED EVENING",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "THAT'S WHAT FRIENDS ARE FOR",
-            "artist": "North Point"
         }
     ]
 }
