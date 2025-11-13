@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWEET TALK THE BOSSA",
-        "artist": "RICK SCHMUNK"
+        "title": "SAVING ALL MY LOVE FOR YOU",
+        "artist": "NORTHPOINT"
     },
     "recent": [
+        {
+            "title": "SWEET TALK THE BOSSA",
+            "artist": "RICK SCHMUNK"
+        },
         {
             "title": "SHAKE AND BAKE",
             "artist": "Newhall Collective"
@@ -39,10 +43,6 @@
         {
             "title": "STONED SOUL PICNIC",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "Alison",
-            "artist": "Quistetts"
         }
     ]
 }
