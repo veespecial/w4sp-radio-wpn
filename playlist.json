@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SHAKE AND BAKE",
-        "artist": "Newhall Collective"
+        "title": "PROMISE AIN'T ENOUGH",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "SHAKE AND BAKE",
+            "artist": "Newhall Collective"
+        },
         {
             "title": "GIVING YOU THE BEST THAT I GOT",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "I'm Happy Just to Dance with You",
             "artist": "Disk Eyes London"
-        },
-        {
-            "title": "Fast Car",
-            "artist": "Quistetts"
         }
     ]
 }
