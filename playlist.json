@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wahine",
-        "artist": "Jerry Cortez"
+        "title": "(WILL YOU) COME BACK MY LOVE",
+        "artist": "JOHN GOFORTH"
     },
     "recent": [
+        {
+            "title": "Wahine",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "TIL I HEAR IT FROM YOU",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "BAD REPUTATION",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "THIS MASQUERADE",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
