@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRAZY LITTLE THING CALLED LOVE",
-        "artist": "Harley Brothers"
+        "title": "RUNAWAY",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "CRAZY LITTLE THING CALLED LOVE",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "Make it With You",
-            "artist": "Daniel Ho"
         }
     ]
 }
