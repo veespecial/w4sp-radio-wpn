@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIAMOND DUST",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "HERO",
+        "artist": "JON GOFORTH"
     },
     "recent": [
+        {
+            "title": "DIAMOND DUST",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "DONE WITH PONAPARTE",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "Day Dreaming",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Life In Mono",
-            "artist": "Andy Suzuki"
         }
     ]
 }
