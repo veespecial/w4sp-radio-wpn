@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DONE WITH PONAPARTE",
-        "artist": "Moro-Eden"
+        "title": "DIAMOND DUST",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "DONE WITH PONAPARTE",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "BLUE BOSSA",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "Life In Mono",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "Tears In Heaven",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
