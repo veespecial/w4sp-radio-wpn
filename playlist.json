@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Heaven On A Sunday",
-        "artist": "John Morton"
+        "title": "I WANT TO THANK YOU",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "Heaven On A Sunday",
+            "artist": "John Morton"
+        },
         {
             "title": "GOOD LIFE",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "STONED SOUL PICNIC",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "RUNAWAY",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
