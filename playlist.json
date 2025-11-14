@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MY FUNNY VALENTINE",
-        "artist": "Manasus Strings"
+        "title": "TROPIC OF CAPRICORN",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "MY FUNNY VALENTINE",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "TEARS FROM THE SUN",
             "artist": "PASERO/SUZUKI-HAWAII"
@@ -39,10 +43,6 @@
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "OLD OAK KNOLL",
-            "artist": "Nick Manson"
         }
     ]
 }
