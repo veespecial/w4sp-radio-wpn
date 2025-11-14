@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MERCY MERCY ME",
-        "artist": "Tom Kellock"
+        "title": "BREAKFAST AT TIFFANY'S",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "MERCY MERCY ME",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "IT MAKES ME CRAZY",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "LONG AGO",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "PROMISE AIN'T ENOUGH",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
