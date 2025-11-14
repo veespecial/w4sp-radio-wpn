@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IN A DAYDREAM",
-        "artist": "Crescenta Valley Boys"
+        "title": "WORLD I KNOW",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "IN A DAYDREAM",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "SWAY",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "EVERY BEAT OF MY HEART",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "GREEN FLOWER STREET",
-            "artist": "Funtastic"
         }
     ]
 }
