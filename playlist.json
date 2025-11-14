@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WE'RE GONNA MAKE IT",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "THAT'S WHAT FRIENDS ARE FOR",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "WE'RE GONNA MAKE IT",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "Changes",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "SAY YOU LOVE ME",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "TROPIC OF CAPRICORN",
-            "artist": "South Point"
         }
     ]
 }
