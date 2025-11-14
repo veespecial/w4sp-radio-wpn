@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOIN OUT OF MY HEAD",
-        "artist": "Nick Manson"
+        "title": "HEARD IT IN A LOVE SONG",
+        "artist": "DUKE OF MORTON"
     },
     "recent": [
+        {
+            "title": "GOIN OUT OF MY HEAD",
+            "artist": "Nick Manson"
+        },
         {
             "title": "BODY AND SOUL",
             "artist": "DAVE DYSART"
@@ -39,10 +43,6 @@
         {
             "title": "WORLD I KNOW",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "IN A DAYDREAM",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
