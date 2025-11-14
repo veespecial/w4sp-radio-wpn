@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEVER ENDING SONG OF LOVE",
-        "artist": "DUKE OF MORTON"
+        "title": "STARDUST",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "NEVER ENDING SONG OF LOVE",
+            "artist": "DUKE OF MORTON"
+        },
         {
             "title": "Sun King",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WANNA LOSE YOU",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "(WILL YOU) COME BACK MY LOVE",
-            "artist": "JOHN GOFORTH"
         }
     ]
 }
