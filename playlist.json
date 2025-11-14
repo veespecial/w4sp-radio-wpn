@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I DON'T WANNA BE ALONE",
-        "artist": "MOORE and BRENGLE"
+        "title": "WHERE IS THE LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "I DON'T WANNA BE ALONE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "CAN I CHANGE MY MIND",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "DINDI",
-            "artist": "LENNY MOORE"
         }
     ]
 }
