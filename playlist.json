@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHERE LOVE GOES",
-        "artist": "Dave Raynor"
+        "title": "RUNAWAY",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "WHERE LOVE GOES",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "ALL I'VE GOT TO DO",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "THIS MASQUERADE",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "Poor Side Of Town",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
