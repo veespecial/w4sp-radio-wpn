@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Just Like This Train",
-        "artist": "San Francisco"
+        "title": "RAIN AND SHINE",
+        "artist": "Jennifer Ivester"
     },
     "recent": [
+        {
+            "title": "Just Like This Train",
+            "artist": "San Francisco"
+        },
         {
             "title": "ALIEN",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "QUEEN OF HEARTS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
