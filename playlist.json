@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fly'n",
-        "artist": "Dave Raynor"
+        "title": "YOU'RE THE INSPIRATION",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "Fly'n",
+            "artist": "Dave Raynor"
+        },
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "Yesterday",
-            "artist": "Josephs Band"
         }
     ]
 }
