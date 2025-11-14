@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "EARTH ANGERL (WILL YOU BE MINE)",
-        "artist": "MANSON STRINGS"
+        "title": "Love Of My Life",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "EARTH ANGERL (WILL YOU BE MINE)",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "Matter Of Time",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "CLOUDY",
             "artist": "NORTHPOINT"
-        },
-        {
-            "title": "STAY (I MISSED YOU)",
-            "artist": "Moro-Eden"
         }
     ]
 }
