@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Harvest for the World",
-        "artist": "Harley Brothers"
+        "title": "HALF A MINUTE",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "Harvest for the World",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "JUST THE TWO OF US",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "CUCHAMA",
-            "artist": "Govi"
         }
     ]
 }
