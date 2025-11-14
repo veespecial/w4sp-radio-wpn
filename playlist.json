@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MAGNOLIA",
-        "artist": "Funtastic"
+        "title": "I Go Crazy",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "MAGNOLIA",
+            "artist": "Funtastic"
+        },
         {
             "title": "Jo Jo",
             "artist": "Quist"
@@ -39,10 +43,6 @@
         {
             "title": "SWAY",
             "artist": "Harley"
-        },
-        {
-            "title": "YOU DON'T KNOW ME",
-            "artist": "Manasus Strings"
         }
     ]
 }
