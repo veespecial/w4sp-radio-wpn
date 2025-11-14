@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
-        "artist": "CAMERON"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
+            "artist": "CAMERON"
+        },
         {
             "title": "How Deep is Your Love",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "JO JO",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "SOUL SHADOWS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
