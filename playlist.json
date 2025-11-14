@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DESTINY",
-        "artist": "Nick Manson"
+        "title": "THESE DREAMS",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "DESTINY",
+            "artist": "Nick Manson"
+        },
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "THAT'S WHAT FRIENDS ARE FOR",
             "artist": "North Point"
-        },
-        {
-            "title": "MIDNIGHT TRAIN TO GEORGIA",
-            "artist": "Daniel Ho"
         }
     ]
 }
