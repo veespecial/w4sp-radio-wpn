@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HERO",
-        "artist": "JON GOFORTH"
+        "title": "AIN'T MISBEHAVIN",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "HERO",
+            "artist": "JON GOFORTH"
+        },
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
@@ -39,10 +43,6 @@
         {
             "title": "Matter Of Time",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "DROWNING IN YOUR TEARS",
-            "artist": "FUNTASTIC MUSIC"
         }
     ]
 }
