@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WORRY BABY",
-        "artist": "Tom Kellock"
+        "title": "Fast Car",
+        "artist": "Quistetts"
     },
     "recent": [
+        {
+            "title": "DON'T WORRY BABY",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "HEARD IT IN A LOVE SONG",
             "artist": "DUKE OF MORTON"
@@ -39,10 +43,6 @@
         {
             "title": "POETRY MAN",
             "artist": "CAMERON"
-        },
-        {
-            "title": "BACK IN THE CHAIN GANG",
-            "artist": "Harley Brothers"
         }
     ]
 }
