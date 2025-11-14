@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I GOTTA RUN",
-        "artist": "John Morton"
+        "title": "THANK YOU",
+        "artist": "Disk Eyes S.F."
     },
     "recent": [
+        {
+            "title": "I GOTTA RUN",
+            "artist": "John Morton"
+        },
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "ALL I WANNA DO",
             "artist": "Harley"
-        },
-        {
-            "title": "MY FUNNY VALENTINE",
-            "artist": "Manasus Strings"
         }
     ]
 }
