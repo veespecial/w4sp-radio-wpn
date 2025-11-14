@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MY FUNNY VALENTINE",
-        "artist": "Manasus Strings"
+        "title": "ALL I WANNA DO",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "MY FUNNY VALENTINE",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "Till There Was You",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "Walk On By",
             "artist": "Manson Music"
-        },
-        {
-            "title": "CHEHALIS",
-            "artist": "Eric Tingstad"
         }
     ]
 }
