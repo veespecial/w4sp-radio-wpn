@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I CAN LOVE YOU LIKE THAT",
-        "artist": "TOMMY/BRIAN"
+        "title": "I THINK I'LL TELL HIM",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "I CAN LOVE YOU LIKE THAT",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "Yesterday",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "DONE WITH PONAPARTE",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "BLUE BOSSA",
-            "artist": "BRAD ALLISON"
         }
     ]
 }
