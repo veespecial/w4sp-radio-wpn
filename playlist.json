@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WANNA LOSE YOU",
-        "artist": "Curtis Brengle"
+        "title": "ALIEN",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "DON'T WANNA LOSE YOU",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "WHEN SUNNY GETS BLUE",
-            "artist": "BRAD ALLISON"
         }
     ]
 }
