@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Vienna",
-        "artist": "Manson Music"
+        "title": "You Are My Destiny",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "Vienna",
+            "artist": "Manson Music"
+        },
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "APRIL BLUES",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "GOT TO GIVE IT UP",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
