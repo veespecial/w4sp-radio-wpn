@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE WARMTH OF THE SUN",
-        "artist": "MANUSUS/KEEFER"
+        "title": "I'LL NEVER FALL IN LOVE",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "THE WARMTH OF THE SUN",
+            "artist": "MANUSUS/KEEFER"
+        },
         {
             "title": "DREAMBOAT ANNIE",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "THANK YOU",
-            "artist": "Disk Eyes S.F."
         }
     ]
 }
