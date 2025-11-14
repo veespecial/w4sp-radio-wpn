@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "(WILL YOU) COME BACK MY LOVE",
-        "artist": "JOHN GOFORTH"
+        "title": "DON'T WANNA LOSE YOU",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "(WILL YOU) COME BACK MY LOVE",
+            "artist": "JOHN GOFORTH"
+        },
         {
             "title": "LULLABY OF BIRDLAND",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "TROLLY CAR",
-            "artist": "Jennifer Ivester"
         }
     ]
 }
