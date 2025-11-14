@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHENEVER YOU'RE ON MY MIND",
-        "artist": "Clair Marlo"
+        "title": "SHAKE AND BAKE",
+        "artist": "Newhall Collective"
     },
     "recent": [
+        {
+            "title": "WHENEVER YOU'RE ON MY MIND",
+            "artist": "Clair Marlo"
+        },
         {
             "title": "BACK IN THE CHAIN GANG",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "Claudette",
-            "artist": "Disk Eyes London"
         }
     ]
 }
