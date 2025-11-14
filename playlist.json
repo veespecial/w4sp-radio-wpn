@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Love Of My Life",
-        "artist": "Andre Mayeux"
+        "title": "NEW YORK STATE OF MIND",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "Love Of My Life",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "FOOLISH HEART",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "NEVER ENDING SONG OF LOVE",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "SAD SONGS SAY SO MUCH",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
