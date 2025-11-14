@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I CAN DREAM ABOUT YOU",
-        "artist": "Curtis Brengle"
+        "title": "PROMISE AIN'T ENOUGH",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "I CAN DREAM ABOUT YOU",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "I'LL NEVER FALL IN LOVE",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "Sweet Seasons",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "WELCOME TO MY WORLD",
-            "artist": "Kevin Madill-Nashville"
         }
     ]
 }
