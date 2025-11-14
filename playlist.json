@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RAIN AND SHINE",
-        "artist": "Jennifer Ivester"
+        "title": "Claudette",
+        "artist": "Disk Eyes London"
     },
     "recent": [
+        {
+            "title": "RAIN AND SHINE",
+            "artist": "Jennifer Ivester"
+        },
         {
             "title": "How Sweet it is",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "WHAT DOES IT TAKE",
-            "artist": "JON GOFORTH"
         }
     ]
 }
