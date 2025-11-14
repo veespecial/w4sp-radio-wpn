@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THESE DREAMS",
-        "artist": "Curtis Brengle"
+        "title": "THIS MASQUERADE",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "THESE DREAMS",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "DESTINY",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
-        },
-        {
-            "title": "THAT'S WHAT FRIENDS ARE FOR",
-            "artist": "North Point"
         }
     ]
 }
