@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HERE'S THAT RAINY DAY",
-        "artist": "Nick Manson"
+        "title": "Until You Come Back To Me",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "HERE'S THAT RAINY DAY",
+            "artist": "Nick Manson"
+        },
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
-        },
-        {
-            "title": "BAD REPUTATION",
-            "artist": "CHAD STONE BAND"
         }
     ]
 }
