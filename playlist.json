@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wahine",
-        "artist": "Jerry Cortez"
+        "title": "BECAUSE YOU LOVED ME",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "Wahine",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "Until You Come Back To Me",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WANT (TO BE A FOOL)",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "GIRL WITH A RED CARNATION",
-            "artist": "Acoustic Alchemy"
         }
     ]
 }
