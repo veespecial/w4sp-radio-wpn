@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TEARS FROM THE SUN",
-        "artist": "PASERO/SUZUKI-HAWAII"
+        "title": "MY FUNNY VALENTINE",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "TEARS FROM THE SUN",
+            "artist": "PASERO/SUZUKI-HAWAII"
+        },
         {
             "title": "HOW CAN YOU MEND A BROKEN HEART",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "OLD OAK KNOLL",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "WEST AGAIN",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
