@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME FLY WITH ME",
-        "artist": "Harley"
+        "title": "JUST ONE WORD",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "COME FLY WITH ME",
+            "artist": "Harley"
+        },
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "I.G.Y. ( WHAT A BEAUTIFUL WORLD)",
             "artist": "CAMERON"
-        },
-        {
-            "title": "How Deep is Your Love",
-            "artist": "Harley Music"
         }
     ]
 }
