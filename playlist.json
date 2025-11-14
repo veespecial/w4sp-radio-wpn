@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sun King",
-        "artist": "San Francisco"
+        "title": "NEVER ENDING SONG OF LOVE",
+        "artist": "DUKE OF MORTON"
     },
     "recent": [
+        {
+            "title": "Sun King",
+            "artist": "San Francisco"
+        },
         {
             "title": "RUNAWAY",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "(WILL YOU) COME BACK MY LOVE",
             "artist": "JOHN GOFORTH"
-        },
-        {
-            "title": "LULLABY OF BIRDLAND",
-            "artist": "Harley"
         }
     ]
 }
