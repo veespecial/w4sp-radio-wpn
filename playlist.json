@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
-        "artist": "JOHN GOFORTH"
+        "title": "WHEN SUNNY GETS BLUE",
+        "artist": "BRAD ALLISON"
     },
     "recent": [
+        {
+            "title": "(IF LOVING YOU IS WRONG) I DON'T WANT TO BE RIGHT",
+            "artist": "JOHN GOFORTH"
+        },
         {
             "title": "SARA SMILE",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "MORE THAN THIS",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
