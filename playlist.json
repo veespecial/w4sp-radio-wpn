@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TO LOVE YOU MORE",
-        "artist": "Frank Josephs"
+        "title": "CHEHALIS",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "TO LOVE YOU MORE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "MORE THAN THIS",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
-        },
-        {
-            "title": "CAN WE TALK",
-            "artist": "South Point"
         }
     ]
 }
