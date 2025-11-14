@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BACK STABBERS",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "FAIR TOMORROW",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "BACK STABBERS",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "TROPIC OF CAPRICORN",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR PRECIOUS LOVE",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "You Make Lovin' Fun",
-            "artist": "Harley Bros."
         }
     ]
 }
