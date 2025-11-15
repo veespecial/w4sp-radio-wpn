@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SUNNY CAME HOME",
-        "artist": "MOORE and BRENGLE"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "SUNNY CAME HOME",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "HOW MUCH I FEEL",
             "artist": "CAMERON"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WORRY BABY",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "RAIN AND SHINE",
-            "artist": "Jennifer Ivester"
         }
     ]
 }
