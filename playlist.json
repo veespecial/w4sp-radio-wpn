@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MAGNOLIA",
-        "artist": "Eric Tingstad"
+        "title": "SUMMER WIND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "MAGNOLIA",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "Elfi's Tune",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "Sun King",
             "artist": "San Francisco"
-        },
-        {
-            "title": "Ooh Baby Baby",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
