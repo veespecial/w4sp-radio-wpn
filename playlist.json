@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAN I CHANGE MY MIND",
-        "artist": "Politzer/Withycombe"
+        "title": "RAIN AND SHINE",
+        "artist": "Jennifer Ivester"
     },
     "recent": [
+        {
+            "title": "CAN I CHANGE MY MIND",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "Fly'n",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "COME RAIN OR COME SHINE",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "DAYS AGO",
-            "artist": "Andy Suzuki"
         }
     ]
 }
