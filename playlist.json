@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF TOMORROW NEVER COMES",
-        "artist": "Josephs Band"
+        "title": "Day Dreaming",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "IF TOMORROW NEVER COMES",
+            "artist": "Josephs Band"
+        },
         {
             "title": "MY FUNNY VALENTINE",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "SWEET TALK THE BOSSA",
             "artist": "RICK SCHMUNK"
-        },
-        {
-            "title": "JULIA",
-            "artist": "North Point"
         }
     ]
 }
