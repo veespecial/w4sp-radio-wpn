@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BROWN EYED GIRL",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "ALIEN",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "BROWN EYED GIRL",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "HERE'S THAT RAINY DAY",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "HEART LESS ONE",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "WILD AND FREE",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
