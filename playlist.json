@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HALE KAMAOLE",
-        "artist": "Jennifer Ivester"
+        "title": "NEW KID AROUND",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "HALE KAMAOLE",
+            "artist": "Jennifer Ivester"
+        },
         {
             "title": "JULIA",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "APPALACHIA CALLING",
-            "artist": "Eric Tingstad"
         }
     ]
 }
