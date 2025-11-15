@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEXT EVENT",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "I'm Happy Just to Dance with You",
+        "artist": "Disk Eyes London"
     },
     "recent": [
+        {
+            "title": "NEXT EVENT",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "Kiss Me",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "WHAT DOES IT TAKE",
             "artist": "JON GOFORTH"
-        },
-        {
-            "title": "RUBY BABY",
-            "artist": "Funtastic"
         }
     ]
 }
