@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAD SONGS SAY SO MUCH",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "SAD SONGS SAY SO MUCH",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "SAY YOU LOVE ME",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "YOUR'E NO GOOD",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
