@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWEET LITTLE THANG",
-        "artist": "Brian Withycombe"
+        "title": "STARDUST",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "SWEET LITTLE THANG",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "BAD REPUTATION",
             "artist": "CHAD STONE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "DESAFINADO",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "ALL I'VE GOT TO DO",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
