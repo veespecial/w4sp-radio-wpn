@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SMOOTH OPERATOR",
-        "artist": "Josephs Band"
+        "title": "Tempted",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "SMOOTH OPERATOR",
+            "artist": "Josephs Band"
+        },
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "BLUE BOSSA",
             "artist": "BRAD ALLISON"
-        },
-        {
-            "title": "SWEET TALK THE BOSSA",
-            "artist": "RICK SCHMUNK"
         }
     ]
 }
