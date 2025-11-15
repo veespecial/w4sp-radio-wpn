@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GAUCHO",
-        "artist": "North Point"
+        "title": "SOMETHING THAT WE DO",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "GAUCHO",
+            "artist": "North Point"
+        },
         {
             "title": "ONSTREAM",
             "artist": "Frank Joseph's Group"
@@ -39,10 +43,6 @@
         {
             "title": "BAD REPUTATION",
             "artist": "CHAD STONE BAND"
-        },
-        {
-            "title": "Nobody Does It Better",
-            "artist": "Tom Politzer"
         }
     ]
 }
