@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AFTER ALL",
-        "artist": "Nick Manson"
+        "title": "WEST AGAIN",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "AFTER ALL",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Tears In Heaven",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
-        },
-        {
-            "title": "GIVING YOU THE BEST THAT I GOT",
-            "artist": "Curtis Brengle"
         }
     ]
 }
