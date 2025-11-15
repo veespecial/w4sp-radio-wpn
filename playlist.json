@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Walk On By",
-        "artist": "Manson Music"
+        "title": "HOT SAUCE",
+        "artist": "Eric Tingstad"
     },
     "recent": [
+        {
+            "title": "Walk On By",
+            "artist": "Manson Music"
+        },
         {
             "title": "Make it With You",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "WILD AND FREE",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "SOME ENCHANTED EVENING",
-            "artist": "Manasus Strings"
         }
     ]
 }
