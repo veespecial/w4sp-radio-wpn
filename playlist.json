@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SACRIFICE",
-        "artist": "MANSON/MARROW/HALL"
+        "title": "Terpsichore",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "SACRIFICE",
+            "artist": "MANSON/MARROW/HALL"
+        },
         {
             "title": "THAT'S WHAT FRIENDS ARE FOR",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "GOT TO GIVE IT UP",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "BEACON",
-            "artist": "RICK SCHMUNK"
         }
     ]
 }
