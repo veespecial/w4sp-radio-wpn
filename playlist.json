@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You're the Best Thing",
-        "artist": "DAVE PATT"
+        "title": "I WANT TO THANK YOU",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "You're the Best Thing",
+            "artist": "DAVE PATT"
+        },
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
-        },
-        {
-            "title": "STARDUST",
-            "artist": "LENNY MOORE"
         }
     ]
 }
