@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "APPALACHIA CALLING",
-        "artist": "Eric Tingstad"
+        "title": "Poor Side Of Town",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "APPALACHIA CALLING",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "Tempted",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "ONCE AND FUTURE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "CAMILLA",
-            "artist": "Jerry Cortez"
         }
     ]
 }
