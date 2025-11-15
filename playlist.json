@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WORRY BABY",
-        "artist": "Tom Kellock"
+        "title": "TIL I HEAR IT FROM YOU",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "DON'T WORRY BABY",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "RAIN AND SHINE",
             "artist": "Jennifer Ivester"
@@ -39,10 +43,6 @@
         {
             "title": "HERE'S THAT RAINY DAY",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
