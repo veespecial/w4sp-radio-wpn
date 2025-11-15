@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU'RE THE INSPIRATION",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "RUBY BABY",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "YOU'RE THE INSPIRATION",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "CHEHALIS",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "I WANT TO THANK YOU",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "You're the Best Thing",
-            "artist": "DAVE PATT"
         }
     ]
 }
