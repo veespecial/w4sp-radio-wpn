@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AIN'T MISBEHAVIN",
-        "artist": "BRAD ALLISON"
+        "title": "GIMME LITTLE SIGN",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "AIN'T MISBEHAVIN",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "CLOUDY",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "SOMETIME BRAZIL",
-            "artist": "Andy Suzuki"
         }
     ]
 }
