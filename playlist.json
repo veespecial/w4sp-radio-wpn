@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SARA SMILE",
-        "artist": "CHAD STONE BAND"
+        "title": "DON'T WANNA LOSE YOU",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "SARA SMILE",
+            "artist": "CHAD STONE BAND"
+        },
         {
             "title": "YOU ARE EVERYTHING",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN DREAM ABOUT YOU",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "GOOD LIFE",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
