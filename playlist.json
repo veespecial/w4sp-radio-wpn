@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Footprints",
-        "artist": "Melissa Siegel"
+        "title": "QUEEN OF HEARTS",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "Footprints",
+            "artist": "Melissa Siegel"
+        },
         {
             "title": "ANGELA",
             "artist": "Douglas Barnett"
@@ -39,10 +43,6 @@
         {
             "title": "BODY AND SOUL",
             "artist": "DAVE DYSART"
-        },
-        {
-            "title": "FOREVER MORE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
