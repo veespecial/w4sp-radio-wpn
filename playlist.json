@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LOVE WILL CONQUER ALL",
-        "artist": "Tom Kellock"
+        "title": "NEVER CAN SAY GOODBYE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "LOVE WILL CONQUER ALL",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "Jo Jo",
             "artist": "Quist"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "I JUST WANNA STOP",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
