@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Go Crazy",
-        "artist": "David Patt"
+        "title": "Make it With You",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "I Go Crazy",
+            "artist": "David Patt"
+        },
         {
             "title": "Sun King",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "LULLABY OF BIRDLAND",
             "artist": "Harley"
-        },
-        {
-            "title": "Millennium",
-            "artist": "Harley Brothers"
         }
     ]
 }
