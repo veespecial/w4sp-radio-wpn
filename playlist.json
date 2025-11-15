@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WANT (TO BE A FOOL)",
-        "artist": "LENNY MOORE"
+        "title": "RUNAWAY",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "DON'T WANT (TO BE A FOOL)",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "Don't Let Me be Lonely Tonight",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "Jo Jo",
-            "artist": "Quist"
         }
     ]
 }
