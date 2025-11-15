@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "QUEEN OF HEARTS",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "CLOUDY",
+        "artist": "NORTHPOINT"
     },
     "recent": [
+        {
+            "title": "QUEEN OF HEARTS",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "NORWEGAIN WOOD",
             "artist": "DUKE OF MORTON"
-        },
-        {
-            "title": "BODY AND SOUL",
-            "artist": "DAVE DYSART"
         }
     ]
 }
