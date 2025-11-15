@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEART LESS ONE",
-        "artist": "Brian Withycombe"
+        "title": "THE WARMTH OF THE SUN",
+        "artist": "MANUSUS/KEEFER"
     },
     "recent": [
+        {
+            "title": "HEART LESS ONE",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "You Make Lovin' Fun",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Fast Car",
             "artist": "Quistetts"
-        },
-        {
-            "title": "Black Cow",
-            "artist": "Andy Suzuki"
         }
     ]
 }
