@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LONG AGO",
-        "artist": "Dave Keenan"
+        "title": "You Are My Destiny",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "LONG AGO",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
@@ -39,10 +43,6 @@
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
-        },
-        {
-            "title": "IF WE FALL IN LOVE AGAIN",
-            "artist": "Tom Kellock"
         }
     ]
 }
