@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SUMMER WIND",
-        "artist": "Harley"
+        "title": "You Make Lovin' Fun",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "SUMMER WIND",
+            "artist": "Harley"
+        },
         {
             "title": "MAGNOLIA",
             "artist": "Eric Tingstad"
@@ -39,10 +43,6 @@
         {
             "title": "I Go Crazy",
             "artist": "David Patt"
-        },
-        {
-            "title": "Sun King",
-            "artist": "San Francisco"
         }
     ]
 }
