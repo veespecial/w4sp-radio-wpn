@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Favorite Mistake",
-        "artist": "Frank Josephs"
+        "title": "DIXIE MOON",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "My Favorite Mistake",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "Tears In Heaven",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "SHAKE AND BAKE",
             "artist": "Newhall Collective"
-        },
-        {
-            "title": "PROMISE AIN'T ENOUGH",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
