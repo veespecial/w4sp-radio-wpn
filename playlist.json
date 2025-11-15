@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'M BEGINNING TO SEE THE LIGHT",
-        "artist": "April Barrows"
+        "title": "HEY GIRL",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "I'M BEGINNING TO SEE THE LIGHT",
+            "artist": "April Barrows"
+        },
         {
             "title": "YOU'RE GETTING TO BE A HABIT WITH ME",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "NEPTUNE",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "OLD OAK KNOLL",
-            "artist": "Nick Manson"
         }
     ]
 }
