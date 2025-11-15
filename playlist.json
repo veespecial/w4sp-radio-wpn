@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CHEHALIS",
-        "artist": "Eric Tingstad"
+        "title": "WHENEVER YOU'RE ON MY MIND",
+        "artist": "Clair Marlo"
     },
     "recent": [
+        {
+            "title": "CHEHALIS",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "GIVING YOU THE BEST THAT I GOT",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "Yesterday",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "WINDLESS",
-            "artist": "Michael Strickland"
         }
     ]
 }
