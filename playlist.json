@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Alison",
-        "artist": "Quistetts"
+        "title": "NEVER CAN SAY GOODBYE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "Alison",
+            "artist": "Quistetts"
+        },
         {
             "title": "AFTER ALL",
             "artist": "Nick Manson"
@@ -38,10 +42,6 @@
         },
         {
             "title": "DON'T GO BREAKIN MY HEART",
-            "artist": "Devlin's Strings"
-        },
-        {
-            "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
         }
     ]
