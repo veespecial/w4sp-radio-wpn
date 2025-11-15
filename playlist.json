@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DAYS AGO",
-        "artist": "Andy Suzuki"
+        "title": "COME RAIN OR COME SHINE",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "DAYS AGO",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "I'm Happy Just to Dance with You",
             "artist": "Disk Eyes London"
@@ -39,10 +43,6 @@
         {
             "title": "Paramour",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "Till There Was You",
-            "artist": "Dave Raynor"
         }
     ]
 }
