@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHERE IS THE LOVE",
-        "artist": "Tom Kellock"
+        "title": "THANK YOU",
+        "artist": "Disk Eyes S.F."
     },
     "recent": [
+        {
+            "title": "WHERE IS THE LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "DESAFINADO",
             "artist": "BRAD ALLISON"
@@ -39,10 +43,6 @@
         {
             "title": "Walk On By",
             "artist": "Manson Music"
-        },
-        {
-            "title": "ORDINARY WORLD",
-            "artist": "Devlin's Strings"
         }
     ]
 }
