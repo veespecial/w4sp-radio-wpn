@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW BEGINNING",
-        "artist": "RICK SCHMUNK"
+        "title": "HAKUNA MATATA",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "NEW BEGINNING",
+            "artist": "RICK SCHMUNK"
+        },
         {
             "title": "MORE THAN THIS",
             "artist": "Disk Eyes S.F."
@@ -39,10 +43,6 @@
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
-        },
-        {
-            "title": "MAGNOLIA",
-            "artist": "Eric Tingstad"
         }
     ]
 }
