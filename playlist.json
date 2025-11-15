@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE STRANGER",
-        "artist": "North Point"
+        "title": "ALL I'VE GOT TO DO",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "THE STRANGER",
+            "artist": "North Point"
+        },
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
@@ -39,10 +43,6 @@
         {
             "title": "HERO",
             "artist": "JON GOFORTH"
-        },
-        {
-            "title": "GREEN FLOWER STREET",
-            "artist": "Funtastic"
         }
     ]
 }
