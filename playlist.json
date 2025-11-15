@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BEACON",
-        "artist": "RICK SCHMUNK"
+        "title": "GOT TO GIVE IT UP",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "BEACON",
+            "artist": "RICK SCHMUNK"
+        },
         {
             "title": "EARTH ANGERL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "CHERYL'S GIFT",
             "artist": "Douglas Barnett"
-        },
-        {
-            "title": "WHAT'S GOIN ON",
-            "artist": "Josephs Band"
         }
     ]
 }
