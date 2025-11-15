@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CHEHALIS",
-        "artist": "Eric Tingstad"
+        "title": "YOU'RE THE INSPIRATION",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "CHEHALIS",
+            "artist": "Eric Tingstad"
+        },
         {
             "title": "GIRL WITH A RED CARNATION",
             "artist": "Acoustic Alchemy"
@@ -39,10 +43,6 @@
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
-        },
-        {
-            "title": "SOMEWHERE IN THE WORLD",
-            "artist": "David Patt"
         }
     ]
 }
