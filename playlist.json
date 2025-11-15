@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Jo Jo",
-        "artist": "Quist"
+        "title": "LOVE WILL CONQUER ALL",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "Jo Jo",
+            "artist": "Quist"
+        },
         {
             "title": "DA DA",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "GIMME LITTLE SIGN",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
