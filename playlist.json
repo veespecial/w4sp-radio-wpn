@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LONG AGO",
-        "artist": "Dave Keenan"
+        "title": "SUMMER WIND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "LONG AGO",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
@@ -39,10 +43,6 @@
         {
             "title": "YOU ARE EVERYTHING",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "BEACON",
-            "artist": "RICK SCHMUNK"
         }
     ]
 }
