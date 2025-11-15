@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Reflection",
-        "artist": "Los Devlin Strings"
+        "title": "I CAN DREAM ABOUT YOU",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "Reflection",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "Make it With You",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "SUNNY CAME HOME",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "HOW MUCH I FEEL",
-            "artist": "CAMERON"
         }
     ]
 }
