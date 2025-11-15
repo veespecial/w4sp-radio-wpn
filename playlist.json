@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL NEVER FALL IN LOVE",
-        "artist": "Andre Mayeux"
+        "title": "IT'S ALL ABOUT YOU",
+        "artist": "FUNTASTIK"
     },
     "recent": [
+        {
+            "title": "I'LL NEVER FALL IN LOVE",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "BECAUSE YOU LOVED ME",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "NEW BEGINNING",
             "artist": "RICK SCHMUNK"
-        },
-        {
-            "title": "MORE THAN THIS",
-            "artist": "Disk Eyes S.F."
         }
     ]
 }
