@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU ARE EVERYTHING",
-        "artist": "STANDING PATT MUSIC"
+        "title": "SARA SMILE",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "YOU ARE EVERYTHING",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "BEACON",
             "artist": "RICK SCHMUNK"
@@ -39,10 +43,6 @@
         {
             "title": "GOOD LIFE",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "IF WE FALL IN LOVE AGAIN",
-            "artist": "Tom Kellock"
         }
     ]
 }
