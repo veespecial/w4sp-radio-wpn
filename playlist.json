@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BECAUSE YOU LOVED ME",
-        "artist": "North Point"
+        "title": "I'LL NEVER FALL IN LOVE",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "BECAUSE YOU LOVED ME",
+            "artist": "North Point"
+        },
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "MORE THAN THIS",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "SILVER SPRINGS",
-            "artist": "Harley Brothers"
         }
     ]
 }
