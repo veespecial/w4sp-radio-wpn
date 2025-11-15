@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHEN SUNNY GETS BLUE",
-        "artist": "BRAD ALLISON"
+        "title": "FOR ONCE IN MY LIFE",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "WHEN SUNNY GETS BLUE",
+            "artist": "BRAD ALLISON"
+        },
         {
             "title": "Sweet Seasons",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Alison",
             "artist": "Quistetts"
-        },
-        {
-            "title": "AFTER ALL",
-            "artist": "Nick Manson"
         }
     ]
 }
