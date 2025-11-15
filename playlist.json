@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DONE WITH PONAPARTE",
-        "artist": "Moro-Eden"
+        "title": "THE WARMTH OF THE SUN",
+        "artist": "MANUSUS/KEEFER"
     },
     "recent": [
+        {
+            "title": "DONE WITH PONAPARTE",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "You Make Lovin' Fun",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Reflection",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "Make it With You",
-            "artist": "Daniel Ho"
         }
     ]
 }
