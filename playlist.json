@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAN WE TALK",
-        "artist": "South Point"
+        "title": "JUST ONE WORD",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "CAN WE TALK",
+            "artist": "South Point"
+        },
         {
             "title": "BACK IN THE CHAIN GANG",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "Fast Car",
             "artist": "Quistetts"
-        },
-        {
-            "title": "I Only Have Eyes for You",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
