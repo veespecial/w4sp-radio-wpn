@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Paramour",
-        "artist": "Dave Keenan"
+        "title": "JUST THE TWO OF US",
+        "artist": "CHAD STONE BAND"
     },
     "recent": [
+        {
+            "title": "Paramour",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "Till There Was You",
             "artist": "Dave Raynor"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T DREAM IT'S OVER",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "NEW YORK STATE OF MIND",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
