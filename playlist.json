@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAD SONGS SAY SO MUCH",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "I GOTTA RUN",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "SAD SONGS SAY SO MUCH",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "HOW MUCH I FEEL",
             "artist": "CAMERON"
@@ -39,10 +43,6 @@
         {
             "title": "RUNAWAY",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "DON'T WANT (TO BE A FOOL)",
-            "artist": "LENNY MOORE"
         }
     ]
 }
