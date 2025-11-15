@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I JUST WANNA STOP",
-        "artist": "MANASUS MUSIC"
+        "title": "Jo Jo",
+        "artist": "Quist"
     },
     "recent": [
+        {
+            "title": "I JUST WANNA STOP",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "SUNNY CAME HOME",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "YOU DON'T KNOW ME",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "SAVING ALL MY LOVE FOR YOU",
-            "artist": "NORTHPOINT"
         }
     ]
 }
