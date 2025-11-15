@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUNAWAY",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "I Go Crazy",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "RUNAWAY",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "DON'T WANT (TO BE A FOOL)",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "BACK STABBERS",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "BABYLON SISTERS",
-            "artist": "Tom Politzer"
         }
     ]
 }
