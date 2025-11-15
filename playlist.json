@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Reflection",
-        "artist": "Los Devlin Strings"
+        "title": "I Only Have Eyes for You",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "Reflection",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "HOW MUCH I FEEL",
             "artist": "CAMERON"
-        },
-        {
-            "title": "Yesterday",
-            "artist": "Josephs Band"
         }
     ]
 }
