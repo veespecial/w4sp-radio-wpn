@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALIEN",
-        "artist": "Funtastic"
+        "title": "Millennium",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "ALIEN",
+            "artist": "Funtastic"
+        },
         {
             "title": "FOR ONCE IN MY LIFE",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "NEVER CAN SAY GOODBYE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
