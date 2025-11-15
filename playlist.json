@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOW CAN YOU MEND A BROKEN HEART",
-        "artist": "Moro-Eden"
+        "title": "HEY GIRL",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "HOW CAN YOU MEND A BROKEN HEART",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "IF TOMORROW NEVER COMES",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "Kiss Me",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "LIVELY UP YOURSELF",
-            "artist": "Tom Politzer"
         }
     ]
 }
