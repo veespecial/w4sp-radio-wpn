@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SLEEPING CAT DANCE",
-        "artist": "Nick Manson"
+        "title": "JULIA",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "SLEEPING CAT DANCE",
+            "artist": "Nick Manson"
+        },
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Tempted",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "SMOOTH OPERATOR",
-            "artist": "Josephs Band"
         }
     ]
 }
