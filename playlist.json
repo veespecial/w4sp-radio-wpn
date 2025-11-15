@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANGELA",
-        "artist": "Douglas Barnett"
+        "title": "Ooh Baby Baby",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "ANGELA",
+            "artist": "Douglas Barnett"
+        },
         {
             "title": "ANOTHER SAD LOVE SONG",
             "artist": "Mike Jaap"
@@ -39,10 +43,6 @@
         {
             "title": "BODY AND SOUL",
             "artist": "DAVE DYSART"
-        },
-        {
-            "title": "CUCHAMA",
-            "artist": "Govi"
         }
     ]
 }
