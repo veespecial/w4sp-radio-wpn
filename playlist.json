@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BY THE TIME YOU FORGET",
-        "artist": "Andy Suzuki"
+        "title": "HOW DO I LIVE",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "BY THE TIME YOU FORGET",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "HOW CAN YOU MEND A BROKEN HEART",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "Sweet Seasons",
-            "artist": "Harley Bros."
         }
     ]
 }
