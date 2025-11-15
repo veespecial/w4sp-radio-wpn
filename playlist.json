@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Matter Of Time",
-        "artist": "Jerry Cortez"
+        "title": "YOUR SECRET LOVE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "Matter Of Time",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "POETRY MAN",
             "artist": "CAMERON"
-        },
-        {
-            "title": "NEW KID AROUND",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
