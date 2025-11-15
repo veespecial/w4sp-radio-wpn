@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T LOOK BACK",
-        "artist": "Harley"
+        "title": "I Only Have Eyes for You",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "DON'T LOOK BACK",
+            "artist": "Harley"
+        },
         {
             "title": "CHERYL'S GIFT",
             "artist": "Douglas Barnett"
@@ -39,10 +43,6 @@
         {
             "title": "THANK YOU",
             "artist": "Disk Eyes S.F."
-        },
-        {
-            "title": "WHERE IS THE LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
